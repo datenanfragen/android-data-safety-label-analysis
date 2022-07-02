@@ -1,0 +1,17 @@
+{
+    "name": "data-safety-label-analysis",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Benjamin Altpeter <benjamin@oldpeter.de>",
+    "license": "MIT",
+    "dependencies": {
+        "@sindresorhus/chunkify": "^0.2.0",
+        "dotenv": "^16.0.1",
+        "es-dirname": "^0.1.0",
+        "parse-play": "^2.1.0",
+        "pg-promise": "^10.11.1"
+    },
+    "devDependencies": {
+        "@types/node": "^18.0.0"
+    }
+}
