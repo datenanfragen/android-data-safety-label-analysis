@@ -1,0 +1,2653 @@
+app,data_type,declared
+de.ernstings,Location,correctly_undeclared
+de.ernstings,SMS or MMS,correctly_undeclared
+de.ernstings,Contacts,correctly_undeclared
+de.ernstings,Diagnostics,unnecessarily_declared
+de.ernstings,Other app performance data,unnecessarily_declared
+de.ernstings,Device or other IDs,unnecessarily_declared
+de.tchibo.app,Location,correctly_undeclared
+de.tchibo.app,SMS or MMS,correctly_undeclared
+de.tchibo.app,Contacts,correctly_undeclared
+de.tchibo.app,Diagnostics,unnecessarily_declared
+de.tchibo.app,Other app performance data,unnecessarily_declared
+de.tchibo.app,Device or other IDs,unnecessarily_declared
+com.piriform.ccleaner,Location,unnecessarily_declared
+com.piriform.ccleaner,SMS or MMS,correctly_undeclared
+com.piriform.ccleaner,Contacts,correctly_undeclared
+com.piriform.ccleaner,Diagnostics,unnecessarily_declared
+com.piriform.ccleaner,Other app performance data,unnecessarily_declared
+com.piriform.ccleaner,Device or other IDs,correctly_declared
+de.momox,Location,unnecessarily_declared
+de.momox,SMS or MMS,correctly_undeclared
+de.momox,Contacts,correctly_undeclared
+de.momox,Diagnostics,unnecessarily_declared
+de.momox,Other app performance data,correctly_undeclared
+de.momox,Device or other IDs,correctly_declared
+de.is24.android,Location,correctly_undeclared
+de.is24.android,SMS or MMS,correctly_undeclared
+de.is24.android,Contacts,correctly_undeclared
+de.is24.android,Diagnostics,unnecessarily_declared
+de.is24.android,Other app performance data,correctly_undeclared
+de.is24.android,Device or other IDs,unnecessarily_declared
+com.getyourguide.android,Location,correctly_undeclared
+com.getyourguide.android,SMS or MMS,correctly_undeclared
+com.getyourguide.android,Contacts,correctly_undeclared
+com.getyourguide.android,Diagnostics,unnecessarily_declared
+com.getyourguide.android,Other app performance data,correctly_undeclared
+com.getyourguide.android,Device or other IDs,correctly_declared
+com.bumble.app,Location,unnecessarily_declared
+com.bumble.app,SMS or MMS,correctly_undeclared
+com.bumble.app,Contacts,correctly_undeclared
+com.bumble.app,Diagnostics,unnecessarily_declared
+com.bumble.app,Other app performance data,unnecessarily_declared
+com.bumble.app,Device or other IDs,unnecessarily_declared
+de.rossmann.app.android,Location,correctly_undeclared
+de.rossmann.app.android,SMS or MMS,correctly_undeclared
+de.rossmann.app.android,Contacts,correctly_undeclared
+de.rossmann.app.android,Diagnostics,correctly_undeclared
+de.rossmann.app.android,Other app performance data,wrongly_undeclared
+de.rossmann.app.android,Device or other IDs,correctly_declared
+com.ubercab.eats,Location,unnecessarily_declared
+com.ubercab.eats,SMS or MMS,correctly_undeclared
+com.ubercab.eats,Contacts,unnecessarily_declared
+com.ubercab.eats,Diagnostics,correctly_undeclared
+com.ubercab.eats,Other app performance data,correctly_undeclared
+com.ubercab.eats,Device or other IDs,correctly_declared
+com.what3words.android,Location,unnecessarily_declared
+com.what3words.android,SMS or MMS,correctly_undeclared
+com.what3words.android,Contacts,correctly_undeclared
+com.what3words.android,Diagnostics,correctly_declared
+com.what3words.android,Other app performance data,wrongly_undeclared
+com.what3words.android,Device or other IDs,correctly_declared
+com.wetter.androidclient,Location,unnecessarily_declared
+com.wetter.androidclient,SMS or MMS,correctly_undeclared
+com.wetter.androidclient,Contacts,correctly_undeclared
+com.wetter.androidclient,Diagnostics,unnecessarily_declared
+com.wetter.androidclient,Other app performance data,wrongly_undeclared
+com.wetter.androidclient,Device or other IDs,correctly_declared
+in.sweatco.app,Location,correctly_undeclared
+in.sweatco.app,SMS or MMS,correctly_undeclared
+in.sweatco.app,Contacts,correctly_undeclared
+in.sweatco.app,Diagnostics,wrongly_undeclared
+in.sweatco.app,Other app performance data,correctly_undeclared
+in.sweatco.app,Device or other IDs,wrongly_undeclared
+com.steuerbot,Location,correctly_undeclared
+com.steuerbot,SMS or MMS,correctly_undeclared
+com.steuerbot,Contacts,correctly_undeclared
+com.steuerbot,Diagnostics,unnecessarily_declared
+com.steuerbot,Other app performance data,unnecessarily_declared
+com.steuerbot,Device or other IDs,correctly_declared
+de.hafas.android.db,Location,correctly_undeclared
+de.hafas.android.db,SMS or MMS,correctly_undeclared
+de.hafas.android.db,Contacts,correctly_undeclared
+de.hafas.android.db,Diagnostics,unnecessarily_declared
+de.hafas.android.db,Other app performance data,correctly_undeclared
+de.hafas.android.db,Device or other IDs,unnecessarily_declared
+de.meinprospekt.android,Location,unnecessarily_declared
+de.meinprospekt.android,SMS or MMS,correctly_undeclared
+de.meinprospekt.android,Contacts,correctly_undeclared
+de.meinprospekt.android,Diagnostics,unnecessarily_declared
+de.meinprospekt.android,Other app performance data,correctly_undeclared
+de.meinprospekt.android,Device or other IDs,correctly_declared
+de.nextbike,Location,unnecessarily_declared
+de.nextbike,SMS or MMS,correctly_undeclared
+de.nextbike,Contacts,correctly_undeclared
+de.nextbike,Diagnostics,unnecessarily_declared
+de.nextbike,Other app performance data,correctly_undeclared
+de.nextbike,Device or other IDs,unnecessarily_declared
+com.revolut.revolut,Location,unnecessarily_declared
+com.revolut.revolut,SMS or MMS,correctly_undeclared
+com.revolut.revolut,Contacts,unnecessarily_declared
+com.revolut.revolut,Diagnostics,correctly_declared
+com.revolut.revolut,Other app performance data,wrongly_undeclared
+com.revolut.revolut,Device or other IDs,correctly_declared
+musicplayer.musicapps.music.mp3player,Location,correctly_undeclared
+musicplayer.musicapps.music.mp3player,SMS or MMS,correctly_undeclared
+musicplayer.musicapps.music.mp3player,Contacts,correctly_undeclared
+musicplayer.musicapps.music.mp3player,Diagnostics,unnecessarily_declared
+musicplayer.musicapps.music.mp3player,Other app performance data,correctly_undeclared
+musicplayer.musicapps.music.mp3player,Device or other IDs,correctly_declared
+de.ghs.gmh,Location,correctly_undeclared
+de.ghs.gmh,SMS or MMS,correctly_undeclared
+de.ghs.gmh,Contacts,correctly_undeclared
+de.ghs.gmh,Diagnostics,correctly_undeclared
+de.ghs.gmh,Other app performance data,correctly_undeclared
+de.ghs.gmh,Device or other IDs,correctly_undeclared
+com.vitotechnology.StarWalk2Free,Location,unnecessarily_declared
+com.vitotechnology.StarWalk2Free,SMS or MMS,correctly_undeclared
+com.vitotechnology.StarWalk2Free,Contacts,correctly_undeclared
+com.vitotechnology.StarWalk2Free,Diagnostics,correctly_declared
+com.vitotechnology.StarWalk2Free,Other app performance data,correctly_declared
+com.vitotechnology.StarWalk2Free,Device or other IDs,correctly_declared
+com.canda.mobileapp,Location,correctly_undeclared
+com.canda.mobileapp,SMS or MMS,correctly_undeclared
+com.canda.mobileapp,Contacts,correctly_undeclared
+com.canda.mobileapp,Diagnostics,unnecessarily_declared
+com.canda.mobileapp,Other app performance data,wrongly_undeclared
+com.canda.mobileapp,Device or other IDs,wrongly_undeclared
+com.microblink.photomath,Location,unnecessarily_declared
+com.microblink.photomath,SMS or MMS,correctly_undeclared
+com.microblink.photomath,Contacts,correctly_undeclared
+com.microblink.photomath,Diagnostics,unnecessarily_declared
+com.microblink.photomath,Other app performance data,unnecessarily_declared
+com.microblink.photomath,Device or other IDs,correctly_declared
+com.free.vpn.super.hotspot.open,Location,correctly_undeclared
+com.free.vpn.super.hotspot.open,SMS or MMS,correctly_undeclared
+com.free.vpn.super.hotspot.open,Contacts,correctly_undeclared
+com.free.vpn.super.hotspot.open,Diagnostics,unnecessarily_declared
+com.free.vpn.super.hotspot.open,Other app performance data,correctly_undeclared
+com.free.vpn.super.hotspot.open,Device or other IDs,correctly_declared
+de.dominos.android,Location,correctly_undeclared
+de.dominos.android,SMS or MMS,correctly_undeclared
+de.dominos.android,Contacts,correctly_undeclared
+de.dominos.android,Diagnostics,unnecessarily_declared
+de.dominos.android,Other app performance data,correctly_declared
+de.dominos.android,Device or other IDs,correctly_declared
+qrcodescanner.barcodescanner.qrscanner.qrcodereader,Location,correctly_undeclared
+qrcodescanner.barcodescanner.qrscanner.qrcodereader,SMS or MMS,correctly_undeclared
+qrcodescanner.barcodescanner.qrscanner.qrcodereader,Contacts,correctly_undeclared
+qrcodescanner.barcodescanner.qrscanner.qrcodereader,Diagnostics,unnecessarily_declared
+qrcodescanner.barcodescanner.qrscanner.qrcodereader,Other app performance data,correctly_undeclared
+qrcodescanner.barcodescanner.qrscanner.qrcodereader,Device or other IDs,correctly_declared
+com.whatsapp,Location,unnecessarily_declared
+com.whatsapp,SMS or MMS,correctly_undeclared
+com.whatsapp,Contacts,unnecessarily_declared
+com.whatsapp,Diagnostics,unnecessarily_declared
+com.whatsapp,Other app performance data,unnecessarily_declared
+com.whatsapp,Device or other IDs,unnecessarily_declared
+de.heute.mobile,Location,correctly_undeclared
+de.heute.mobile,SMS or MMS,correctly_undeclared
+de.heute.mobile,Contacts,correctly_undeclared
+de.heute.mobile,Diagnostics,correctly_undeclared
+de.heute.mobile,Other app performance data,wrongly_undeclared
+de.heute.mobile,Device or other IDs,correctly_declared
+epson.print,Location,unnecessarily_declared
+epson.print,SMS or MMS,correctly_undeclared
+epson.print,Contacts,correctly_undeclared
+epson.print,Diagnostics,correctly_undeclared
+epson.print,Other app performance data,correctly_undeclared
+epson.print,Device or other IDs,correctly_undeclared
+de.blitzer,Location,wrongly_undeclared
+de.blitzer,SMS or MMS,correctly_undeclared
+de.blitzer,Contacts,correctly_undeclared
+de.blitzer,Diagnostics,correctly_undeclared
+de.blitzer,Other app performance data,correctly_undeclared
+de.blitzer,Device or other IDs,correctly_undeclared
+com.snapchat.android,Location,unnecessarily_declared
+com.snapchat.android,SMS or MMS,correctly_undeclared
+com.snapchat.android,Contacts,unnecessarily_declared
+com.snapchat.android,Diagnostics,unnecessarily_declared
+com.snapchat.android,Other app performance data,unnecessarily_declared
+com.snapchat.android,Device or other IDs,unnecessarily_declared
+com.smule.singandroid,Location,unnecessarily_declared
+com.smule.singandroid,SMS or MMS,correctly_undeclared
+com.smule.singandroid,Contacts,unnecessarily_declared
+com.smule.singandroid,Diagnostics,unnecessarily_declared
+com.smule.singandroid,Other app performance data,correctly_undeclared
+com.smule.singandroid,Device or other IDs,correctly_declared
+se.parkster.client.android,Location,correctly_undeclared
+se.parkster.client.android,SMS or MMS,correctly_undeclared
+se.parkster.client.android,Contacts,correctly_undeclared
+se.parkster.client.android,Diagnostics,unnecessarily_declared
+se.parkster.client.android,Other app performance data,correctly_undeclared
+se.parkster.client.android,Device or other IDs,correctly_declared
+com.google.android.apps.dynamite,Location,unnecessarily_declared
+com.google.android.apps.dynamite,SMS or MMS,correctly_undeclared
+com.google.android.apps.dynamite,Contacts,unnecessarily_declared
+com.google.android.apps.dynamite,Diagnostics,unnecessarily_declared
+com.google.android.apps.dynamite,Other app performance data,unnecessarily_declared
+com.google.android.apps.dynamite,Device or other IDs,unnecessarily_declared
+com.supermine.mod,Location,correctly_undeclared
+com.supermine.mod,SMS or MMS,correctly_undeclared
+com.supermine.mod,Contacts,correctly_undeclared
+com.supermine.mod,Diagnostics,wrongly_undeclared
+com.supermine.mod,Other app performance data,correctly_undeclared
+com.supermine.mod,Device or other IDs,wrongly_undeclared
+com.yapp.voicecameratranslator,Location,correctly_undeclared
+com.yapp.voicecameratranslator,SMS or MMS,correctly_undeclared
+com.yapp.voicecameratranslator,Contacts,correctly_undeclared
+com.yapp.voicecameratranslator,Diagnostics,wrongly_undeclared
+com.yapp.voicecameratranslator,Other app performance data,correctly_undeclared
+com.yapp.voicecameratranslator,Device or other IDs,wrongly_undeclared
+com.badoo.mobile,Location,unnecessarily_declared
+com.badoo.mobile,SMS or MMS,correctly_undeclared
+com.badoo.mobile,Contacts,correctly_undeclared
+com.badoo.mobile,Diagnostics,unnecessarily_declared
+com.badoo.mobile,Other app performance data,unnecessarily_declared
+com.badoo.mobile,Device or other IDs,unnecessarily_declared
+de.sky.bw,Location,correctly_undeclared
+de.sky.bw,SMS or MMS,correctly_undeclared
+de.sky.bw,Contacts,correctly_undeclared
+de.sky.bw,Diagnostics,correctly_undeclared
+de.sky.bw,Other app performance data,correctly_undeclared
+de.sky.bw,Device or other IDs,correctly_declared
+com.falk.fietsroutes.app,Location,unnecessarily_declared
+com.falk.fietsroutes.app,SMS or MMS,correctly_undeclared
+com.falk.fietsroutes.app,Contacts,correctly_undeclared
+com.falk.fietsroutes.app,Diagnostics,correctly_undeclared
+com.falk.fietsroutes.app,Other app performance data,correctly_undeclared
+com.falk.fietsroutes.app,Device or other IDs,wrongly_undeclared
+com.amazon.clouddrive.photos,Location,correctly_undeclared
+com.amazon.clouddrive.photos,SMS or MMS,correctly_undeclared
+com.amazon.clouddrive.photos,Contacts,unnecessarily_declared
+com.amazon.clouddrive.photos,Diagnostics,unnecessarily_declared
+com.amazon.clouddrive.photos,Other app performance data,unnecessarily_declared
+com.amazon.clouddrive.photos,Device or other IDs,unnecessarily_declared
+com.snipes,Location,correctly_undeclared
+com.snipes,SMS or MMS,correctly_undeclared
+com.snipes,Contacts,correctly_undeclared
+com.snipes,Diagnostics,correctly_undeclared
+com.snipes,Other app performance data,correctly_undeclared
+com.snipes,Device or other IDs,correctly_declared
+com.nike.omega,Location,unnecessarily_declared
+com.nike.omega,SMS or MMS,correctly_undeclared
+com.nike.omega,Contacts,correctly_undeclared
+com.nike.omega,Diagnostics,unnecessarily_declared
+com.nike.omega,Other app performance data,unnecessarily_declared
+com.nike.omega,Device or other IDs,correctly_declared
+ru.innim.my_finance,Location,correctly_undeclared
+ru.innim.my_finance,SMS or MMS,correctly_undeclared
+ru.innim.my_finance,Contacts,correctly_undeclared
+ru.innim.my_finance,Diagnostics,correctly_declared
+ru.innim.my_finance,Other app performance data,correctly_undeclared
+ru.innim.my_finance,Device or other IDs,correctly_declared
+de.apptiv.business.android.aldi_de,Location,unnecessarily_declared
+de.apptiv.business.android.aldi_de,SMS or MMS,correctly_undeclared
+de.apptiv.business.android.aldi_de,Contacts,correctly_undeclared
+de.apptiv.business.android.aldi_de,Diagnostics,unnecessarily_declared
+de.apptiv.business.android.aldi_de,Other app performance data,wrongly_undeclared
+de.apptiv.business.android.aldi_de,Device or other IDs,unnecessarily_declared
+com.yazio.android,Location,unnecessarily_declared
+com.yazio.android,SMS or MMS,correctly_undeclared
+com.yazio.android,Contacts,correctly_undeclared
+com.yazio.android,Diagnostics,correctly_undeclared
+com.yazio.android,Other app performance data,correctly_undeclared
+com.yazio.android,Device or other IDs,correctly_declared
+de.knowunity.app,Location,correctly_undeclared
+de.knowunity.app,SMS or MMS,correctly_undeclared
+de.knowunity.app,Contacts,correctly_undeclared
+de.knowunity.app,Diagnostics,correctly_undeclared
+de.knowunity.app,Other app performance data,correctly_undeclared
+de.knowunity.app,Device or other IDs,correctly_declared
+de.mcdonalds.mcdonaldsinfoapp,Location,wrongly_undeclared
+de.mcdonalds.mcdonaldsinfoapp,SMS or MMS,correctly_undeclared
+de.mcdonalds.mcdonaldsinfoapp,Contacts,correctly_undeclared
+de.mcdonalds.mcdonaldsinfoapp,Diagnostics,unnecessarily_declared
+de.mcdonalds.mcdonaldsinfoapp,Other app performance data,unnecessarily_declared
+de.mcdonalds.mcdonaldsinfoapp,Device or other IDs,correctly_declared
+com.douglas.main,Location,unnecessarily_declared
+com.douglas.main,SMS or MMS,correctly_undeclared
+com.douglas.main,Contacts,correctly_undeclared
+com.douglas.main,Diagnostics,unnecessarily_declared
+com.douglas.main,Other app performance data,correctly_declared
+com.douglas.main,Device or other IDs,correctly_declared
+com.instagram.android,Location,unnecessarily_declared
+com.instagram.android,SMS or MMS,unnecessarily_declared
+com.instagram.android,Contacts,unnecessarily_declared
+com.instagram.android,Diagnostics,unnecessarily_declared
+com.instagram.android,Other app performance data,unnecessarily_declared
+com.instagram.android,Device or other IDs,unnecessarily_declared
+com.joom,Location,unnecessarily_declared
+com.joom,SMS or MMS,correctly_undeclared
+com.joom,Contacts,unnecessarily_declared
+com.joom,Diagnostics,unnecessarily_declared
+com.joom,Other app performance data,unnecessarily_declared
+com.joom,Device or other IDs,correctly_declared
+com.shazam.android,Location,unnecessarily_declared
+com.shazam.android,SMS or MMS,correctly_undeclared
+com.shazam.android,Contacts,correctly_undeclared
+com.shazam.android,Diagnostics,unnecessarily_declared
+com.shazam.android,Other app performance data,unnecessarily_declared
+com.shazam.android,Device or other IDs,unnecessarily_declared
+com.adobe.reader,Location,unnecessarily_declared
+com.adobe.reader,SMS or MMS,correctly_undeclared
+com.adobe.reader,Contacts,correctly_undeclared
+com.adobe.reader,Diagnostics,correctly_declared
+com.adobe.reader,Other app performance data,correctly_declared
+com.adobe.reader,Device or other IDs,wrongly_undeclared
+com.abdullah.sttuadul,Location,correctly_undeclared
+com.abdullah.sttuadul,SMS or MMS,correctly_undeclared
+com.abdullah.sttuadul,Contacts,correctly_undeclared
+com.abdullah.sttuadul,Diagnostics,wrongly_undeclared
+com.abdullah.sttuadul,Other app performance data,wrongly_undeclared
+com.abdullah.sttuadul,Device or other IDs,wrongly_undeclared
+com.camerasideas.instashot,Location,correctly_undeclared
+com.camerasideas.instashot,SMS or MMS,correctly_undeclared
+com.camerasideas.instashot,Contacts,correctly_undeclared
+com.camerasideas.instashot,Diagnostics,unnecessarily_declared
+com.camerasideas.instashot,Other app performance data,correctly_undeclared
+com.camerasideas.instashot,Device or other IDs,correctly_declared
+com.google.android.apps.docs.editors.docs,Location,unnecessarily_declared
+com.google.android.apps.docs.editors.docs,SMS or MMS,correctly_undeclared
+com.google.android.apps.docs.editors.docs,Contacts,unnecessarily_declared
+com.google.android.apps.docs.editors.docs,Diagnostics,unnecessarily_declared
+com.google.android.apps.docs.editors.docs,Other app performance data,unnecessarily_declared
+com.google.android.apps.docs.editors.docs,Device or other IDs,unnecessarily_declared
+com.Plus500,Location,correctly_undeclared
+com.Plus500,SMS or MMS,correctly_undeclared
+com.Plus500,Contacts,correctly_undeclared
+com.Plus500,Diagnostics,unnecessarily_declared
+com.Plus500,Other app performance data,unnecessarily_declared
+com.Plus500,Device or other IDs,correctly_declared
+com.xplora.xplorao2o,Location,correctly_undeclared
+com.xplora.xplorao2o,SMS or MMS,correctly_undeclared
+com.xplora.xplorao2o,Contacts,correctly_undeclared
+com.xplora.xplorao2o,Diagnostics,correctly_undeclared
+com.xplora.xplorao2o,Other app performance data,correctly_undeclared
+com.xplora.xplorao2o,Device or other IDs,wrongly_undeclared
+com.lift.cleaner,Location,correctly_undeclared
+com.lift.cleaner,SMS or MMS,correctly_undeclared
+com.lift.cleaner,Contacts,correctly_undeclared
+com.lift.cleaner,Diagnostics,wrongly_undeclared
+com.lift.cleaner,Other app performance data,wrongly_undeclared
+com.lift.cleaner,Device or other IDs,wrongly_undeclared
+com.appsinnova.android.keepbooster,Location,unnecessarily_declared
+com.appsinnova.android.keepbooster,SMS or MMS,correctly_undeclared
+com.appsinnova.android.keepbooster,Contacts,correctly_undeclared
+com.appsinnova.android.keepbooster,Diagnostics,correctly_declared
+com.appsinnova.android.keepbooster,Other app performance data,unnecessarily_declared
+com.appsinnova.android.keepbooster,Device or other IDs,correctly_declared
+com.opodo.reisen,Location,wrongly_undeclared
+com.opodo.reisen,SMS or MMS,correctly_undeclared
+com.opodo.reisen,Contacts,correctly_undeclared
+com.opodo.reisen,Diagnostics,unnecessarily_declared
+com.opodo.reisen,Other app performance data,correctly_undeclared
+com.opodo.reisen,Device or other IDs,correctly_declared
+com.dailyyoga.inc,Location,correctly_undeclared
+com.dailyyoga.inc,SMS or MMS,correctly_undeclared
+com.dailyyoga.inc,Contacts,correctly_undeclared
+com.dailyyoga.inc,Diagnostics,correctly_undeclared
+com.dailyyoga.inc,Other app performance data,correctly_undeclared
+com.dailyyoga.inc,Device or other IDs,correctly_declared
+photoeditor.layout.collagemaker,Location,correctly_undeclared
+photoeditor.layout.collagemaker,SMS or MMS,correctly_undeclared
+photoeditor.layout.collagemaker,Contacts,correctly_undeclared
+photoeditor.layout.collagemaker,Diagnostics,wrongly_undeclared
+photoeditor.layout.collagemaker,Other app performance data,wrongly_undeclared
+photoeditor.layout.collagemaker,Device or other IDs,correctly_declared
+org.klimabuendnis.Stadtradeln,Location,unnecessarily_declared
+org.klimabuendnis.Stadtradeln,SMS or MMS,correctly_undeclared
+org.klimabuendnis.Stadtradeln,Contacts,correctly_undeclared
+org.klimabuendnis.Stadtradeln,Diagnostics,correctly_undeclared
+org.klimabuendnis.Stadtradeln,Other app performance data,correctly_undeclared
+org.klimabuendnis.Stadtradeln,Device or other IDs,unnecessarily_declared
+com.audible.application,Location,correctly_undeclared
+com.audible.application,SMS or MMS,correctly_undeclared
+com.audible.application,Contacts,correctly_undeclared
+com.audible.application,Diagnostics,unnecessarily_declared
+com.audible.application,Other app performance data,unnecessarily_declared
+com.audible.application,Device or other IDs,correctly_declared
+com.flightradar24free,Location,correctly_undeclared
+com.flightradar24free,SMS or MMS,correctly_undeclared
+com.flightradar24free,Contacts,correctly_undeclared
+com.flightradar24free,Diagnostics,correctly_undeclared
+com.flightradar24free,Other app performance data,correctly_undeclared
+com.flightradar24free,Device or other IDs,wrongly_undeclared
+com.myfitnesspal.android,Location,unnecessarily_declared
+com.myfitnesspal.android,SMS or MMS,correctly_undeclared
+com.myfitnesspal.android,Contacts,correctly_undeclared
+com.myfitnesspal.android,Diagnostics,correctly_declared
+com.myfitnesspal.android,Other app performance data,wrongly_undeclared
+com.myfitnesspal.android,Device or other IDs,correctly_declared
+de.eos.uptrade.android.fahrinfo.berlin,Location,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.berlin,SMS or MMS,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.berlin,Contacts,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.berlin,Diagnostics,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.berlin,Other app performance data,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.berlin,Device or other IDs,unnecessarily_declared
+de.dwins.financeguru,Location,correctly_undeclared
+de.dwins.financeguru,SMS or MMS,correctly_undeclared
+de.dwins.financeguru,Contacts,correctly_undeclared
+de.dwins.financeguru,Diagnostics,unnecessarily_declared
+de.dwins.financeguru,Other app performance data,correctly_undeclared
+de.dwins.financeguru,Device or other IDs,correctly_declared
+com.crunchyroll.crunchyroid,Location,correctly_undeclared
+com.crunchyroll.crunchyroid,SMS or MMS,correctly_undeclared
+com.crunchyroll.crunchyroid,Contacts,correctly_undeclared
+com.crunchyroll.crunchyroid,Diagnostics,unnecessarily_declared
+com.crunchyroll.crunchyroid,Other app performance data,unnecessarily_declared
+com.crunchyroll.crunchyroid,Device or other IDs,correctly_declared
+de.datev.timp,Location,correctly_undeclared
+de.datev.timp,SMS or MMS,correctly_undeclared
+de.datev.timp,Contacts,correctly_undeclared
+de.datev.timp,Diagnostics,correctly_undeclared
+de.datev.timp,Other app performance data,unnecessarily_declared
+de.datev.timp,Device or other IDs,correctly_undeclared
+com.vitotechnology.sky.tonight.map.star.walk,Location,correctly_undeclared
+com.vitotechnology.sky.tonight.map.star.walk,SMS or MMS,correctly_undeclared
+com.vitotechnology.sky.tonight.map.star.walk,Contacts,correctly_undeclared
+com.vitotechnology.sky.tonight.map.star.walk,Diagnostics,correctly_declared
+com.vitotechnology.sky.tonight.map.star.walk,Other app performance data,wrongly_undeclared
+com.vitotechnology.sky.tonight.map.star.walk,Device or other IDs,correctly_declared
+de.penny.app,Location,correctly_undeclared
+de.penny.app,SMS or MMS,correctly_undeclared
+de.penny.app,Contacts,correctly_undeclared
+de.penny.app,Diagnostics,correctly_undeclared
+de.penny.app,Other app performance data,correctly_undeclared
+de.penny.app,Device or other IDs,correctly_undeclared
+com.tb.mobiclean,Location,correctly_undeclared
+com.tb.mobiclean,SMS or MMS,correctly_undeclared
+com.tb.mobiclean,Contacts,correctly_undeclared
+com.tb.mobiclean,Diagnostics,correctly_declared
+com.tb.mobiclean,Other app performance data,correctly_declared
+com.tb.mobiclean,Device or other IDs,correctly_declared
+free.translate.all.language.translator,Location,correctly_undeclared
+free.translate.all.language.translator,SMS or MMS,correctly_undeclared
+free.translate.all.language.translator,Contacts,correctly_undeclared
+free.translate.all.language.translator,Diagnostics,wrongly_undeclared
+free.translate.all.language.translator,Other app performance data,correctly_undeclared
+free.translate.all.language.translator,Device or other IDs,wrongly_undeclared
+works.jubilee.timetree,Location,unnecessarily_declared
+works.jubilee.timetree,SMS or MMS,correctly_undeclared
+works.jubilee.timetree,Contacts,correctly_undeclared
+works.jubilee.timetree,Diagnostics,correctly_declared
+works.jubilee.timetree,Other app performance data,correctly_declared
+works.jubilee.timetree,Device or other IDs,correctly_declared
+de.zasta.app,Location,correctly_undeclared
+de.zasta.app,SMS or MMS,correctly_undeclared
+de.zasta.app,Contacts,correctly_undeclared
+de.zasta.app,Diagnostics,unnecessarily_declared
+de.zasta.app,Other app performance data,unnecessarily_declared
+de.zasta.app,Device or other IDs,correctly_declared
+de.clark.app,Location,correctly_undeclared
+de.clark.app,SMS or MMS,correctly_undeclared
+de.clark.app,Contacts,correctly_undeclared
+de.clark.app,Diagnostics,unnecessarily_declared
+de.clark.app,Other app performance data,correctly_undeclared
+de.clark.app,Device or other IDs,unnecessarily_declared
+de.motain.iliga,Location,correctly_undeclared
+de.motain.iliga,SMS or MMS,correctly_undeclared
+de.motain.iliga,Contacts,correctly_undeclared
+de.motain.iliga,Diagnostics,wrongly_undeclared
+de.motain.iliga,Other app performance data,wrongly_undeclared
+de.motain.iliga,Device or other IDs,correctly_declared
+com.tier.app,Location,correctly_declared
+com.tier.app,SMS or MMS,correctly_undeclared
+com.tier.app,Contacts,correctly_undeclared
+com.tier.app,Diagnostics,unnecessarily_declared
+com.tier.app,Other app performance data,correctly_undeclared
+com.tier.app,Device or other IDs,correctly_declared
+de.immowelt.android.immobiliensuche,Location,unnecessarily_declared
+de.immowelt.android.immobiliensuche,SMS or MMS,correctly_undeclared
+de.immowelt.android.immobiliensuche,Contacts,correctly_undeclared
+de.immowelt.android.immobiliensuche,Diagnostics,unnecessarily_declared
+de.immowelt.android.immobiliensuche,Other app performance data,unnecessarily_declared
+de.immowelt.android.immobiliensuche,Device or other IDs,unnecessarily_declared
+com.noctuasoftware.stellarium_free,Location,correctly_undeclared
+com.noctuasoftware.stellarium_free,SMS or MMS,correctly_undeclared
+com.noctuasoftware.stellarium_free,Contacts,correctly_undeclared
+com.noctuasoftware.stellarium_free,Diagnostics,correctly_undeclared
+com.noctuasoftware.stellarium_free,Other app performance data,correctly_undeclared
+com.noctuasoftware.stellarium_free,Device or other IDs,correctly_undeclared
+com.google.earth,Location,unnecessarily_declared
+com.google.earth,SMS or MMS,correctly_undeclared
+com.google.earth,Contacts,unnecessarily_declared
+com.google.earth,Diagnostics,unnecessarily_declared
+com.google.earth,Other app performance data,unnecessarily_declared
+com.google.earth,Device or other IDs,unnecessarily_declared
+com.tomtom.gplay.navapp,Location,unnecessarily_declared
+com.tomtom.gplay.navapp,SMS or MMS,correctly_undeclared
+com.tomtom.gplay.navapp,Contacts,correctly_undeclared
+com.tomtom.gplay.navapp,Diagnostics,correctly_declared
+com.tomtom.gplay.navapp,Other app performance data,correctly_undeclared
+com.tomtom.gplay.navapp,Device or other IDs,correctly_declared
+com.yopeso.lieferando,Location,correctly_declared
+com.yopeso.lieferando,SMS or MMS,correctly_undeclared
+com.yopeso.lieferando,Contacts,correctly_undeclared
+com.yopeso.lieferando,Diagnostics,unnecessarily_declared
+com.yopeso.lieferando,Other app performance data,unnecessarily_declared
+com.yopeso.lieferando,Device or other IDs,correctly_declared
+com.vialsoft.radarbot_free,Location,unnecessarily_declared
+com.vialsoft.radarbot_free,SMS or MMS,unnecessarily_declared
+com.vialsoft.radarbot_free,Contacts,correctly_undeclared
+com.vialsoft.radarbot_free,Diagnostics,unnecessarily_declared
+com.vialsoft.radarbot_free,Other app performance data,unnecessarily_declared
+com.vialsoft.radarbot_free,Device or other IDs,correctly_declared
+de.toggo,Location,correctly_undeclared
+de.toggo,SMS or MMS,correctly_undeclared
+de.toggo,Contacts,correctly_undeclared
+de.toggo,Diagnostics,correctly_undeclared
+de.toggo,Other app performance data,correctly_undeclared
+de.toggo,Device or other IDs,correctly_declared
+com.google.android.apps.translate,Location,unnecessarily_declared
+com.google.android.apps.translate,SMS or MMS,correctly_undeclared
+com.google.android.apps.translate,Contacts,unnecessarily_declared
+com.google.android.apps.translate,Diagnostics,unnecessarily_declared
+com.google.android.apps.translate,Other app performance data,unnecessarily_declared
+com.google.android.apps.translate,Device or other IDs,unnecessarily_declared
+de.eventim.mobile.app.Android,Location,unnecessarily_declared
+de.eventim.mobile.app.Android,SMS or MMS,correctly_undeclared
+de.eventim.mobile.app.Android,Contacts,correctly_undeclared
+de.eventim.mobile.app.Android,Diagnostics,correctly_undeclared
+de.eventim.mobile.app.Android,Other app performance data,correctly_undeclared
+de.eventim.mobile.app.Android,Device or other IDs,correctly_declared
+com.camerasideas.trimmer,Location,correctly_undeclared
+com.camerasideas.trimmer,SMS or MMS,correctly_undeclared
+com.camerasideas.trimmer,Contacts,correctly_undeclared
+com.camerasideas.trimmer,Diagnostics,unnecessarily_declared
+com.camerasideas.trimmer,Other app performance data,correctly_undeclared
+com.camerasideas.trimmer,Device or other IDs,correctly_declared
+app.dogorama,Location,unnecessarily_declared
+app.dogorama,SMS or MMS,correctly_undeclared
+app.dogorama,Contacts,correctly_undeclared
+app.dogorama,Diagnostics,unnecessarily_declared
+app.dogorama,Other app performance data,correctly_undeclared
+app.dogorama,Device or other IDs,correctly_declared
+online.passportphoto.visa.id.app,Location,correctly_undeclared
+online.passportphoto.visa.id.app,SMS or MMS,correctly_undeclared
+online.passportphoto.visa.id.app,Contacts,correctly_undeclared
+online.passportphoto.visa.id.app,Diagnostics,unnecessarily_declared
+online.passportphoto.visa.id.app,Other app performance data,unnecessarily_declared
+online.passportphoto.visa.id.app,Device or other IDs,correctly_declared
+com.google.android.apps.docs.editors.sheets,Location,unnecessarily_declared
+com.google.android.apps.docs.editors.sheets,SMS or MMS,correctly_undeclared
+com.google.android.apps.docs.editors.sheets,Contacts,unnecessarily_declared
+com.google.android.apps.docs.editors.sheets,Diagnostics,unnecessarily_declared
+com.google.android.apps.docs.editors.sheets,Other app performance data,unnecessarily_declared
+com.google.android.apps.docs.editors.sheets,Device or other IDs,unnecessarily_declared
+app.celebrate.celpho,Location,correctly_undeclared
+app.celebrate.celpho,SMS or MMS,correctly_undeclared
+app.celebrate.celpho,Contacts,correctly_undeclared
+app.celebrate.celpho,Diagnostics,unnecessarily_declared
+app.celebrate.celpho,Other app performance data,unnecessarily_declared
+app.celebrate.celpho,Device or other IDs,correctly_declared
+com.voghion.app,Location,correctly_undeclared
+com.voghion.app,SMS or MMS,correctly_undeclared
+com.voghion.app,Contacts,correctly_undeclared
+com.voghion.app,Diagnostics,unnecessarily_declared
+com.voghion.app,Other app performance data,correctly_undeclared
+com.voghion.app,Device or other IDs,correctly_declared
+com.pickery.app,Location,unnecessarily_declared
+com.pickery.app,SMS or MMS,correctly_undeclared
+com.pickery.app,Contacts,correctly_undeclared
+com.pickery.app,Diagnostics,unnecessarily_declared
+com.pickery.app,Other app performance data,correctly_undeclared
+com.pickery.app,Device or other IDs,correctly_declared
+com.enbw.ev,Location,unnecessarily_declared
+com.enbw.ev,SMS or MMS,correctly_undeclared
+com.enbw.ev,Contacts,correctly_undeclared
+com.enbw.ev,Diagnostics,unnecessarily_declared
+com.enbw.ev,Other app performance data,correctly_undeclared
+com.enbw.ev,Device or other IDs,unnecessarily_declared
+com.opera.browser,Location,unnecessarily_declared
+com.opera.browser,SMS or MMS,correctly_undeclared
+com.opera.browser,Contacts,correctly_undeclared
+com.opera.browser,Diagnostics,unnecessarily_declared
+com.opera.browser,Other app performance data,unnecessarily_declared
+com.opera.browser,Device or other IDs,correctly_declared
+free.mp3.music.downloader.download.music.mp3.song.app,Location,correctly_undeclared
+free.mp3.music.downloader.download.music.mp3.song.app,SMS or MMS,correctly_undeclared
+free.mp3.music.downloader.download.music.mp3.song.app,Contacts,correctly_undeclared
+free.mp3.music.downloader.download.music.mp3.song.app,Diagnostics,wrongly_undeclared
+free.mp3.music.downloader.download.music.mp3.song.app,Other app performance data,wrongly_undeclared
+free.mp3.music.downloader.download.music.mp3.song.app,Device or other IDs,wrongly_undeclared
+com.microsoft.office.outlook,Location,correctly_undeclared
+com.microsoft.office.outlook,SMS or MMS,correctly_undeclared
+com.microsoft.office.outlook,Contacts,unnecessarily_declared
+com.microsoft.office.outlook,Diagnostics,unnecessarily_declared
+com.microsoft.office.outlook,Other app performance data,correctly_declared
+com.microsoft.office.outlook,Device or other IDs,correctly_declared
+com.google.android.apps.nbu.files,Location,correctly_undeclared
+com.google.android.apps.nbu.files,SMS or MMS,correctly_undeclared
+com.google.android.apps.nbu.files,Contacts,correctly_undeclared
+com.google.android.apps.nbu.files,Diagnostics,unnecessarily_declared
+com.google.android.apps.nbu.files,Other app performance data,correctly_undeclared
+com.google.android.apps.nbu.files,Device or other IDs,correctly_declared
+io.cleanfox.android,Location,unnecessarily_declared
+io.cleanfox.android,SMS or MMS,correctly_undeclared
+io.cleanfox.android,Contacts,correctly_undeclared
+io.cleanfox.android,Diagnostics,correctly_undeclared
+io.cleanfox.android,Other app performance data,correctly_undeclared
+io.cleanfox.android,Device or other IDs,correctly_declared
+com.grupet.web.app,Location,correctly_undeclared
+com.grupet.web.app,SMS or MMS,correctly_undeclared
+com.grupet.web.app,Contacts,correctly_undeclared
+com.grupet.web.app,Diagnostics,correctly_undeclared
+com.grupet.web.app,Other app performance data,correctly_undeclared
+com.grupet.web.app,Device or other IDs,unnecessarily_declared
+de.rewe.app.mobile,Location,correctly_declared
+de.rewe.app.mobile,SMS or MMS,correctly_undeclared
+de.rewe.app.mobile,Contacts,correctly_undeclared
+de.rewe.app.mobile,Diagnostics,correctly_undeclared
+de.rewe.app.mobile,Other app performance data,correctly_undeclared
+de.rewe.app.mobile,Device or other IDs,correctly_declared
+de.dfbmedien.FussballDE,Location,correctly_undeclared
+de.dfbmedien.FussballDE,SMS or MMS,correctly_undeclared
+de.dfbmedien.FussballDE,Contacts,correctly_undeclared
+de.dfbmedien.FussballDE,Diagnostics,unnecessarily_declared
+de.dfbmedien.FussballDE,Other app performance data,correctly_declared
+de.dfbmedien.FussballDE,Device or other IDs,correctly_declared
+com.floraincognita.app.floraincognita,Location,unnecessarily_declared
+com.floraincognita.app.floraincognita,SMS or MMS,correctly_undeclared
+com.floraincognita.app.floraincognita,Contacts,correctly_undeclared
+com.floraincognita.app.floraincognita,Diagnostics,correctly_undeclared
+com.floraincognita.app.floraincognita,Other app performance data,correctly_undeclared
+com.floraincognita.app.floraincognita,Device or other IDs,correctly_undeclared
+com.avast.android.mobilesecurity,Location,unnecessarily_declared
+com.avast.android.mobilesecurity,SMS or MMS,correctly_undeclared
+com.avast.android.mobilesecurity,Contacts,correctly_undeclared
+com.avast.android.mobilesecurity,Diagnostics,unnecessarily_declared
+com.avast.android.mobilesecurity,Other app performance data,unnecessarily_declared
+com.avast.android.mobilesecurity,Device or other IDs,unnecessarily_declared
+app.feelsy,Location,correctly_undeclared
+app.feelsy,SMS or MMS,correctly_undeclared
+app.feelsy,Contacts,correctly_undeclared
+app.feelsy,Diagnostics,correctly_declared
+app.feelsy,Other app performance data,correctly_declared
+app.feelsy,Device or other IDs,correctly_declared
+com.cherrycoop.canary.cccleaner,Location,correctly_undeclared
+com.cherrycoop.canary.cccleaner,SMS or MMS,correctly_undeclared
+com.cherrycoop.canary.cccleaner,Contacts,correctly_undeclared
+com.cherrycoop.canary.cccleaner,Diagnostics,wrongly_undeclared
+com.cherrycoop.canary.cccleaner,Other app performance data,wrongly_undeclared
+com.cherrycoop.canary.cccleaner,Device or other IDs,wrongly_undeclared
+com.stepstone.borowf01,Location,correctly_undeclared
+com.stepstone.borowf01,SMS or MMS,correctly_undeclared
+com.stepstone.borowf01,Contacts,correctly_undeclared
+com.stepstone.borowf01,Diagnostics,unnecessarily_declared
+com.stepstone.borowf01,Other app performance data,unnecessarily_declared
+com.stepstone.borowf01,Device or other IDs,correctly_declared
+de.gematik.ti.erp.app,Location,unnecessarily_declared
+de.gematik.ti.erp.app,SMS or MMS,correctly_undeclared
+de.gematik.ti.erp.app,Contacts,correctly_undeclared
+de.gematik.ti.erp.app,Diagnostics,unnecessarily_declared
+de.gematik.ti.erp.app,Other app performance data,correctly_undeclared
+de.gematik.ti.erp.app,Device or other IDs,correctly_undeclared
+de.dhl.paket,Location,correctly_undeclared
+de.dhl.paket,SMS or MMS,correctly_undeclared
+de.dhl.paket,Contacts,unnecessarily_declared
+de.dhl.paket,Diagnostics,unnecessarily_declared
+de.dhl.paket,Other app performance data,correctly_undeclared
+de.dhl.paket,Device or other IDs,correctly_declared
+com.mcdonalds.mobileapp,Location,correctly_undeclared
+com.mcdonalds.mobileapp,SMS or MMS,correctly_undeclared
+com.mcdonalds.mobileapp,Contacts,correctly_undeclared
+com.mcdonalds.mobileapp,Diagnostics,unnecessarily_declared
+com.mcdonalds.mobileapp,Other app performance data,unnecessarily_declared
+com.mcdonalds.mobileapp,Device or other IDs,unnecessarily_declared
+de.babymarkt.app,Location,correctly_undeclared
+de.babymarkt.app,SMS or MMS,correctly_undeclared
+de.babymarkt.app,Contacts,correctly_undeclared
+de.babymarkt.app,Diagnostics,correctly_undeclared
+de.babymarkt.app,Other app performance data,wrongly_undeclared
+de.babymarkt.app,Device or other IDs,wrongly_undeclared
+de.ingdiba.bankingapp,Location,correctly_undeclared
+de.ingdiba.bankingapp,SMS or MMS,correctly_undeclared
+de.ingdiba.bankingapp,Contacts,correctly_undeclared
+de.ingdiba.bankingapp,Diagnostics,unnecessarily_declared
+de.ingdiba.bankingapp,Other app performance data,wrongly_undeclared
+de.ingdiba.bankingapp,Device or other IDs,unnecessarily_declared
+com.google.android.apps.fitness,Location,unnecessarily_declared
+com.google.android.apps.fitness,SMS or MMS,correctly_undeclared
+com.google.android.apps.fitness,Contacts,unnecessarily_declared
+com.google.android.apps.fitness,Diagnostics,unnecessarily_declared
+com.google.android.apps.fitness,Other app performance data,correctly_undeclared
+com.google.android.apps.fitness,Device or other IDs,unnecessarily_declared
+losebellyfat.flatstomach.absworkout.fatburning,Location,correctly_undeclared
+losebellyfat.flatstomach.absworkout.fatburning,SMS or MMS,correctly_undeclared
+losebellyfat.flatstomach.absworkout.fatburning,Contacts,correctly_undeclared
+losebellyfat.flatstomach.absworkout.fatburning,Diagnostics,correctly_declared
+losebellyfat.flatstomach.absworkout.fatburning,Other app performance data,wrongly_undeclared
+losebellyfat.flatstomach.absworkout.fatburning,Device or other IDs,correctly_declared
+com.fiba.eurobasket,Location,correctly_undeclared
+com.fiba.eurobasket,SMS or MMS,correctly_undeclared
+com.fiba.eurobasket,Contacts,correctly_undeclared
+com.fiba.eurobasket,Diagnostics,correctly_undeclared
+com.fiba.eurobasket,Other app performance data,correctly_undeclared
+com.fiba.eurobasket,Device or other IDs,correctly_declared
+com.azure.authenticator,Location,unnecessarily_declared
+com.azure.authenticator,SMS or MMS,correctly_undeclared
+com.azure.authenticator,Contacts,correctly_undeclared
+com.azure.authenticator,Diagnostics,correctly_undeclared
+com.azure.authenticator,Other app performance data,wrongly_undeclared
+com.azure.authenticator,Device or other IDs,wrongly_undeclared
+com.thetrainline,Location,unnecessarily_declared
+com.thetrainline,SMS or MMS,correctly_undeclared
+com.thetrainline,Contacts,correctly_undeclared
+com.thetrainline,Diagnostics,unnecessarily_declared
+com.thetrainline,Other app performance data,correctly_undeclared
+com.thetrainline,Device or other IDs,unnecessarily_declared
+com.alldocument.fileviewer.documentreader,Location,correctly_undeclared
+com.alldocument.fileviewer.documentreader,SMS or MMS,correctly_undeclared
+com.alldocument.fileviewer.documentreader,Contacts,correctly_undeclared
+com.alldocument.fileviewer.documentreader,Diagnostics,wrongly_undeclared
+com.alldocument.fileviewer.documentreader,Other app performance data,correctly_undeclared
+com.alldocument.fileviewer.documentreader,Device or other IDs,wrongly_undeclared
+com.entersekt.authapp.sparkasse,Location,correctly_undeclared
+com.entersekt.authapp.sparkasse,SMS or MMS,unnecessarily_declared
+com.entersekt.authapp.sparkasse,Contacts,correctly_undeclared
+com.entersekt.authapp.sparkasse,Diagnostics,wrongly_undeclared
+com.entersekt.authapp.sparkasse,Other app performance data,wrongly_undeclared
+com.entersekt.authapp.sparkasse,Device or other IDs,correctly_declared
+mentz.com.vrr_cibo_app,Location,correctly_undeclared
+mentz.com.vrr_cibo_app,SMS or MMS,correctly_undeclared
+mentz.com.vrr_cibo_app,Contacts,correctly_undeclared
+mentz.com.vrr_cibo_app,Diagnostics,correctly_undeclared
+mentz.com.vrr_cibo_app,Other app performance data,correctly_undeclared
+mentz.com.vrr_cibo_app,Device or other IDs,correctly_declared
+com.avg.cleaner,Location,unnecessarily_declared
+com.avg.cleaner,SMS or MMS,correctly_undeclared
+com.avg.cleaner,Contacts,correctly_undeclared
+com.avg.cleaner,Diagnostics,unnecessarily_declared
+com.avg.cleaner,Other app performance data,unnecessarily_declared
+com.avg.cleaner,Device or other IDs,correctly_declared
+com.facebook.lite,Location,unnecessarily_declared
+com.facebook.lite,SMS or MMS,unnecessarily_declared
+com.facebook.lite,Contacts,unnecessarily_declared
+com.facebook.lite,Diagnostics,unnecessarily_declared
+com.facebook.lite,Other app performance data,unnecessarily_declared
+com.facebook.lite,Device or other IDs,unnecessarily_declared
+co.hinge.app,Location,unnecessarily_declared
+co.hinge.app,SMS or MMS,correctly_undeclared
+co.hinge.app,Contacts,correctly_undeclared
+co.hinge.app,Diagnostics,unnecessarily_declared
+co.hinge.app,Other app performance data,correctly_undeclared
+co.hinge.app,Device or other IDs,unnecessarily_declared
+com.microsoft.office.onenote,Location,correctly_undeclared
+com.microsoft.office.onenote,SMS or MMS,correctly_undeclared
+com.microsoft.office.onenote,Contacts,correctly_undeclared
+com.microsoft.office.onenote,Diagnostics,unnecessarily_declared
+com.microsoft.office.onenote,Other app performance data,unnecessarily_declared
+com.microsoft.office.onenote,Device or other IDs,correctly_undeclared
+com.viber.voip,Location,unnecessarily_declared
+com.viber.voip,SMS or MMS,correctly_undeclared
+com.viber.voip,Contacts,unnecessarily_declared
+com.viber.voip,Diagnostics,unnecessarily_declared
+com.viber.voip,Other app performance data,unnecessarily_declared
+com.viber.voip,Device or other IDs,unnecessarily_declared
+bloodpressure.bloodpressureapp.bloodpressuretracker,Location,correctly_undeclared
+bloodpressure.bloodpressureapp.bloodpressuretracker,SMS or MMS,correctly_undeclared
+bloodpressure.bloodpressureapp.bloodpressuretracker,Contacts,correctly_undeclared
+bloodpressure.bloodpressureapp.bloodpressuretracker,Diagnostics,correctly_declared
+bloodpressure.bloodpressureapp.bloodpressuretracker,Other app performance data,correctly_undeclared
+bloodpressure.bloodpressureapp.bloodpressuretracker,Device or other IDs,correctly_declared
+com.dkbcodefactory.banking,Location,unnecessarily_declared
+com.dkbcodefactory.banking,SMS or MMS,correctly_undeclared
+com.dkbcodefactory.banking,Contacts,correctly_undeclared
+com.dkbcodefactory.banking,Diagnostics,unnecessarily_declared
+com.dkbcodefactory.banking,Other app performance data,unnecessarily_declared
+com.dkbcodefactory.banking,Device or other IDs,unnecessarily_declared
+de.mwwebwork.benzinpreisblitz,Location,unnecessarily_declared
+de.mwwebwork.benzinpreisblitz,SMS or MMS,correctly_undeclared
+de.mwwebwork.benzinpreisblitz,Contacts,correctly_undeclared
+de.mwwebwork.benzinpreisblitz,Diagnostics,unnecessarily_declared
+de.mwwebwork.benzinpreisblitz,Other app performance data,correctly_undeclared
+de.mwwebwork.benzinpreisblitz,Device or other IDs,correctly_declared
+com.untis.chat,Location,correctly_undeclared
+com.untis.chat,SMS or MMS,correctly_undeclared
+com.untis.chat,Contacts,correctly_undeclared
+com.untis.chat,Diagnostics,correctly_undeclared
+com.untis.chat,Other app performance data,correctly_undeclared
+com.untis.chat,Device or other IDs,unnecessarily_declared
+com.fineart.universal.tv.remote.control,Location,correctly_undeclared
+com.fineart.universal.tv.remote.control,SMS or MMS,correctly_undeclared
+com.fineart.universal.tv.remote.control,Contacts,correctly_undeclared
+com.fineart.universal.tv.remote.control,Diagnostics,wrongly_undeclared
+com.fineart.universal.tv.remote.control,Other app performance data,correctly_undeclared
+com.fineart.universal.tv.remote.control,Device or other IDs,correctly_declared
+org.videolan.vlc,Location,correctly_undeclared
+org.videolan.vlc,SMS or MMS,correctly_undeclared
+org.videolan.vlc,Contacts,correctly_undeclared
+org.videolan.vlc,Diagnostics,correctly_undeclared
+org.videolan.vlc,Other app performance data,correctly_undeclared
+org.videolan.vlc,Device or other IDs,correctly_undeclared
+com.adobe.scan.android,Location,correctly_undeclared
+com.adobe.scan.android,SMS or MMS,correctly_undeclared
+com.adobe.scan.android,Contacts,correctly_undeclared
+com.adobe.scan.android,Diagnostics,correctly_declared
+com.adobe.scan.android,Other app performance data,wrongly_undeclared
+com.adobe.scan.android,Device or other IDs,wrongly_undeclared
+com.cherrycoop.and.ccfilemanager,Location,correctly_undeclared
+com.cherrycoop.and.ccfilemanager,SMS or MMS,correctly_undeclared
+com.cherrycoop.and.ccfilemanager,Contacts,correctly_undeclared
+com.cherrycoop.and.ccfilemanager,Diagnostics,correctly_undeclared
+com.cherrycoop.and.ccfilemanager,Other app performance data,correctly_undeclared
+com.cherrycoop.and.ccfilemanager,Device or other IDs,wrongly_undeclared
+com.requapp.requ,Location,unnecessarily_declared
+com.requapp.requ,SMS or MMS,correctly_undeclared
+com.requapp.requ,Contacts,correctly_undeclared
+com.requapp.requ,Diagnostics,correctly_undeclared
+com.requapp.requ,Other app performance data,correctly_undeclared
+com.requapp.requ,Device or other IDs,correctly_declared
+com.facebook.katana,Location,unnecessarily_declared
+com.facebook.katana,SMS or MMS,unnecessarily_declared
+com.facebook.katana,Contacts,unnecessarily_declared
+com.facebook.katana,Diagnostics,unnecessarily_declared
+com.facebook.katana,Other app performance data,unnecessarily_declared
+com.facebook.katana,Device or other IDs,unnecessarily_declared
+com.amazon.avod.thirdpartyclient,Location,unnecessarily_declared
+com.amazon.avod.thirdpartyclient,SMS or MMS,correctly_undeclared
+com.amazon.avod.thirdpartyclient,Contacts,correctly_undeclared
+com.amazon.avod.thirdpartyclient,Diagnostics,unnecessarily_declared
+com.amazon.avod.thirdpartyclient,Other app performance data,unnecessarily_declared
+com.amazon.avod.thirdpartyclient,Device or other IDs,correctly_declared
+com.solocode.anton,Location,correctly_undeclared
+com.solocode.anton,SMS or MMS,correctly_undeclared
+com.solocode.anton,Contacts,correctly_undeclared
+com.solocode.anton,Diagnostics,unnecessarily_declared
+com.solocode.anton,Other app performance data,correctly_undeclared
+com.solocode.anton,Device or other IDs,correctly_undeclared
+com.lenovo.anyshare.gps,Location,unnecessarily_declared
+com.lenovo.anyshare.gps,SMS or MMS,correctly_undeclared
+com.lenovo.anyshare.gps,Contacts,correctly_undeclared
+com.lenovo.anyshare.gps,Diagnostics,unnecessarily_declared
+com.lenovo.anyshare.gps,Other app performance data,unnecessarily_declared
+com.lenovo.anyshare.gps,Device or other IDs,correctly_declared
+online.cashemall.app,Location,correctly_undeclared
+online.cashemall.app,SMS or MMS,correctly_undeclared
+online.cashemall.app,Contacts,correctly_undeclared
+online.cashemall.app,Diagnostics,unnecessarily_declared
+online.cashemall.app,Other app performance data,correctly_undeclared
+online.cashemall.app,Device or other IDs,correctly_declared
+com.teacapps.barcodescanner,Location,unnecessarily_declared
+com.teacapps.barcodescanner,SMS or MMS,correctly_undeclared
+com.teacapps.barcodescanner,Contacts,correctly_undeclared
+com.teacapps.barcodescanner,Diagnostics,unnecessarily_declared
+com.teacapps.barcodescanner,Other app performance data,correctly_undeclared
+com.teacapps.barcodescanner,Device or other IDs,correctly_declared
+com.alltrails.alltrails,Location,unnecessarily_declared
+com.alltrails.alltrails,SMS or MMS,correctly_undeclared
+com.alltrails.alltrails,Contacts,unnecessarily_declared
+com.alltrails.alltrails,Diagnostics,correctly_declared
+com.alltrails.alltrails,Other app performance data,correctly_declared
+com.alltrails.alltrails,Device or other IDs,correctly_declared
+video.like,Location,unnecessarily_declared
+video.like,SMS or MMS,correctly_undeclared
+video.like,Contacts,unnecessarily_declared
+video.like,Diagnostics,unnecessarily_declared
+video.like,Other app performance data,unnecessarily_declared
+video.like,Device or other IDs,correctly_declared
+com.huami.watch.hmwatchmanager,Location,unnecessarily_declared
+com.huami.watch.hmwatchmanager,SMS or MMS,correctly_undeclared
+com.huami.watch.hmwatchmanager,Contacts,unnecessarily_declared
+com.huami.watch.hmwatchmanager,Diagnostics,unnecessarily_declared
+com.huami.watch.hmwatchmanager,Other app performance data,correctly_undeclared
+com.huami.watch.hmwatchmanager,Device or other IDs,correctly_declared
+de.zalando.lounge,Location,correctly_undeclared
+de.zalando.lounge,SMS or MMS,correctly_undeclared
+de.zalando.lounge,Contacts,correctly_undeclared
+de.zalando.lounge,Diagnostics,unnecessarily_declared
+de.zalando.lounge,Other app performance data,correctly_undeclared
+de.zalando.lounge,Device or other IDs,unnecessarily_declared
+org.spielerplus.web,Location,unnecessarily_declared
+org.spielerplus.web,SMS or MMS,correctly_undeclared
+org.spielerplus.web,Contacts,correctly_undeclared
+org.spielerplus.web,Diagnostics,unnecessarily_declared
+org.spielerplus.web,Other app performance data,unnecessarily_declared
+org.spielerplus.web,Device or other IDs,correctly_declared
+de.avm.android.myfritz2,Location,correctly_undeclared
+de.avm.android.myfritz2,SMS or MMS,correctly_undeclared
+de.avm.android.myfritz2,Contacts,correctly_undeclared
+de.avm.android.myfritz2,Diagnostics,unnecessarily_declared
+de.avm.android.myfritz2,Other app performance data,correctly_undeclared
+de.avm.android.myfritz2,Device or other IDs,correctly_undeclared
+de.toggolino.videos,Location,correctly_undeclared
+de.toggolino.videos,SMS or MMS,correctly_undeclared
+de.toggolino.videos,Contacts,correctly_undeclared
+de.toggolino.videos,Diagnostics,correctly_undeclared
+de.toggolino.videos,Other app performance data,wrongly_undeclared
+de.toggolino.videos,Device or other IDs,correctly_undeclared
+com.ptvag.android.adacgasprices,Location,unnecessarily_declared
+com.ptvag.android.adacgasprices,SMS or MMS,correctly_undeclared
+com.ptvag.android.adacgasprices,Contacts,correctly_undeclared
+com.ptvag.android.adacgasprices,Diagnostics,unnecessarily_declared
+com.ptvag.android.adacgasprices,Other app performance data,unnecessarily_declared
+com.ptvag.android.adacgasprices,Device or other IDs,unnecessarily_declared
+de.komoot.android,Location,unnecessarily_declared
+de.komoot.android,SMS or MMS,correctly_undeclared
+de.komoot.android,Contacts,unnecessarily_declared
+de.komoot.android,Diagnostics,unnecessarily_declared
+de.komoot.android,Other app performance data,unnecessarily_declared
+de.komoot.android,Device or other IDs,correctly_declared
+de.sec.mobile,Location,correctly_undeclared
+de.sec.mobile,SMS or MMS,correctly_undeclared
+de.sec.mobile,Contacts,correctly_undeclared
+de.sec.mobile,Diagnostics,unnecessarily_declared
+de.sec.mobile,Other app performance data,correctly_undeclared
+de.sec.mobile,Device or other IDs,correctly_declared
+com.booking,Location,correctly_undeclared
+com.booking,SMS or MMS,correctly_undeclared
+com.booking,Contacts,correctly_undeclared
+com.booking,Diagnostics,unnecessarily_declared
+com.booking,Other app performance data,correctly_undeclared
+com.booking,Device or other IDs,correctly_declared
+com.backmarket,Location,unnecessarily_declared
+com.backmarket,SMS or MMS,correctly_undeclared
+com.backmarket,Contacts,correctly_undeclared
+com.backmarket,Diagnostics,unnecessarily_declared
+com.backmarket,Other app performance data,unnecessarily_declared
+com.backmarket,Device or other IDs,correctly_declared
+com.pinterest.twa,Location,unnecessarily_declared
+com.pinterest.twa,SMS or MMS,correctly_undeclared
+com.pinterest.twa,Contacts,unnecessarily_declared
+com.pinterest.twa,Diagnostics,unnecessarily_declared
+com.pinterest.twa,Other app performance data,unnecessarily_declared
+com.pinterest.twa,Device or other IDs,unnecessarily_declared
+de.swr.avp.ard,Location,correctly_undeclared
+de.swr.avp.ard,SMS or MMS,correctly_undeclared
+de.swr.avp.ard,Contacts,correctly_undeclared
+de.swr.avp.ard,Diagnostics,unnecessarily_declared
+de.swr.avp.ard,Other app performance data,correctly_declared
+de.swr.avp.ard,Device or other IDs,correctly_declared
+de.obi.app,Location,correctly_undeclared
+de.obi.app,SMS or MMS,correctly_undeclared
+de.obi.app,Contacts,correctly_undeclared
+de.obi.app,Diagnostics,unnecessarily_declared
+de.obi.app,Other app performance data,wrongly_undeclared
+de.obi.app,Device or other IDs,correctly_declared
+com.fressnapf.mobileapp,Location,correctly_undeclared
+com.fressnapf.mobileapp,SMS or MMS,correctly_undeclared
+com.fressnapf.mobileapp,Contacts,correctly_undeclared
+com.fressnapf.mobileapp,Diagnostics,unnecessarily_declared
+com.fressnapf.mobileapp,Other app performance data,correctly_undeclared
+com.fressnapf.mobileapp,Device or other IDs,correctly_declared
+de.edeka.genuss,Location,correctly_undeclared
+de.edeka.genuss,SMS or MMS,correctly_undeclared
+de.edeka.genuss,Contacts,correctly_undeclared
+de.edeka.genuss,Diagnostics,correctly_undeclared
+de.edeka.genuss,Other app performance data,correctly_undeclared
+de.edeka.genuss,Device or other IDs,unnecessarily_declared
+com.etsy.android,Location,correctly_undeclared
+com.etsy.android,SMS or MMS,correctly_undeclared
+com.etsy.android,Contacts,correctly_undeclared
+com.etsy.android,Diagnostics,correctly_declared
+com.etsy.android,Other app performance data,wrongly_undeclared
+com.etsy.android,Device or other IDs,correctly_declared
+com.ebay.kleinanzeigen,Location,unnecessarily_declared
+com.ebay.kleinanzeigen,SMS or MMS,correctly_undeclared
+com.ebay.kleinanzeigen,Contacts,correctly_undeclared
+com.ebay.kleinanzeigen,Diagnostics,unnecessarily_declared
+com.ebay.kleinanzeigen,Other app performance data,unnecessarily_declared
+com.ebay.kleinanzeigen,Device or other IDs,correctly_declared
+com.translate.all.languages.translator.free.voice.translation,Location,correctly_undeclared
+com.translate.all.languages.translator.free.voice.translation,SMS or MMS,correctly_undeclared
+com.translate.all.languages.translator.free.voice.translation,Contacts,correctly_undeclared
+com.translate.all.languages.translator.free.voice.translation,Diagnostics,wrongly_undeclared
+com.translate.all.languages.translator.free.voice.translation,Other app performance data,correctly_undeclared
+com.translate.all.languages.translator.free.voice.translation,Device or other IDs,wrongly_undeclared
+de.idnow,Location,correctly_undeclared
+de.idnow,SMS or MMS,correctly_undeclared
+de.idnow,Contacts,correctly_undeclared
+de.idnow,Diagnostics,correctly_undeclared
+de.idnow,Other app performance data,correctly_undeclared
+de.idnow,Device or other IDs,correctly_undeclared
+com.alibaba.intl.android.apps.poseidon,Location,unnecessarily_declared
+com.alibaba.intl.android.apps.poseidon,SMS or MMS,correctly_undeclared
+com.alibaba.intl.android.apps.poseidon,Contacts,correctly_undeclared
+com.alibaba.intl.android.apps.poseidon,Diagnostics,unnecessarily_declared
+com.alibaba.intl.android.apps.poseidon,Other app performance data,unnecessarily_declared
+com.alibaba.intl.android.apps.poseidon,Device or other IDs,unnecessarily_declared
+no.mobitroll.kahoot.android,Location,correctly_undeclared
+no.mobitroll.kahoot.android,SMS or MMS,correctly_undeclared
+no.mobitroll.kahoot.android,Contacts,correctly_undeclared
+no.mobitroll.kahoot.android,Diagnostics,unnecessarily_declared
+no.mobitroll.kahoot.android,Other app performance data,correctly_undeclared
+no.mobitroll.kahoot.android,Device or other IDs,correctly_declared
+com.translate.talkingtranslator,Location,correctly_undeclared
+com.translate.talkingtranslator,SMS or MMS,correctly_undeclared
+com.translate.talkingtranslator,Contacts,correctly_undeclared
+com.translate.talkingtranslator,Diagnostics,wrongly_undeclared
+com.translate.talkingtranslator,Other app performance data,wrongly_undeclared
+com.translate.talkingtranslator,Device or other IDs,correctly_declared
+at.helloagain.muellerde,Location,correctly_undeclared
+at.helloagain.muellerde,SMS or MMS,correctly_undeclared
+at.helloagain.muellerde,Contacts,correctly_undeclared
+at.helloagain.muellerde,Diagnostics,correctly_undeclared
+at.helloagain.muellerde,Other app performance data,correctly_undeclared
+at.helloagain.muellerde,Device or other IDs,unnecessarily_declared
+omegle.tv,Location,unnecessarily_declared
+omegle.tv,SMS or MMS,correctly_undeclared
+omegle.tv,Contacts,correctly_undeclared
+omegle.tv,Diagnostics,unnecessarily_declared
+omegle.tv,Other app performance data,correctly_undeclared
+omegle.tv,Device or other IDs,correctly_declared
+de.tui.meinetui,Location,correctly_undeclared
+de.tui.meinetui,SMS or MMS,correctly_undeclared
+de.tui.meinetui,Contacts,correctly_undeclared
+de.tui.meinetui,Diagnostics,correctly_undeclared
+de.tui.meinetui,Other app performance data,correctly_undeclared
+de.tui.meinetui,Device or other IDs,wrongly_undeclared
+com.facebook.orca,Location,unnecessarily_declared
+com.facebook.orca,SMS or MMS,unnecessarily_declared
+com.facebook.orca,Contacts,unnecessarily_declared
+com.facebook.orca,Diagnostics,unnecessarily_declared
+com.facebook.orca,Other app performance data,unnecessarily_declared
+com.facebook.orca,Device or other IDs,unnecessarily_declared
+com.supervpn.vpn.free.proxy,Location,correctly_undeclared
+com.supervpn.vpn.free.proxy,SMS or MMS,correctly_undeclared
+com.supervpn.vpn.free.proxy,Contacts,correctly_undeclared
+com.supervpn.vpn.free.proxy,Diagnostics,wrongly_undeclared
+com.supervpn.vpn.free.proxy,Other app performance data,wrongly_undeclared
+com.supervpn.vpn.free.proxy,Device or other IDs,wrongly_undeclared
+com.myklarnamobile,Location,unnecessarily_declared
+com.myklarnamobile,SMS or MMS,correctly_undeclared
+com.myklarnamobile,Contacts,correctly_undeclared
+com.myklarnamobile,Diagnostics,unnecessarily_declared
+com.myklarnamobile,Other app performance data,unnecessarily_declared
+com.myklarnamobile,Device or other IDs,correctly_declared
+app.prematch,Location,unnecessarily_declared
+app.prematch,SMS or MMS,correctly_undeclared
+app.prematch,Contacts,correctly_undeclared
+app.prematch,Diagnostics,unnecessarily_declared
+app.prematch,Other app performance data,unnecessarily_declared
+app.prematch,Device or other IDs,correctly_declared
+com.zhiliao.musically.livewallpaper,Location,correctly_undeclared
+com.zhiliao.musically.livewallpaper,SMS or MMS,correctly_undeclared
+com.zhiliao.musically.livewallpaper,Contacts,correctly_undeclared
+com.zhiliao.musically.livewallpaper,Diagnostics,unnecessarily_declared
+com.zhiliao.musically.livewallpaper,Other app performance data,correctly_undeclared
+com.zhiliao.musically.livewallpaper,Device or other IDs,unnecessarily_declared
+com.kaufland.Kaufland,Location,correctly_undeclared
+com.kaufland.Kaufland,SMS or MMS,correctly_undeclared
+com.kaufland.Kaufland,Contacts,correctly_undeclared
+com.kaufland.Kaufland,Diagnostics,correctly_undeclared
+com.kaufland.Kaufland,Other app performance data,correctly_undeclared
+com.kaufland.Kaufland,Device or other IDs,correctly_undeclared
+com.graph.weather.forecast.channel,Location,correctly_undeclared
+com.graph.weather.forecast.channel,SMS or MMS,correctly_undeclared
+com.graph.weather.forecast.channel,Contacts,correctly_undeclared
+com.graph.weather.forecast.channel,Diagnostics,correctly_undeclared
+com.graph.weather.forecast.channel,Other app performance data,correctly_undeclared
+com.graph.weather.forecast.channel,Device or other IDs,correctly_undeclared
+com.amazon.mShop.android.shopping,Location,unnecessarily_declared
+com.amazon.mShop.android.shopping,SMS or MMS,correctly_undeclared
+com.amazon.mShop.android.shopping,Contacts,unnecessarily_declared
+com.amazon.mShop.android.shopping,Diagnostics,unnecessarily_declared
+com.amazon.mShop.android.shopping,Other app performance data,unnecessarily_declared
+com.amazon.mShop.android.shopping,Device or other IDs,correctly_declared
+online.appflame.app,Location,correctly_undeclared
+online.appflame.app,SMS or MMS,correctly_undeclared
+online.appflame.app,Contacts,correctly_undeclared
+online.appflame.app,Diagnostics,unnecessarily_declared
+online.appflame.app,Other app performance data,correctly_undeclared
+online.appflame.app,Device or other IDs,correctly_declared
+sixpack.sixpackabs.absworkout,Location,correctly_undeclared
+sixpack.sixpackabs.absworkout,SMS or MMS,correctly_undeclared
+sixpack.sixpackabs.absworkout,Contacts,correctly_undeclared
+sixpack.sixpackabs.absworkout,Diagnostics,correctly_declared
+sixpack.sixpackabs.absworkout,Other app performance data,wrongly_undeclared
+sixpack.sixpackabs.absworkout,Device or other IDs,correctly_declared
+com.codeway.wonder,Location,unnecessarily_declared
+com.codeway.wonder,SMS or MMS,correctly_undeclared
+com.codeway.wonder,Contacts,correctly_undeclared
+com.codeway.wonder,Diagnostics,correctly_declared
+com.codeway.wonder,Other app performance data,wrongly_undeclared
+com.codeway.wonder,Device or other IDs,correctly_declared
+de.barmergek.serviceapp,Location,correctly_undeclared
+de.barmergek.serviceapp,SMS or MMS,correctly_undeclared
+de.barmergek.serviceapp,Contacts,correctly_undeclared
+de.barmergek.serviceapp,Diagnostics,unnecessarily_declared
+de.barmergek.serviceapp,Other app performance data,correctly_undeclared
+de.barmergek.serviceapp,Device or other IDs,unnecessarily_declared
+com.tippingcanoe.mydealz,Location,unnecessarily_declared
+com.tippingcanoe.mydealz,SMS or MMS,correctly_undeclared
+com.tippingcanoe.mydealz,Contacts,correctly_undeclared
+com.tippingcanoe.mydealz,Diagnostics,unnecessarily_declared
+com.tippingcanoe.mydealz,Other app performance data,correctly_undeclared
+com.tippingcanoe.mydealz,Device or other IDs,correctly_declared
+de.wetteronline.wetterapp,Location,unnecessarily_declared
+de.wetteronline.wetterapp,SMS or MMS,correctly_undeclared
+de.wetteronline.wetterapp,Contacts,correctly_undeclared
+de.wetteronline.wetterapp,Diagnostics,unnecessarily_declared
+de.wetteronline.wetterapp,Other app performance data,unnecessarily_declared
+de.wetteronline.wetterapp,Device or other IDs,correctly_declared
+us.zoom.videomeetings,Location,correctly_undeclared
+us.zoom.videomeetings,SMS or MMS,correctly_undeclared
+us.zoom.videomeetings,Contacts,unnecessarily_declared
+us.zoom.videomeetings,Diagnostics,unnecessarily_declared
+us.zoom.videomeetings,Other app performance data,correctly_undeclared
+us.zoom.videomeetings,Device or other IDs,unnecessarily_declared
+de.tagesschau,Location,correctly_undeclared
+de.tagesschau,SMS or MMS,correctly_undeclared
+de.tagesschau,Contacts,correctly_undeclared
+de.tagesschau,Diagnostics,correctly_undeclared
+de.tagesschau,Other app performance data,wrongly_undeclared
+de.tagesschau,Device or other IDs,wrongly_undeclared
+com.niksoftware.snapseed,Location,unnecessarily_declared
+com.niksoftware.snapseed,SMS or MMS,correctly_undeclared
+com.niksoftware.snapseed,Contacts,correctly_undeclared
+com.niksoftware.snapseed,Diagnostics,unnecessarily_declared
+com.niksoftware.snapseed,Other app performance data,unnecessarily_declared
+com.niksoftware.snapseed,Device or other IDs,unnecessarily_declared
+com.germanwings.android,Location,correctly_undeclared
+com.germanwings.android,SMS or MMS,correctly_undeclared
+com.germanwings.android,Contacts,correctly_undeclared
+com.germanwings.android,Diagnostics,correctly_undeclared
+com.germanwings.android,Other app performance data,correctly_undeclared
+com.germanwings.android,Device or other IDs,correctly_undeclared
+de.telekom.entertaintv.smartphone,Location,correctly_undeclared
+de.telekom.entertaintv.smartphone,SMS or MMS,correctly_undeclared
+de.telekom.entertaintv.smartphone,Contacts,correctly_undeclared
+de.telekom.entertaintv.smartphone,Diagnostics,correctly_undeclared
+de.telekom.entertaintv.smartphone,Other app performance data,correctly_undeclared
+de.telekom.entertaintv.smartphone,Device or other IDs,wrongly_undeclared
+qtstudio.minecraft.modsforminecraftpe,Location,correctly_undeclared
+qtstudio.minecraft.modsforminecraftpe,SMS or MMS,correctly_undeclared
+qtstudio.minecraft.modsforminecraftpe,Contacts,correctly_undeclared
+qtstudio.minecraft.modsforminecraftpe,Diagnostics,wrongly_undeclared
+qtstudio.minecraft.modsforminecraftpe,Other app performance data,wrongly_undeclared
+qtstudio.minecraft.modsforminecraftpe,Device or other IDs,wrongly_undeclared
+pdf.reader.pdfreader.pdfviewer.pdfreaderfree,Location,correctly_undeclared
+pdf.reader.pdfreader.pdfviewer.pdfreaderfree,SMS or MMS,correctly_undeclared
+pdf.reader.pdfreader.pdfviewer.pdfreaderfree,Contacts,correctly_undeclared
+pdf.reader.pdfreader.pdfviewer.pdfreaderfree,Diagnostics,wrongly_undeclared
+pdf.reader.pdfreader.pdfviewer.pdfreaderfree,Other app performance data,correctly_undeclared
+pdf.reader.pdfreader.pdfviewer.pdfreaderfree,Device or other IDs,wrongly_undeclared
+de.deutschepost.postident,Location,correctly_undeclared
+de.deutschepost.postident,SMS or MMS,correctly_undeclared
+de.deutschepost.postident,Contacts,correctly_undeclared
+de.deutschepost.postident,Diagnostics,correctly_undeclared
+de.deutschepost.postident,Other app performance data,correctly_undeclared
+de.deutschepost.postident,Device or other IDs,correctly_undeclared
+com.twitter.android,Location,unnecessarily_declared
+com.twitter.android,SMS or MMS,correctly_undeclared
+com.twitter.android,Contacts,unnecessarily_declared
+com.twitter.android,Diagnostics,unnecessarily_declared
+com.twitter.android,Other app performance data,unnecessarily_declared
+com.twitter.android,Device or other IDs,unnecessarily_declared
+jbl.stc.com,Location,correctly_undeclared
+jbl.stc.com,SMS or MMS,correctly_undeclared
+jbl.stc.com,Contacts,correctly_undeclared
+jbl.stc.com,Diagnostics,correctly_undeclared
+jbl.stc.com,Other app performance data,correctly_undeclared
+jbl.stc.com,Device or other IDs,wrongly_undeclared
+life.channel.accurate.local.weather.forecast,Location,wrongly_undeclared
+life.channel.accurate.local.weather.forecast,SMS or MMS,correctly_undeclared
+life.channel.accurate.local.weather.forecast,Contacts,correctly_undeclared
+life.channel.accurate.local.weather.forecast,Diagnostics,wrongly_undeclared
+life.channel.accurate.local.weather.forecast,Other app performance data,wrongly_undeclared
+life.channel.accurate.local.weather.forecast,Device or other IDs,correctly_declared
+com.sweet.boost.deepcleaner,Location,correctly_undeclared
+com.sweet.boost.deepcleaner,SMS or MMS,correctly_undeclared
+com.sweet.boost.deepcleaner,Contacts,correctly_undeclared
+com.sweet.boost.deepcleaner,Diagnostics,wrongly_undeclared
+com.sweet.boost.deepcleaner,Other app performance data,wrongly_undeclared
+com.sweet.boost.deepcleaner,Device or other IDs,wrongly_undeclared
+de.taxfix,Location,correctly_undeclared
+de.taxfix,SMS or MMS,correctly_undeclared
+de.taxfix,Contacts,correctly_undeclared
+de.taxfix,Diagnostics,unnecessarily_declared
+de.taxfix,Other app performance data,correctly_undeclared
+de.taxfix,Device or other IDs,wrongly_undeclared
+org.plantnet,Location,unnecessarily_declared
+org.plantnet,SMS or MMS,correctly_undeclared
+org.plantnet,Contacts,correctly_undeclared
+org.plantnet,Diagnostics,correctly_undeclared
+org.plantnet,Other app performance data,correctly_undeclared
+org.plantnet,Device or other IDs,wrongly_undeclared
+com.picnic.android,Location,correctly_undeclared
+com.picnic.android,SMS or MMS,correctly_undeclared
+com.picnic.android,Contacts,correctly_undeclared
+com.picnic.android,Diagnostics,unnecessarily_declared
+com.picnic.android,Other app performance data,unnecessarily_declared
+com.picnic.android,Device or other IDs,correctly_declared
+com.appblockgames.freecraftexploration,Location,correctly_undeclared
+com.appblockgames.freecraftexploration,SMS or MMS,correctly_undeclared
+com.appblockgames.freecraftexploration,Contacts,correctly_undeclared
+com.appblockgames.freecraftexploration,Diagnostics,correctly_declared
+com.appblockgames.freecraftexploration,Other app performance data,correctly_declared
+com.appblockgames.freecraftexploration,Device or other IDs,correctly_declared
+com.marktguru.mg2.de,Location,unnecessarily_declared
+com.marktguru.mg2.de,SMS or MMS,correctly_undeclared
+com.marktguru.mg2.de,Contacts,correctly_undeclared
+com.marktguru.mg2.de,Diagnostics,unnecessarily_declared
+com.marktguru.mg2.de,Other app performance data,correctly_undeclared
+com.marktguru.mg2.de,Device or other IDs,correctly_declared
+com.app.tgtg,Location,unnecessarily_declared
+com.app.tgtg,SMS or MMS,correctly_undeclared
+com.app.tgtg,Contacts,correctly_undeclared
+com.app.tgtg,Diagnostics,unnecessarily_declared
+com.app.tgtg,Other app performance data,unnecessarily_declared
+com.app.tgtg,Device or other IDs,correctly_declared
+com.outfit7.talkingben,Location,unnecessarily_declared
+com.outfit7.talkingben,SMS or MMS,correctly_undeclared
+com.outfit7.talkingben,Contacts,correctly_undeclared
+com.outfit7.talkingben,Diagnostics,correctly_declared
+com.outfit7.talkingben,Other app performance data,correctly_declared
+com.outfit7.talkingben,Device or other IDs,correctly_declared
+com.distimo.phoneguardian,Location,correctly_undeclared
+com.distimo.phoneguardian,SMS or MMS,correctly_undeclared
+com.distimo.phoneguardian,Contacts,correctly_undeclared
+com.distimo.phoneguardian,Diagnostics,correctly_undeclared
+com.distimo.phoneguardian,Other app performance data,unnecessarily_declared
+com.distimo.phoneguardian,Device or other IDs,unnecessarily_declared
+de.sgdynamodresden.dynamodresden,Location,correctly_undeclared
+de.sgdynamodresden.dynamodresden,SMS or MMS,correctly_undeclared
+de.sgdynamodresden.dynamodresden,Contacts,correctly_undeclared
+de.sgdynamodresden.dynamodresden,Diagnostics,correctly_undeclared
+de.sgdynamodresden.dynamodresden,Other app performance data,correctly_undeclared
+de.sgdynamodresden.dynamodresden,Device or other IDs,wrongly_undeclared
+com.shaiban.audioplayer.mplayer,Location,unnecessarily_declared
+com.shaiban.audioplayer.mplayer,SMS or MMS,correctly_undeclared
+com.shaiban.audioplayer.mplayer,Contacts,unnecessarily_declared
+com.shaiban.audioplayer.mplayer,Diagnostics,correctly_declared
+com.shaiban.audioplayer.mplayer,Other app performance data,correctly_declared
+com.shaiban.audioplayer.mplayer,Device or other IDs,correctly_declared
+com.bravo.booster,Location,correctly_undeclared
+com.bravo.booster,SMS or MMS,correctly_undeclared
+com.bravo.booster,Contacts,correctly_undeclared
+com.bravo.booster,Diagnostics,correctly_declared
+com.bravo.booster,Other app performance data,correctly_declared
+com.bravo.booster,Device or other IDs,correctly_declared
+de.zalando.mobile,Location,correctly_undeclared
+de.zalando.mobile,SMS or MMS,correctly_undeclared
+de.zalando.mobile,Contacts,correctly_undeclared
+de.zalando.mobile,Diagnostics,unnecessarily_declared
+de.zalando.mobile,Other app performance data,correctly_undeclared
+de.zalando.mobile,Device or other IDs,unnecessarily_declared
+com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner,Location,correctly_undeclared
+com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner,SMS or MMS,correctly_undeclared
+com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner,Contacts,correctly_undeclared
+com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner,Diagnostics,correctly_undeclared
+com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner,Other app performance data,correctly_undeclared
+com.camscanner.documentscanner.pdfscanner.textscanner.photos.scanner,Device or other IDs,wrongly_undeclared
+de.itech_gmbh.meinlaborergebnis,Location,correctly_undeclared
+de.itech_gmbh.meinlaborergebnis,SMS or MMS,correctly_undeclared
+de.itech_gmbh.meinlaborergebnis,Contacts,correctly_undeclared
+de.itech_gmbh.meinlaborergebnis,Diagnostics,unnecessarily_declared
+de.itech_gmbh.meinlaborergebnis,Other app performance data,wrongly_undeclared
+de.itech_gmbh.meinlaborergebnis,Device or other IDs,unnecessarily_declared
+de.heinekingmedia.dsbmobile,Location,correctly_undeclared
+de.heinekingmedia.dsbmobile,SMS or MMS,correctly_undeclared
+de.heinekingmedia.dsbmobile,Contacts,correctly_undeclared
+de.heinekingmedia.dsbmobile,Diagnostics,correctly_undeclared
+de.heinekingmedia.dsbmobile,Other app performance data,correctly_undeclared
+de.heinekingmedia.dsbmobile,Device or other IDs,wrongly_undeclared
+com.wolt.android,Location,unnecessarily_declared
+com.wolt.android,SMS or MMS,unnecessarily_declared
+com.wolt.android,Contacts,correctly_undeclared
+com.wolt.android,Diagnostics,correctly_declared
+com.wolt.android,Other app performance data,correctly_declared
+com.wolt.android,Device or other IDs,correctly_declared
+com.outdooractive.Outdooractive,Location,unnecessarily_declared
+com.outdooractive.Outdooractive,SMS or MMS,correctly_undeclared
+com.outdooractive.Outdooractive,Contacts,correctly_undeclared
+com.outdooractive.Outdooractive,Diagnostics,unnecessarily_declared
+com.outdooractive.Outdooractive,Other app performance data,correctly_undeclared
+com.outdooractive.Outdooractive,Device or other IDs,correctly_declared
+pdfreader.pdfviewer.officetool.pdfscanner,Location,correctly_undeclared
+pdfreader.pdfviewer.officetool.pdfscanner,SMS or MMS,correctly_undeclared
+pdfreader.pdfviewer.officetool.pdfscanner,Contacts,correctly_undeclared
+pdfreader.pdfviewer.officetool.pdfscanner,Diagnostics,wrongly_undeclared
+pdfreader.pdfviewer.officetool.pdfscanner,Other app performance data,correctly_undeclared
+pdfreader.pdfviewer.officetool.pdfscanner,Device or other IDs,wrongly_undeclared
+org.iggymedia.periodtracker,Location,unnecessarily_declared
+org.iggymedia.periodtracker,SMS or MMS,correctly_undeclared
+org.iggymedia.periodtracker,Contacts,correctly_undeclared
+org.iggymedia.periodtracker,Diagnostics,unnecessarily_declared
+org.iggymedia.periodtracker,Other app performance data,correctly_undeclared
+org.iggymedia.periodtracker,Device or other IDs,unnecessarily_declared
+com.asos.app,Location,unnecessarily_declared
+com.asos.app,SMS or MMS,correctly_undeclared
+com.asos.app,Contacts,correctly_undeclared
+com.asos.app,Diagnostics,unnecessarily_declared
+com.asos.app,Other app performance data,correctly_undeclared
+com.asos.app,Device or other IDs,correctly_declared
+de.dm.meindm.android,Location,correctly_undeclared
+de.dm.meindm.android,SMS or MMS,correctly_undeclared
+de.dm.meindm.android,Contacts,correctly_undeclared
+de.dm.meindm.android,Diagnostics,unnecessarily_declared
+de.dm.meindm.android,Other app performance data,correctly_undeclared
+de.dm.meindm.android,Device or other IDs,unnecessarily_declared
+com.google.android.apps.chromecast.app,Location,unnecessarily_declared
+com.google.android.apps.chromecast.app,SMS or MMS,correctly_undeclared
+com.google.android.apps.chromecast.app,Contacts,unnecessarily_declared
+com.google.android.apps.chromecast.app,Diagnostics,unnecessarily_declared
+com.google.android.apps.chromecast.app,Other app performance data,unnecessarily_declared
+com.google.android.apps.chromecast.app,Device or other IDs,correctly_declared
+com.lightinthebox.android,Location,correctly_undeclared
+com.lightinthebox.android,SMS or MMS,correctly_undeclared
+com.lightinthebox.android,Contacts,correctly_undeclared
+com.lightinthebox.android,Diagnostics,correctly_undeclared
+com.lightinthebox.android,Other app performance data,wrongly_undeclared
+com.lightinthebox.android,Device or other IDs,correctly_declared
+free.video.downloader.converter.music,Location,correctly_undeclared
+free.video.downloader.converter.music,SMS or MMS,correctly_undeclared
+free.video.downloader.converter.music,Contacts,correctly_undeclared
+free.video.downloader.converter.music,Diagnostics,correctly_undeclared
+free.video.downloader.converter.music,Other app performance data,correctly_undeclared
+free.video.downloader.converter.music,Device or other IDs,correctly_undeclared
+com.comuto,Location,correctly_undeclared
+com.comuto,SMS or MMS,correctly_undeclared
+com.comuto,Contacts,correctly_undeclared
+com.comuto,Diagnostics,correctly_undeclared
+com.comuto,Other app performance data,correctly_undeclared
+com.comuto,Device or other IDs,wrongly_undeclared
+com.ztnstudio.notepad,Location,unnecessarily_declared
+com.ztnstudio.notepad,SMS or MMS,correctly_undeclared
+com.ztnstudio.notepad,Contacts,correctly_undeclared
+com.ztnstudio.notepad,Diagnostics,correctly_declared
+com.ztnstudio.notepad,Other app performance data,correctly_declared
+com.ztnstudio.notepad,Device or other IDs,correctly_declared
+com.paybyphone,Location,unnecessarily_declared
+com.paybyphone,SMS or MMS,correctly_undeclared
+com.paybyphone,Contacts,correctly_undeclared
+com.paybyphone,Diagnostics,unnecessarily_declared
+com.paybyphone,Other app performance data,unnecessarily_declared
+com.paybyphone,Device or other IDs,correctly_declared
+app.android.qrscanner,Location,correctly_undeclared
+app.android.qrscanner,SMS or MMS,correctly_undeclared
+app.android.qrscanner,Contacts,correctly_undeclared
+app.android.qrscanner,Diagnostics,wrongly_undeclared
+app.android.qrscanner,Other app performance data,wrongly_undeclared
+app.android.qrscanner,Device or other IDs,correctly_declared
+net.easypark.android,Location,unnecessarily_declared
+net.easypark.android,SMS or MMS,correctly_undeclared
+net.easypark.android,Contacts,correctly_undeclared
+net.easypark.android,Diagnostics,wrongly_undeclared
+net.easypark.android,Other app performance data,wrongly_undeclared
+net.easypark.android,Device or other IDs,correctly_declared
+de.aldiNord.android,Location,unnecessarily_declared
+de.aldiNord.android,SMS or MMS,correctly_undeclared
+de.aldiNord.android,Contacts,correctly_undeclared
+de.aldiNord.android,Diagnostics,unnecessarily_declared
+de.aldiNord.android,Other app performance data,wrongly_undeclared
+de.aldiNord.android,Device or other IDs,unnecessarily_declared
+com.xiaomi.wearable,Location,correctly_undeclared
+com.xiaomi.wearable,SMS or MMS,correctly_undeclared
+com.xiaomi.wearable,Contacts,correctly_undeclared
+com.xiaomi.wearable,Diagnostics,correctly_undeclared
+com.xiaomi.wearable,Other app performance data,correctly_undeclared
+com.xiaomi.wearable,Device or other IDs,unnecessarily_declared
+eu.livesport.FlashScore_com,Location,correctly_undeclared
+eu.livesport.FlashScore_com,SMS or MMS,correctly_undeclared
+eu.livesport.FlashScore_com,Contacts,correctly_undeclared
+eu.livesport.FlashScore_com,Diagnostics,unnecessarily_declared
+eu.livesport.FlashScore_com,Other app performance data,unnecessarily_declared
+eu.livesport.FlashScore_com,Device or other IDs,correctly_declared
+com.quizlet.quizletandroid,Location,unnecessarily_declared
+com.quizlet.quizletandroid,SMS or MMS,correctly_undeclared
+com.quizlet.quizletandroid,Contacts,correctly_undeclared
+com.quizlet.quizletandroid,Diagnostics,unnecessarily_declared
+com.quizlet.quizletandroid,Other app performance data,correctly_undeclared
+com.quizlet.quizletandroid,Device or other IDs,correctly_declared
+fr.doctolib.www,Location,unnecessarily_declared
+fr.doctolib.www,SMS or MMS,correctly_undeclared
+fr.doctolib.www,Contacts,correctly_undeclared
+fr.doctolib.www,Diagnostics,unnecessarily_declared
+fr.doctolib.www,Other app performance data,unnecessarily_declared
+fr.doctolib.www,Device or other IDs,unnecessarily_declared
+com.soomapps.screenmirroring,Location,correctly_undeclared
+com.soomapps.screenmirroring,SMS or MMS,correctly_undeclared
+com.soomapps.screenmirroring,Contacts,correctly_undeclared
+com.soomapps.screenmirroring,Diagnostics,wrongly_undeclared
+com.soomapps.screenmirroring,Other app performance data,correctly_undeclared
+com.soomapps.screenmirroring,Device or other IDs,correctly_undeclared
+org.laytops.securedcleaner,Location,correctly_undeclared
+org.laytops.securedcleaner,SMS or MMS,correctly_undeclared
+org.laytops.securedcleaner,Contacts,correctly_undeclared
+org.laytops.securedcleaner,Diagnostics,correctly_declared
+org.laytops.securedcleaner,Other app performance data,correctly_undeclared
+org.laytops.securedcleaner,Device or other IDs,correctly_undeclared
+de.metro.alex.customer.digitalcard.metro,Location,unnecessarily_declared
+de.metro.alex.customer.digitalcard.metro,SMS or MMS,correctly_undeclared
+de.metro.alex.customer.digitalcard.metro,Contacts,correctly_undeclared
+de.metro.alex.customer.digitalcard.metro,Diagnostics,correctly_undeclared
+de.metro.alex.customer.digitalcard.metro,Other app performance data,correctly_undeclared
+de.metro.alex.customer.digitalcard.metro,Device or other IDs,correctly_declared
+de.materna.bbk.mobile.app,Location,correctly_undeclared
+de.materna.bbk.mobile.app,SMS or MMS,correctly_undeclared
+de.materna.bbk.mobile.app,Contacts,correctly_undeclared
+de.materna.bbk.mobile.app,Diagnostics,unnecessarily_declared
+de.materna.bbk.mobile.app,Other app performance data,unnecessarily_declared
+de.materna.bbk.mobile.app,Device or other IDs,unnecessarily_declared
+com.sixt.reservation,Location,correctly_undeclared
+com.sixt.reservation,SMS or MMS,correctly_undeclared
+com.sixt.reservation,Contacts,correctly_undeclared
+com.sixt.reservation,Diagnostics,correctly_undeclared
+com.sixt.reservation,Other app performance data,correctly_undeclared
+com.sixt.reservation,Device or other IDs,correctly_declared
+de.mobilesoftwareag.clevertanken,Location,unnecessarily_declared
+de.mobilesoftwareag.clevertanken,SMS or MMS,correctly_undeclared
+de.mobilesoftwareag.clevertanken,Contacts,correctly_undeclared
+de.mobilesoftwareag.clevertanken,Diagnostics,unnecessarily_declared
+de.mobilesoftwareag.clevertanken,Other app performance data,wrongly_undeclared
+de.mobilesoftwareag.clevertanken,Device or other IDs,correctly_declared
+com.mxxtech.easyscan,Location,correctly_undeclared
+com.mxxtech.easyscan,SMS or MMS,correctly_undeclared
+com.mxxtech.easyscan,Contacts,correctly_undeclared
+com.mxxtech.easyscan,Diagnostics,wrongly_undeclared
+com.mxxtech.easyscan,Other app performance data,wrongly_undeclared
+com.mxxtech.easyscan,Device or other IDs,correctly_declared
+com.adidas.app,Location,unnecessarily_declared
+com.adidas.app,SMS or MMS,correctly_undeclared
+com.adidas.app,Contacts,correctly_undeclared
+com.adidas.app,Diagnostics,unnecessarily_declared
+com.adidas.app,Other app performance data,correctly_undeclared
+com.adidas.app,Device or other IDs,correctly_declared
+com.lidl.eci.lidlplus,Location,correctly_undeclared
+com.lidl.eci.lidlplus,SMS or MMS,correctly_undeclared
+com.lidl.eci.lidlplus,Contacts,correctly_undeclared
+com.lidl.eci.lidlplus,Diagnostics,unnecessarily_declared
+com.lidl.eci.lidlplus,Other app performance data,unnecessarily_declared
+com.lidl.eci.lidlplus,Device or other IDs,correctly_declared
+co.bird.android,Location,unnecessarily_declared
+co.bird.android,SMS or MMS,correctly_undeclared
+co.bird.android,Contacts,correctly_undeclared
+co.bird.android,Diagnostics,unnecessarily_declared
+co.bird.android,Other app performance data,unnecessarily_declared
+co.bird.android,Device or other IDs,correctly_declared
+com.sec.android.easyMover,Location,correctly_undeclared
+com.sec.android.easyMover,SMS or MMS,correctly_undeclared
+com.sec.android.easyMover,Contacts,correctly_undeclared
+com.sec.android.easyMover,Diagnostics,unnecessarily_declared
+com.sec.android.easyMover,Other app performance data,unnecessarily_declared
+com.sec.android.easyMover,Device or other IDs,correctly_undeclared
+com.netbiscuits.kicker,Location,correctly_undeclared
+com.netbiscuits.kicker,SMS or MMS,correctly_undeclared
+com.netbiscuits.kicker,Contacts,correctly_undeclared
+com.netbiscuits.kicker,Diagnostics,unnecessarily_declared
+com.netbiscuits.kicker,Other app performance data,correctly_declared
+com.netbiscuits.kicker,Device or other IDs,correctly_declared
+com.google.ar.lens,Location,unnecessarily_declared
+com.google.ar.lens,SMS or MMS,correctly_undeclared
+com.google.ar.lens,Contacts,correctly_undeclared
+com.google.ar.lens,Diagnostics,unnecessarily_declared
+com.google.ar.lens,Other app performance data,correctly_undeclared
+com.google.ar.lens,Device or other IDs,correctly_declared
+org.mozilla.firefox,Location,unnecessarily_declared
+org.mozilla.firefox,SMS or MMS,correctly_undeclared
+org.mozilla.firefox,Contacts,correctly_undeclared
+org.mozilla.firefox,Diagnostics,unnecessarily_declared
+org.mozilla.firefox,Other app performance data,correctly_undeclared
+org.mozilla.firefox,Device or other IDs,correctly_declared
+com.popularapp.periodcalendar,Location,correctly_undeclared
+com.popularapp.periodcalendar,SMS or MMS,correctly_undeclared
+com.popularapp.periodcalendar,Contacts,correctly_undeclared
+com.popularapp.periodcalendar,Diagnostics,unnecessarily_declared
+com.popularapp.periodcalendar,Other app performance data,correctly_undeclared
+com.popularapp.periodcalendar,Device or other IDs,correctly_declared
+com.dazn,Location,correctly_undeclared
+com.dazn,SMS or MMS,correctly_undeclared
+com.dazn,Contacts,correctly_undeclared
+com.dazn,Diagnostics,unnecessarily_declared
+com.dazn,Other app performance data,unnecessarily_declared
+com.dazn,Device or other IDs,correctly_declared
+com.mobility_trader_gmbh.heycar,Location,unnecessarily_declared
+com.mobility_trader_gmbh.heycar,SMS or MMS,correctly_undeclared
+com.mobility_trader_gmbh.heycar,Contacts,correctly_undeclared
+com.mobility_trader_gmbh.heycar,Diagnostics,correctly_declared
+com.mobility_trader_gmbh.heycar,Other app performance data,wrongly_undeclared
+com.mobility_trader_gmbh.heycar,Device or other IDs,correctly_declared
+com.vacationrentals.homeaway,Location,unnecessarily_declared
+com.vacationrentals.homeaway,SMS or MMS,correctly_undeclared
+com.vacationrentals.homeaway,Contacts,correctly_undeclared
+com.vacationrentals.homeaway,Diagnostics,correctly_declared
+com.vacationrentals.homeaway,Other app performance data,correctly_declared
+com.vacationrentals.homeaway,Device or other IDs,correctly_declared
+tv.twitch.android.app,Location,unnecessarily_declared
+tv.twitch.android.app,SMS or MMS,correctly_undeclared
+tv.twitch.android.app,Contacts,correctly_undeclared
+tv.twitch.android.app,Diagnostics,correctly_declared
+tv.twitch.android.app,Other app performance data,correctly_declared
+tv.twitch.android.app,Device or other IDs,correctly_declared
+mobile.expert.app,Location,unnecessarily_declared
+mobile.expert.app,SMS or MMS,correctly_undeclared
+mobile.expert.app,Contacts,correctly_undeclared
+mobile.expert.app,Diagnostics,wrongly_undeclared
+mobile.expert.app,Other app performance data,wrongly_undeclared
+mobile.expert.app,Device or other IDs,correctly_declared
+com.kfc.de.mobileapp,Location,correctly_undeclared
+com.kfc.de.mobileapp,SMS or MMS,correctly_undeclared
+com.kfc.de.mobileapp,Contacts,correctly_undeclared
+com.kfc.de.mobileapp,Diagnostics,correctly_undeclared
+com.kfc.de.mobileapp,Other app performance data,correctly_undeclared
+com.kfc.de.mobileapp,Device or other IDs,wrongly_undeclared
+cn.danatech.xingseus,Location,correctly_undeclared
+cn.danatech.xingseus,SMS or MMS,correctly_undeclared
+cn.danatech.xingseus,Contacts,correctly_undeclared
+cn.danatech.xingseus,Diagnostics,unnecessarily_declared
+cn.danatech.xingseus,Other app performance data,correctly_undeclared
+cn.danatech.xingseus,Device or other IDs,unnecessarily_declared
+sg.bigo.live,Location,unnecessarily_declared
+sg.bigo.live,SMS or MMS,correctly_undeclared
+sg.bigo.live,Contacts,correctly_undeclared
+sg.bigo.live,Diagnostics,correctly_undeclared
+sg.bigo.live,Other app performance data,correctly_undeclared
+sg.bigo.live,Device or other IDs,wrongly_undeclared
+com.studysmarter,Location,correctly_undeclared
+com.studysmarter,SMS or MMS,correctly_undeclared
+com.studysmarter,Contacts,correctly_undeclared
+com.studysmarter,Diagnostics,correctly_undeclared
+com.studysmarter,Other app performance data,correctly_undeclared
+com.studysmarter,Device or other IDs,correctly_declared
+phonecleaner.androidmaster.cleanupspace.phone.booster,Location,correctly_undeclared
+phonecleaner.androidmaster.cleanupspace.phone.booster,SMS or MMS,correctly_undeclared
+phonecleaner.androidmaster.cleanupspace.phone.booster,Contacts,correctly_undeclared
+phonecleaner.androidmaster.cleanupspace.phone.booster,Diagnostics,correctly_undeclared
+phonecleaner.androidmaster.cleanupspace.phone.booster,Other app performance data,correctly_undeclared
+phonecleaner.androidmaster.cleanupspace.phone.booster,Device or other IDs,wrongly_undeclared
+com.truedevelopersstudio.automatictap.autoclicker,Location,correctly_undeclared
+com.truedevelopersstudio.automatictap.autoclicker,SMS or MMS,correctly_undeclared
+com.truedevelopersstudio.automatictap.autoclicker,Contacts,correctly_undeclared
+com.truedevelopersstudio.automatictap.autoclicker,Diagnostics,unnecessarily_declared
+com.truedevelopersstudio.automatictap.autoclicker,Other app performance data,unnecessarily_declared
+com.truedevelopersstudio.automatictap.autoclicker,Device or other IDs,correctly_declared
+com.appswing.qr.barcodescanner.barcodereader,Location,correctly_undeclared
+com.appswing.qr.barcodescanner.barcodereader,SMS or MMS,correctly_undeclared
+com.appswing.qr.barcodescanner.barcodereader,Contacts,correctly_undeclared
+com.appswing.qr.barcodescanner.barcodereader,Diagnostics,wrongly_undeclared
+com.appswing.qr.barcodescanner.barcodereader,Other app performance data,correctly_undeclared
+com.appswing.qr.barcodescanner.barcodereader,Device or other IDs,wrongly_undeclared
+com.canva.editor,Location,correctly_undeclared
+com.canva.editor,SMS or MMS,correctly_undeclared
+com.canva.editor,Contacts,correctly_undeclared
+com.canva.editor,Diagnostics,correctly_declared
+com.canva.editor,Other app performance data,correctly_declared
+com.canva.editor,Device or other IDs,correctly_declared
+com.deepl.mobiletranslator,Location,correctly_undeclared
+com.deepl.mobiletranslator,SMS or MMS,correctly_undeclared
+com.deepl.mobiletranslator,Contacts,correctly_undeclared
+com.deepl.mobiletranslator,Diagnostics,correctly_undeclared
+com.deepl.mobiletranslator,Other app performance data,correctly_undeclared
+com.deepl.mobiletranslator,Device or other IDs,correctly_undeclared
+com.weather.forecast.weatherchannel,Location,correctly_undeclared
+com.weather.forecast.weatherchannel,SMS or MMS,correctly_undeclared
+com.weather.forecast.weatherchannel,Contacts,correctly_undeclared
+com.weather.forecast.weatherchannel,Diagnostics,correctly_undeclared
+com.weather.forecast.weatherchannel,Other app performance data,correctly_undeclared
+com.weather.forecast.weatherchannel,Device or other IDs,wrongly_undeclared
+com.bitstrips.imoji,Location,correctly_undeclared
+com.bitstrips.imoji,SMS or MMS,correctly_undeclared
+com.bitstrips.imoji,Contacts,unnecessarily_declared
+com.bitstrips.imoji,Diagnostics,unnecessarily_declared
+com.bitstrips.imoji,Other app performance data,unnecessarily_declared
+com.bitstrips.imoji,Device or other IDs,unnecessarily_declared
+com.lemon.lvoverseas,Location,unnecessarily_declared
+com.lemon.lvoverseas,SMS or MMS,correctly_undeclared
+com.lemon.lvoverseas,Contacts,correctly_undeclared
+com.lemon.lvoverseas,Diagnostics,unnecessarily_declared
+com.lemon.lvoverseas,Other app performance data,correctly_undeclared
+com.lemon.lvoverseas,Device or other IDs,correctly_declared
+com.audiomack,Location,unnecessarily_declared
+com.audiomack,SMS or MMS,correctly_undeclared
+com.audiomack,Contacts,correctly_undeclared
+com.audiomack,Diagnostics,unnecessarily_declared
+com.audiomack,Other app performance data,correctly_undeclared
+com.audiomack,Device or other IDs,correctly_declared
+com.moodle.moodlemobile,Location,correctly_undeclared
+com.moodle.moodlemobile,SMS or MMS,correctly_undeclared
+com.moodle.moodlemobile,Contacts,correctly_undeclared
+com.moodle.moodlemobile,Diagnostics,correctly_undeclared
+com.moodle.moodlemobile,Other app performance data,correctly_undeclared
+com.moodle.moodlemobile,Device or other IDs,correctly_undeclared
+io.gonative.android.pmqloj,Location,unnecessarily_declared
+io.gonative.android.pmqloj,SMS or MMS,correctly_undeclared
+io.gonative.android.pmqloj,Contacts,correctly_undeclared
+io.gonative.android.pmqloj,Diagnostics,unnecessarily_declared
+io.gonative.android.pmqloj,Other app performance data,correctly_undeclared
+io.gonative.android.pmqloj,Device or other IDs,correctly_declared
+com.medion.alditalkactivation,Location,correctly_undeclared
+com.medion.alditalkactivation,SMS or MMS,correctly_undeclared
+com.medion.alditalkactivation,Contacts,correctly_undeclared
+com.medion.alditalkactivation,Diagnostics,correctly_undeclared
+com.medion.alditalkactivation,Other app performance data,correctly_undeclared
+com.medion.alditalkactivation,Device or other IDs,correctly_undeclared
+de.sky.online,Location,correctly_undeclared
+de.sky.online,SMS or MMS,correctly_undeclared
+de.sky.online,Contacts,correctly_undeclared
+de.sky.online,Diagnostics,correctly_undeclared
+de.sky.online,Other app performance data,correctly_undeclared
+de.sky.online,Device or other IDs,correctly_undeclared
+io.walletpasses.android,Location,correctly_undeclared
+io.walletpasses.android,SMS or MMS,correctly_undeclared
+io.walletpasses.android,Contacts,correctly_undeclared
+io.walletpasses.android,Diagnostics,correctly_undeclared
+io.walletpasses.android,Other app performance data,correctly_undeclared
+io.walletpasses.android,Device or other IDs,wrongly_undeclared
+com.facebook.mlite,Location,unnecessarily_declared
+com.facebook.mlite,SMS or MMS,unnecessarily_declared
+com.facebook.mlite,Contacts,unnecessarily_declared
+com.facebook.mlite,Diagnostics,unnecessarily_declared
+com.facebook.mlite,Other app performance data,unnecessarily_declared
+com.facebook.mlite,Device or other IDs,unnecessarily_declared
+com.fitbit.FitbitMobile,Location,unnecessarily_declared
+com.fitbit.FitbitMobile,SMS or MMS,correctly_undeclared
+com.fitbit.FitbitMobile,Contacts,unnecessarily_declared
+com.fitbit.FitbitMobile,Diagnostics,unnecessarily_declared
+com.fitbit.FitbitMobile,Other app performance data,correctly_undeclared
+com.fitbit.FitbitMobile,Device or other IDs,correctly_declared
+com.engro.cleanerforsns,Location,correctly_undeclared
+com.engro.cleanerforsns,SMS or MMS,correctly_undeclared
+com.engro.cleanerforsns,Contacts,correctly_undeclared
+com.engro.cleanerforsns,Diagnostics,correctly_declared
+com.engro.cleanerforsns,Other app performance data,wrongly_undeclared
+com.engro.cleanerforsns,Device or other IDs,correctly_declared
+net.lovoo.android,Location,unnecessarily_declared
+net.lovoo.android,SMS or MMS,correctly_undeclared
+net.lovoo.android,Contacts,correctly_undeclared
+net.lovoo.android,Diagnostics,wrongly_undeclared
+net.lovoo.android,Other app performance data,correctly_declared
+net.lovoo.android,Device or other IDs,correctly_declared
+com.adobe.lrmobile,Location,unnecessarily_declared
+com.adobe.lrmobile,SMS or MMS,correctly_undeclared
+com.adobe.lrmobile,Contacts,correctly_undeclared
+com.adobe.lrmobile,Diagnostics,correctly_declared
+com.adobe.lrmobile,Other app performance data,wrongly_undeclared
+com.adobe.lrmobile,Device or other IDs,correctly_declared
+com.hm.goe,Location,unnecessarily_declared
+com.hm.goe,SMS or MMS,correctly_undeclared
+com.hm.goe,Contacts,correctly_undeclared
+com.hm.goe,Diagnostics,unnecessarily_declared
+com.hm.goe,Other app performance data,correctly_undeclared
+com.hm.goe,Device or other IDs,correctly_declared
+free.vpn.unblock.proxy.turbovpn,Location,correctly_undeclared
+free.vpn.unblock.proxy.turbovpn,SMS or MMS,correctly_undeclared
+free.vpn.unblock.proxy.turbovpn,Contacts,correctly_undeclared
+free.vpn.unblock.proxy.turbovpn,Diagnostics,unnecessarily_declared
+free.vpn.unblock.proxy.turbovpn,Other app performance data,correctly_undeclared
+free.vpn.unblock.proxy.turbovpn,Device or other IDs,correctly_declared
+ch.publisheria.bring,Location,unnecessarily_declared
+ch.publisheria.bring,SMS or MMS,correctly_undeclared
+ch.publisheria.bring,Contacts,correctly_undeclared
+ch.publisheria.bring,Diagnostics,unnecessarily_declared
+ch.publisheria.bring,Other app performance data,correctly_undeclared
+ch.publisheria.bring,Device or other IDs,correctly_declared
+com.screen.mirroring.tv.cast.remote,Location,correctly_undeclared
+com.screen.mirroring.tv.cast.remote,SMS or MMS,correctly_undeclared
+com.screen.mirroring.tv.cast.remote,Contacts,correctly_undeclared
+com.screen.mirroring.tv.cast.remote,Diagnostics,wrongly_undeclared
+com.screen.mirroring.tv.cast.remote,Other app performance data,correctly_undeclared
+com.screen.mirroring.tv.cast.remote,Device or other IDs,wrongly_undeclared
+com.bereal.ft,Location,correctly_undeclared
+com.bereal.ft,SMS or MMS,correctly_undeclared
+com.bereal.ft,Contacts,correctly_undeclared
+com.bereal.ft,Diagnostics,correctly_undeclared
+com.bereal.ft,Other app performance data,correctly_undeclared
+com.bereal.ft,Device or other IDs,correctly_declared
+de.radio.android,Location,unnecessarily_declared
+de.radio.android,SMS or MMS,correctly_undeclared
+de.radio.android,Contacts,correctly_undeclared
+de.radio.android,Diagnostics,unnecessarily_declared
+de.radio.android,Other app performance data,unnecessarily_declared
+de.radio.android,Device or other IDs,correctly_declared
+de.buhl.steuerphone,Location,correctly_undeclared
+de.buhl.steuerphone,SMS or MMS,correctly_undeclared
+de.buhl.steuerphone,Contacts,correctly_undeclared
+de.buhl.steuerphone,Diagnostics,correctly_undeclared
+de.buhl.steuerphone,Other app performance data,correctly_undeclared
+de.buhl.steuerphone,Device or other IDs,correctly_declared
+com.documentscan.simplescan.scanpdf,Location,correctly_undeclared
+com.documentscan.simplescan.scanpdf,SMS or MMS,correctly_undeclared
+com.documentscan.simplescan.scanpdf,Contacts,correctly_undeclared
+com.documentscan.simplescan.scanpdf,Diagnostics,wrongly_undeclared
+com.documentscan.simplescan.scanpdf,Other app performance data,wrongly_undeclared
+com.documentscan.simplescan.scanpdf,Device or other IDs,correctly_declared
+com.bjoernbartels.mylove,Location,correctly_undeclared
+com.bjoernbartels.mylove,SMS or MMS,correctly_undeclared
+com.bjoernbartels.mylove,Contacts,correctly_undeclared
+com.bjoernbartels.mylove,Diagnostics,wrongly_undeclared
+com.bjoernbartels.mylove,Other app performance data,correctly_undeclared
+com.bjoernbartels.mylove,Device or other IDs,correctly_undeclared
+com.crrepa.band.dafit,Location,correctly_undeclared
+com.crrepa.band.dafit,SMS or MMS,correctly_undeclared
+com.crrepa.band.dafit,Contacts,correctly_undeclared
+com.crrepa.band.dafit,Diagnostics,unnecessarily_declared
+com.crrepa.band.dafit,Other app performance data,unnecessarily_declared
+com.crrepa.band.dafit,Device or other IDs,unnecessarily_declared
+de.lidlconnect.android,Location,correctly_undeclared
+de.lidlconnect.android,SMS or MMS,correctly_undeclared
+de.lidlconnect.android,Contacts,correctly_undeclared
+de.lidlconnect.android,Diagnostics,correctly_undeclared
+de.lidlconnect.android,Other app performance data,correctly_undeclared
+de.lidlconnect.android,Device or other IDs,wrongly_undeclared
+qrcodereader.barcodescanner.scan.qrscanner,Location,correctly_undeclared
+qrcodereader.barcodescanner.scan.qrscanner,SMS or MMS,correctly_undeclared
+qrcodereader.barcodescanner.scan.qrscanner,Contacts,correctly_undeclared
+qrcodereader.barcodescanner.scan.qrscanner,Diagnostics,correctly_declared
+qrcodereader.barcodescanner.scan.qrscanner,Other app performance data,wrongly_undeclared
+qrcodereader.barcodescanner.scan.qrscanner,Device or other IDs,correctly_declared
+com.babbel.mobile.android.en,Location,unnecessarily_declared
+com.babbel.mobile.android.en,SMS or MMS,correctly_undeclared
+com.babbel.mobile.android.en,Contacts,correctly_undeclared
+com.babbel.mobile.android.en,Diagnostics,unnecessarily_declared
+com.babbel.mobile.android.en,Other app performance data,correctly_undeclared
+com.babbel.mobile.android.en,Device or other IDs,correctly_declared
+com.digidust.elokence.akinator.freemium,Location,correctly_undeclared
+com.digidust.elokence.akinator.freemium,SMS or MMS,correctly_undeclared
+com.digidust.elokence.akinator.freemium,Contacts,correctly_undeclared
+com.digidust.elokence.akinator.freemium,Diagnostics,correctly_undeclared
+com.digidust.elokence.akinator.freemium,Other app performance data,wrongly_undeclared
+com.digidust.elokence.akinator.freemium,Device or other IDs,correctly_declared
+com.saramart.android,Location,unnecessarily_declared
+com.saramart.android,SMS or MMS,correctly_undeclared
+com.saramart.android,Contacts,correctly_undeclared
+com.saramart.android,Diagnostics,correctly_declared
+com.saramart.android,Other app performance data,correctly_declared
+com.saramart.android,Device or other IDs,correctly_declared
+com.ruuky.app,Location,correctly_undeclared
+com.ruuky.app,SMS or MMS,correctly_undeclared
+com.ruuky.app,Contacts,correctly_undeclared
+com.ruuky.app,Diagnostics,unnecessarily_declared
+com.ruuky.app,Other app performance data,unnecessarily_declared
+com.ruuky.app,Device or other IDs,correctly_declared
+com.picsart.studio,Location,unnecessarily_declared
+com.picsart.studio,SMS or MMS,correctly_undeclared
+com.picsart.studio,Contacts,unnecessarily_declared
+com.picsart.studio,Diagnostics,correctly_declared
+com.picsart.studio,Other app performance data,wrongly_undeclared
+com.picsart.studio,Device or other IDs,correctly_declared
+co.gocrush,Location,unnecessarily_declared
+co.gocrush,SMS or MMS,correctly_undeclared
+co.gocrush,Contacts,correctly_undeclared
+co.gocrush,Diagnostics,unnecessarily_declared
+co.gocrush,Other app performance data,unnecessarily_declared
+co.gocrush,Device or other IDs,correctly_declared
+com.intsig.camscanner,Location,correctly_undeclared
+com.intsig.camscanner,SMS or MMS,correctly_undeclared
+com.intsig.camscanner,Contacts,correctly_undeclared
+com.intsig.camscanner,Diagnostics,correctly_declared
+com.intsig.camscanner,Other app performance data,wrongly_undeclared
+com.intsig.camscanner,Device or other IDs,correctly_declared
+de.payback.client.android,Location,unnecessarily_declared
+de.payback.client.android,SMS or MMS,correctly_undeclared
+de.payback.client.android,Contacts,correctly_undeclared
+de.payback.client.android,Diagnostics,unnecessarily_declared
+de.payback.client.android,Other app performance data,unnecessarily_declared
+de.payback.client.android,Device or other IDs,correctly_declared
+com.microsoft.teams,Location,unnecessarily_declared
+com.microsoft.teams,SMS or MMS,unnecessarily_declared
+com.microsoft.teams,Contacts,unnecessarily_declared
+com.microsoft.teams,Diagnostics,unnecessarily_declared
+com.microsoft.teams,Other app performance data,correctly_declared
+com.microsoft.teams,Device or other IDs,unnecessarily_declared
+com.nect.app.prod,Location,correctly_undeclared
+com.nect.app.prod,SMS or MMS,correctly_undeclared
+com.nect.app.prod,Contacts,correctly_undeclared
+com.nect.app.prod,Diagnostics,unnecessarily_declared
+com.nect.app.prod,Other app performance data,unnecessarily_declared
+com.nect.app.prod,Device or other IDs,correctly_undeclared
+com.microsoft.appmanager,Location,correctly_undeclared
+com.microsoft.appmanager,SMS or MMS,correctly_undeclared
+com.microsoft.appmanager,Contacts,correctly_undeclared
+com.microsoft.appmanager,Diagnostics,unnecessarily_declared
+com.microsoft.appmanager,Other app performance data,wrongly_undeclared
+com.microsoft.appmanager,Device or other IDs,unnecessarily_declared
+com.drilens.wamr,Location,correctly_undeclared
+com.drilens.wamr,SMS or MMS,correctly_undeclared
+com.drilens.wamr,Contacts,correctly_undeclared
+com.drilens.wamr,Diagnostics,correctly_undeclared
+com.drilens.wamr,Other app performance data,correctly_undeclared
+com.drilens.wamr,Device or other IDs,correctly_undeclared
+com.reddit.frontpage,Location,unnecessarily_declared
+com.reddit.frontpage,SMS or MMS,correctly_undeclared
+com.reddit.frontpage,Contacts,correctly_undeclared
+com.reddit.frontpage,Diagnostics,correctly_declared
+com.reddit.frontpage,Other app performance data,wrongly_undeclared
+com.reddit.frontpage,Device or other IDs,correctly_declared
+de.deutschebahn.bahnhoflive,Location,correctly_undeclared
+de.deutschebahn.bahnhoflive,SMS or MMS,correctly_undeclared
+de.deutschebahn.bahnhoflive,Contacts,correctly_undeclared
+de.deutschebahn.bahnhoflive,Diagnostics,correctly_undeclared
+de.deutschebahn.bahnhoflive,Other app performance data,correctly_undeclared
+de.deutschebahn.bahnhoflive,Device or other IDs,correctly_undeclared
+com.spotify.music,Location,unnecessarily_declared
+com.spotify.music,SMS or MMS,correctly_undeclared
+com.spotify.music,Contacts,unnecessarily_declared
+com.spotify.music,Diagnostics,correctly_declared
+com.spotify.music,Other app performance data,correctly_declared
+com.spotify.music,Device or other IDs,correctly_declared
+shop.shop_apotheke.com.shopapotheke,Location,unnecessarily_declared
+shop.shop_apotheke.com.shopapotheke,SMS or MMS,correctly_undeclared
+shop.shop_apotheke.com.shopapotheke,Contacts,correctly_undeclared
+shop.shop_apotheke.com.shopapotheke,Diagnostics,unnecessarily_declared
+shop.shop_apotheke.com.shopapotheke,Other app performance data,correctly_undeclared
+shop.shop_apotheke.com.shopapotheke,Device or other IDs,correctly_declared
+com.sleepmonitor.aio,Location,correctly_undeclared
+com.sleepmonitor.aio,SMS or MMS,correctly_undeclared
+com.sleepmonitor.aio,Contacts,correctly_undeclared
+com.sleepmonitor.aio,Diagnostics,wrongly_undeclared
+com.sleepmonitor.aio,Other app performance data,correctly_undeclared
+com.sleepmonitor.aio,Device or other IDs,correctly_undeclared
+com.rewedigital.shop,Location,unnecessarily_declared
+com.rewedigital.shop,SMS or MMS,correctly_undeclared
+com.rewedigital.shop,Contacts,correctly_undeclared
+com.rewedigital.shop,Diagnostics,correctly_undeclared
+com.rewedigital.shop,Other app performance data,correctly_undeclared
+com.rewedigital.shop,Device or other IDs,correctly_declared
+com.style.sticker,Location,unnecessarily_declared
+com.style.sticker,SMS or MMS,correctly_undeclared
+com.style.sticker,Contacts,correctly_undeclared
+com.style.sticker,Diagnostics,correctly_declared
+com.style.sticker,Other app performance data,wrongly_undeclared
+com.style.sticker,Device or other IDs,correctly_declared
+com.antivirus,Location,unnecessarily_declared
+com.antivirus,SMS or MMS,correctly_undeclared
+com.antivirus,Contacts,correctly_undeclared
+com.antivirus,Diagnostics,unnecessarily_declared
+com.antivirus,Other app performance data,unnecessarily_declared
+com.antivirus,Device or other IDs,unnecessarily_declared
+com.disney.disneyplus,Location,unnecessarily_declared
+com.disney.disneyplus,SMS or MMS,correctly_undeclared
+com.disney.disneyplus,Contacts,correctly_undeclared
+com.disney.disneyplus,Diagnostics,unnecessarily_declared
+com.disney.disneyplus,Other app performance data,correctly_undeclared
+com.disney.disneyplus,Device or other IDs,correctly_declared
+de.avm.android.wlanapp,Location,correctly_undeclared
+de.avm.android.wlanapp,SMS or MMS,correctly_undeclared
+de.avm.android.wlanapp,Contacts,correctly_undeclared
+de.avm.android.wlanapp,Diagnostics,unnecessarily_declared
+de.avm.android.wlanapp,Other app performance data,correctly_undeclared
+de.avm.android.wlanapp,Device or other IDs,correctly_undeclared
+de.prosiebensat1digital.seventv,Location,unnecessarily_declared
+de.prosiebensat1digital.seventv,SMS or MMS,correctly_undeclared
+de.prosiebensat1digital.seventv,Contacts,correctly_undeclared
+de.prosiebensat1digital.seventv,Diagnostics,unnecessarily_declared
+de.prosiebensat1digital.seventv,Other app performance data,wrongly_undeclared
+de.prosiebensat1digital.seventv,Device or other IDs,correctly_declared
+com.Splitwise.SplitwiseMobile,Location,unnecessarily_declared
+com.Splitwise.SplitwiseMobile,SMS or MMS,correctly_undeclared
+com.Splitwise.SplitwiseMobile,Contacts,correctly_undeclared
+com.Splitwise.SplitwiseMobile,Diagnostics,unnecessarily_declared
+com.Splitwise.SplitwiseMobile,Other app performance data,unnecessarily_declared
+com.Splitwise.SplitwiseMobile,Device or other IDs,unnecessarily_declared
+com.oneandone.controlcenter,Location,unnecessarily_declared
+com.oneandone.controlcenter,SMS or MMS,correctly_undeclared
+com.oneandone.controlcenter,Contacts,correctly_undeclared
+com.oneandone.controlcenter,Diagnostics,unnecessarily_declared
+com.oneandone.controlcenter,Other app performance data,correctly_undeclared
+com.oneandone.controlcenter,Device or other IDs,unnecessarily_declared
+de.dmhub.audionow,Location,correctly_undeclared
+de.dmhub.audionow,SMS or MMS,correctly_undeclared
+de.dmhub.audionow,Contacts,correctly_undeclared
+de.dmhub.audionow,Diagnostics,correctly_undeclared
+de.dmhub.audionow,Other app performance data,correctly_undeclared
+de.dmhub.audionow,Device or other IDs,wrongly_undeclared
+com.nordvpn.android,Location,correctly_undeclared
+com.nordvpn.android,SMS or MMS,correctly_undeclared
+com.nordvpn.android,Contacts,correctly_undeclared
+com.nordvpn.android,Diagnostics,correctly_undeclared
+com.nordvpn.android,Other app performance data,correctly_undeclared
+com.nordvpn.android,Device or other IDs,correctly_declared
+photo.editor.photoeditor.photoeditorpro,Location,correctly_undeclared
+photo.editor.photoeditor.photoeditorpro,SMS or MMS,correctly_undeclared
+photo.editor.photoeditor.photoeditorpro,Contacts,correctly_undeclared
+photo.editor.photoeditor.photoeditorpro,Diagnostics,unnecessarily_declared
+photo.editor.photoeditor.photoeditorpro,Other app performance data,correctly_undeclared
+photo.editor.photoeditor.photoeditorpro,Device or other IDs,correctly_declared
+com.hellofresh.androidapp,Location,unnecessarily_declared
+com.hellofresh.androidapp,SMS or MMS,correctly_undeclared
+com.hellofresh.androidapp,Contacts,correctly_undeclared
+com.hellofresh.androidapp,Diagnostics,unnecessarily_declared
+com.hellofresh.androidapp,Other app performance data,correctly_undeclared
+com.hellofresh.androidapp,Device or other IDs,correctly_declared
+com.media.markt,Location,correctly_undeclared
+com.media.markt,SMS or MMS,correctly_undeclared
+com.media.markt,Contacts,correctly_undeclared
+com.media.markt,Diagnostics,unnecessarily_declared
+com.media.markt,Other app performance data,correctly_undeclared
+com.media.markt,Device or other IDs,unnecessarily_declared
+de.telekom.android.customercenter,Location,correctly_undeclared
+de.telekom.android.customercenter,SMS or MMS,correctly_undeclared
+de.telekom.android.customercenter,Contacts,correctly_undeclared
+de.telekom.android.customercenter,Diagnostics,unnecessarily_declared
+de.telekom.android.customercenter,Other app performance data,unnecessarily_declared
+de.telekom.android.customercenter,Device or other IDs,correctly_declared
+trendyol.com,Location,unnecessarily_declared
+trendyol.com,SMS or MMS,correctly_undeclared
+trendyol.com,Contacts,correctly_undeclared
+trendyol.com,Diagnostics,unnecessarily_declared
+trendyol.com,Other app performance data,correctly_undeclared
+trendyol.com,Device or other IDs,wrongly_undeclared
+pedometer.steptracker.calorieburner.stepcounter,Location,unnecessarily_declared
+pedometer.steptracker.calorieburner.stepcounter,SMS or MMS,correctly_undeclared
+pedometer.steptracker.calorieburner.stepcounter,Contacts,correctly_undeclared
+pedometer.steptracker.calorieburner.stepcounter,Diagnostics,correctly_declared
+pedometer.steptracker.calorieburner.stepcounter,Other app performance data,wrongly_undeclared
+pedometer.steptracker.calorieburner.stepcounter,Device or other IDs,correctly_declared
+com.meditation.deepsleep.relax,Location,correctly_undeclared
+com.meditation.deepsleep.relax,SMS or MMS,correctly_undeclared
+com.meditation.deepsleep.relax,Contacts,correctly_undeclared
+com.meditation.deepsleep.relax,Diagnostics,wrongly_undeclared
+com.meditation.deepsleep.relax,Other app performance data,wrongly_undeclared
+com.meditation.deepsleep.relax,Device or other IDs,correctly_declared
+net.filerecover.app,Location,correctly_undeclared
+net.filerecover.app,SMS or MMS,correctly_undeclared
+net.filerecover.app,Contacts,correctly_undeclared
+net.filerecover.app,Diagnostics,wrongly_undeclared
+net.filerecover.app,Other app performance data,wrongly_undeclared
+net.filerecover.app,Device or other IDs,correctly_declared
+com.inditex.zara,Location,correctly_undeclared
+com.inditex.zara,SMS or MMS,correctly_undeclared
+com.inditex.zara,Contacts,correctly_undeclared
+com.inditex.zara,Diagnostics,correctly_undeclared
+com.inditex.zara,Other app performance data,correctly_undeclared
+com.inditex.zara,Device or other IDs,correctly_undeclared
+net.zedge.android,Location,unnecessarily_declared
+net.zedge.android,SMS or MMS,correctly_undeclared
+net.zedge.android,Contacts,correctly_undeclared
+net.zedge.android,Diagnostics,unnecessarily_declared
+net.zedge.android,Other app performance data,unnecessarily_declared
+net.zedge.android,Device or other IDs,correctly_declared
+com.bonial.kaufda,Location,unnecessarily_declared
+com.bonial.kaufda,SMS or MMS,correctly_undeclared
+com.bonial.kaufda,Contacts,correctly_undeclared
+com.bonial.kaufda,Diagnostics,unnecessarily_declared
+com.bonial.kaufda,Other app performance data,correctly_undeclared
+com.bonial.kaufda,Device or other IDs,correctly_declared
+loseweightapp.loseweightappforwomen.womenworkoutathome,Location,correctly_undeclared
+loseweightapp.loseweightappforwomen.womenworkoutathome,SMS or MMS,correctly_undeclared
+loseweightapp.loseweightappforwomen.womenworkoutathome,Contacts,correctly_undeclared
+loseweightapp.loseweightappforwomen.womenworkoutathome,Diagnostics,correctly_declared
+loseweightapp.loseweightappforwomen.womenworkoutathome,Other app performance data,wrongly_undeclared
+loseweightapp.loseweightappforwomen.womenworkoutathome,Device or other IDs,correctly_declared
+de.exaring.waipu,Location,unnecessarily_declared
+de.exaring.waipu,SMS or MMS,correctly_undeclared
+de.exaring.waipu,Contacts,correctly_undeclared
+de.exaring.waipu,Diagnostics,unnecessarily_declared
+de.exaring.waipu,Other app performance data,unnecessarily_declared
+de.exaring.waipu,Device or other IDs,correctly_declared
+com.adsk.sketchbook,Location,correctly_undeclared
+com.adsk.sketchbook,SMS or MMS,correctly_undeclared
+com.adsk.sketchbook,Contacts,correctly_undeclared
+com.adsk.sketchbook,Diagnostics,correctly_undeclared
+com.adsk.sketchbook,Other app performance data,correctly_undeclared
+com.adsk.sketchbook,Device or other IDs,correctly_undeclared
+com.amazon.kindle,Location,unnecessarily_declared
+com.amazon.kindle,SMS or MMS,correctly_undeclared
+com.amazon.kindle,Contacts,correctly_undeclared
+com.amazon.kindle,Diagnostics,unnecessarily_declared
+com.amazon.kindle,Other app performance data,unnecessarily_declared
+com.amazon.kindle,Device or other IDs,correctly_declared
+com.rain.super.security,Location,correctly_undeclared
+com.rain.super.security,SMS or MMS,correctly_undeclared
+com.rain.super.security,Contacts,correctly_undeclared
+com.rain.super.security,Diagnostics,wrongly_undeclared
+com.rain.super.security,Other app performance data,wrongly_undeclared
+com.rain.super.security,Device or other IDs,wrongly_undeclared
+com.google.android.apps.youtube.kids,Location,unnecessarily_declared
+com.google.android.apps.youtube.kids,SMS or MMS,correctly_undeclared
+com.google.android.apps.youtube.kids,Contacts,correctly_undeclared
+com.google.android.apps.youtube.kids,Diagnostics,unnecessarily_declared
+com.google.android.apps.youtube.kids,Other app performance data,correctly_undeclared
+com.google.android.apps.youtube.kids,Device or other IDs,unnecessarily_declared
+com.avira.android,Location,unnecessarily_declared
+com.avira.android,SMS or MMS,correctly_undeclared
+com.avira.android,Contacts,correctly_undeclared
+com.avira.android,Diagnostics,unnecessarily_declared
+com.avira.android,Other app performance data,correctly_undeclared
+com.avira.android,Device or other IDs,correctly_declared
+org.telegram.messenger,Location,unnecessarily_declared
+org.telegram.messenger,SMS or MMS,correctly_undeclared
+org.telegram.messenger,Contacts,unnecessarily_declared
+org.telegram.messenger,Diagnostics,correctly_undeclared
+org.telegram.messenger,Other app performance data,correctly_undeclared
+org.telegram.messenger,Device or other IDs,correctly_undeclared
+de.idealo.android,Location,correctly_undeclared
+de.idealo.android,SMS or MMS,correctly_undeclared
+de.idealo.android,Contacts,correctly_undeclared
+de.idealo.android,Diagnostics,unnecessarily_declared
+de.idealo.android,Other app performance data,correctly_undeclared
+de.idealo.android,Device or other IDs,unnecessarily_declared
+com.whatsapp.w4b,Location,unnecessarily_declared
+com.whatsapp.w4b,SMS or MMS,correctly_undeclared
+com.whatsapp.w4b,Contacts,unnecessarily_declared
+com.whatsapp.w4b,Diagnostics,unnecessarily_declared
+com.whatsapp.w4b,Other app performance data,unnecessarily_declared
+com.whatsapp.w4b,Device or other IDs,unnecessarily_declared
+com.scee.psxandroid,Location,correctly_undeclared
+com.scee.psxandroid,SMS or MMS,correctly_undeclared
+com.scee.psxandroid,Contacts,correctly_undeclared
+com.scee.psxandroid,Diagnostics,correctly_declared
+com.scee.psxandroid,Other app performance data,correctly_undeclared
+com.scee.psxandroid,Device or other IDs,unnecessarily_declared
+com.cubic.cumo.android.rmv,Location,correctly_undeclared
+com.cubic.cumo.android.rmv,SMS or MMS,correctly_undeclared
+com.cubic.cumo.android.rmv,Contacts,correctly_undeclared
+com.cubic.cumo.android.rmv,Diagnostics,correctly_undeclared
+com.cubic.cumo.android.rmv,Other app performance data,correctly_undeclared
+com.cubic.cumo.android.rmv,Device or other IDs,unnecessarily_declared
+com.point4more.ios.tak.user.prod,Location,correctly_undeclared
+com.point4more.ios.tak.user.prod,SMS or MMS,correctly_undeclared
+com.point4more.ios.tak.user.prod,Contacts,correctly_undeclared
+com.point4more.ios.tak.user.prod,Diagnostics,unnecessarily_declared
+com.point4more.ios.tak.user.prod,Other app performance data,unnecessarily_declared
+com.point4more.ios.tak.user.prod,Device or other IDs,unnecessarily_declared
+de.baur.shop,Location,correctly_undeclared
+de.baur.shop,SMS or MMS,correctly_undeclared
+de.baur.shop,Contacts,correctly_undeclared
+de.baur.shop,Diagnostics,unnecessarily_declared
+de.baur.shop,Other app performance data,correctly_declared
+de.baur.shop,Device or other IDs,correctly_declared
+bloodpressure.bloodpressureapppro.bloodpressureapp,Location,correctly_undeclared
+bloodpressure.bloodpressureapppro.bloodpressureapp,SMS or MMS,correctly_undeclared
+bloodpressure.bloodpressureapppro.bloodpressureapp,Contacts,correctly_undeclared
+bloodpressure.bloodpressureapppro.bloodpressureapp,Diagnostics,correctly_declared
+bloodpressure.bloodpressureapppro.bloodpressureapp,Other app performance data,correctly_undeclared
+bloodpressure.bloodpressureapppro.bloodpressureapp,Device or other IDs,correctly_declared
+com.sdui.sdui,Location,correctly_undeclared
+com.sdui.sdui,SMS or MMS,correctly_undeclared
+com.sdui.sdui,Contacts,correctly_undeclared
+com.sdui.sdui,Diagnostics,unnecessarily_declared
+com.sdui.sdui,Other app performance data,correctly_undeclared
+com.sdui.sdui,Device or other IDs,unnecessarily_declared
+com.google.android.apps.authenticator2,Location,correctly_undeclared
+com.google.android.apps.authenticator2,SMS or MMS,correctly_undeclared
+com.google.android.apps.authenticator2,Contacts,correctly_undeclared
+com.google.android.apps.authenticator2,Diagnostics,unnecessarily_declared
+com.google.android.apps.authenticator2,Other app performance data,correctly_undeclared
+com.google.android.apps.authenticator2,Device or other IDs,unnecessarily_declared
+wp.wattpad,Location,unnecessarily_declared
+wp.wattpad,SMS or MMS,correctly_undeclared
+wp.wattpad,Contacts,correctly_undeclared
+wp.wattpad,Diagnostics,correctly_declared
+wp.wattpad,Other app performance data,wrongly_undeclared
+wp.wattpad,Device or other IDs,correctly_declared
+com.memeandsticker.textsticker,Location,correctly_undeclared
+com.memeandsticker.textsticker,SMS or MMS,correctly_undeclared
+com.memeandsticker.textsticker,Contacts,correctly_undeclared
+com.memeandsticker.textsticker,Diagnostics,correctly_declared
+com.memeandsticker.textsticker,Other app performance data,correctly_declared
+com.memeandsticker.textsticker,Device or other IDs,correctly_declared
+yoshion.pictures.jigsaw,Location,unnecessarily_declared
+yoshion.pictures.jigsaw,SMS or MMS,correctly_undeclared
+yoshion.pictures.jigsaw,Contacts,correctly_undeclared
+yoshion.pictures.jigsaw,Diagnostics,correctly_undeclared
+yoshion.pictures.jigsaw,Other app performance data,correctly_undeclared
+yoshion.pictures.jigsaw,Device or other IDs,correctly_declared
+com.quvideo.xiaoying,Location,correctly_undeclared
+com.quvideo.xiaoying,SMS or MMS,correctly_undeclared
+com.quvideo.xiaoying,Contacts,correctly_undeclared
+com.quvideo.xiaoying,Diagnostics,unnecessarily_declared
+com.quvideo.xiaoying,Other app performance data,unnecessarily_declared
+com.quvideo.xiaoying,Device or other IDs,correctly_declared
+com.pranksounds.appglobaltd,Location,correctly_undeclared
+com.pranksounds.appglobaltd,SMS or MMS,correctly_undeclared
+com.pranksounds.appglobaltd,Contacts,correctly_undeclared
+com.pranksounds.appglobaltd,Diagnostics,wrongly_undeclared
+com.pranksounds.appglobaltd,Other app performance data,wrongly_undeclared
+com.pranksounds.appglobaltd,Device or other IDs,correctly_declared
+com.pinterest,Location,unnecessarily_declared
+com.pinterest,SMS or MMS,correctly_undeclared
+com.pinterest,Contacts,unnecessarily_declared
+com.pinterest,Diagnostics,correctly_declared
+com.pinterest,Other app performance data,unnecessarily_declared
+com.pinterest,Device or other IDs,correctly_declared
+de.corporatebenefits.app,Location,correctly_undeclared
+de.corporatebenefits.app,SMS or MMS,correctly_undeclared
+de.corporatebenefits.app,Contacts,correctly_undeclared
+de.corporatebenefits.app,Diagnostics,correctly_undeclared
+de.corporatebenefits.app,Other app performance data,wrongly_undeclared
+de.corporatebenefits.app,Device or other IDs,wrongly_undeclared
+homeworkout.homeworkouts.noequipment,Location,correctly_undeclared
+homeworkout.homeworkouts.noequipment,SMS or MMS,correctly_undeclared
+homeworkout.homeworkouts.noequipment,Contacts,correctly_undeclared
+homeworkout.homeworkouts.noequipment,Diagnostics,unnecessarily_declared
+homeworkout.homeworkouts.noequipment,Other app performance data,correctly_undeclared
+homeworkout.homeworkouts.noequipment,Device or other IDs,correctly_declared
+de.gesund.app,Location,unnecessarily_declared
+de.gesund.app,SMS or MMS,correctly_undeclared
+de.gesund.app,Contacts,correctly_undeclared
+de.gesund.app,Diagnostics,correctly_undeclared
+de.gesund.app,Other app performance data,correctly_undeclared
+de.gesund.app,Device or other IDs,correctly_declared
+com.app.booster.lite.phonecleaner.batterysaver.cleanmaster,Location,correctly_undeclared
+com.app.booster.lite.phonecleaner.batterysaver.cleanmaster,SMS or MMS,correctly_undeclared
+com.app.booster.lite.phonecleaner.batterysaver.cleanmaster,Contacts,correctly_undeclared
+com.app.booster.lite.phonecleaner.batterysaver.cleanmaster,Diagnostics,correctly_declared
+com.app.booster.lite.phonecleaner.batterysaver.cleanmaster,Other app performance data,correctly_declared
+com.app.booster.lite.phonecleaner.batterysaver.cleanmaster,Device or other IDs,correctly_declared
+de.telekom.basketball,Location,correctly_undeclared
+de.telekom.basketball,SMS or MMS,correctly_undeclared
+de.telekom.basketball,Contacts,correctly_undeclared
+de.telekom.basketball,Diagnostics,unnecessarily_declared
+de.telekom.basketball,Other app performance data,unnecessarily_declared
+de.telekom.basketball,Device or other IDs,correctly_declared
+menloseweight.loseweightappformen.weightlossformen,Location,correctly_undeclared
+menloseweight.loseweightappformen.weightlossformen,SMS or MMS,correctly_undeclared
+menloseweight.loseweightappformen.weightlossformen,Contacts,correctly_undeclared
+menloseweight.loseweightappformen.weightlossformen,Diagnostics,correctly_declared
+menloseweight.loseweightappformen.weightlossformen,Other app performance data,wrongly_undeclared
+menloseweight.loseweightappformen.weightlossformen,Device or other IDs,correctly_declared
+com.prequel.app,Location,correctly_undeclared
+com.prequel.app,SMS or MMS,correctly_undeclared
+com.prequel.app,Contacts,correctly_undeclared
+com.prequel.app,Diagnostics,correctly_declared
+com.prequel.app,Other app performance data,unnecessarily_declared
+com.prequel.app,Device or other IDs,correctly_declared
+de.check24.check24,Location,correctly_undeclared
+de.check24.check24,SMS or MMS,correctly_undeclared
+de.check24.check24,Contacts,correctly_undeclared
+de.check24.check24,Diagnostics,correctly_undeclared
+de.check24.check24,Other app performance data,unnecessarily_declared
+de.check24.check24,Device or other IDs,correctly_declared
+net.workout.lose.weight.fitness.fit.coach,Location,unnecessarily_declared
+net.workout.lose.weight.fitness.fit.coach,SMS or MMS,correctly_undeclared
+net.workout.lose.weight.fitness.fit.coach,Contacts,correctly_undeclared
+net.workout.lose.weight.fitness.fit.coach,Diagnostics,unnecessarily_declared
+net.workout.lose.weight.fitness.fit.coach,Other app performance data,correctly_undeclared
+net.workout.lose.weight.fitness.fit.coach,Device or other IDs,unnecessarily_declared
+de.flixbus.app,Location,unnecessarily_declared
+de.flixbus.app,SMS or MMS,correctly_undeclared
+de.flixbus.app,Contacts,correctly_undeclared
+de.flixbus.app,Diagnostics,unnecessarily_declared
+de.flixbus.app,Other app performance data,correctly_undeclared
+de.flixbus.app,Device or other IDs,unnecessarily_declared
+com.lufthansa.android.lufthansa,Location,correctly_undeclared
+com.lufthansa.android.lufthansa,SMS or MMS,unnecessarily_declared
+com.lufthansa.android.lufthansa,Contacts,correctly_undeclared
+com.lufthansa.android.lufthansa,Diagnostics,correctly_undeclared
+com.lufthansa.android.lufthansa,Other app performance data,wrongly_undeclared
+com.lufthansa.android.lufthansa,Device or other IDs,correctly_declared
+eu.iserv.webapp,Location,correctly_undeclared
+eu.iserv.webapp,SMS or MMS,correctly_undeclared
+eu.iserv.webapp,Contacts,unnecessarily_declared
+eu.iserv.webapp,Diagnostics,unnecessarily_declared
+eu.iserv.webapp,Other app performance data,unnecessarily_declared
+eu.iserv.webapp,Device or other IDs,unnecessarily_declared
+com.wwdfe.goog.wizardingworld,Location,unnecessarily_declared
+com.wwdfe.goog.wizardingworld,SMS or MMS,correctly_undeclared
+com.wwdfe.goog.wizardingworld,Contacts,correctly_undeclared
+com.wwdfe.goog.wizardingworld,Diagnostics,correctly_declared
+com.wwdfe.goog.wizardingworld,Other app performance data,unnecessarily_declared
+com.wwdfe.goog.wizardingworld,Device or other IDs,correctly_declared
+com.soundcloud.android,Location,correctly_undeclared
+com.soundcloud.android,SMS or MMS,correctly_undeclared
+com.soundcloud.android,Contacts,correctly_undeclared
+com.soundcloud.android,Diagnostics,correctly_undeclared
+com.soundcloud.android,Other app performance data,correctly_undeclared
+com.soundcloud.android,Device or other IDs,correctly_declared
+com.tinder,Location,unnecessarily_declared
+com.tinder,SMS or MMS,correctly_undeclared
+com.tinder,Contacts,unnecessarily_declared
+com.tinder,Diagnostics,correctly_declared
+com.tinder,Other app performance data,correctly_undeclared
+com.tinder,Device or other IDs,correctly_declared
+com.hp.android.printservice,Location,correctly_undeclared
+com.hp.android.printservice,SMS or MMS,correctly_undeclared
+com.hp.android.printservice,Contacts,correctly_undeclared
+com.hp.android.printservice,Diagnostics,correctly_undeclared
+com.hp.android.printservice,Other app performance data,correctly_undeclared
+com.hp.android.printservice,Device or other IDs,wrongly_undeclared
+com.stayinformed.ka802800048782,Location,correctly_undeclared
+com.stayinformed.ka802800048782,SMS or MMS,correctly_undeclared
+com.stayinformed.ka802800048782,Contacts,correctly_undeclared
+com.stayinformed.ka802800048782,Diagnostics,unnecessarily_declared
+com.stayinformed.ka802800048782,Other app performance data,unnecessarily_declared
+com.stayinformed.ka802800048782,Device or other IDs,unnecessarily_declared
+repost.share.instagram.videodownloader.photodownloader,Location,correctly_undeclared
+repost.share.instagram.videodownloader.photodownloader,SMS or MMS,correctly_undeclared
+repost.share.instagram.videodownloader.photodownloader,Contacts,correctly_undeclared
+repost.share.instagram.videodownloader.photodownloader,Diagnostics,unnecessarily_declared
+repost.share.instagram.videodownloader.photodownloader,Other app performance data,correctly_undeclared
+repost.share.instagram.videodownloader.photodownloader,Device or other IDs,correctly_declared
+garden.plantura.app.main,Location,correctly_undeclared
+garden.plantura.app.main,SMS or MMS,correctly_undeclared
+garden.plantura.app.main,Contacts,correctly_undeclared
+garden.plantura.app.main,Diagnostics,unnecessarily_declared
+garden.plantura.app.main,Other app performance data,correctly_undeclared
+garden.plantura.app.main,Device or other IDs,unnecessarily_declared
+de.nebenan.app,Location,correctly_undeclared
+de.nebenan.app,SMS or MMS,correctly_undeclared
+de.nebenan.app,Contacts,correctly_undeclared
+de.nebenan.app,Diagnostics,correctly_undeclared
+de.nebenan.app,Other app performance data,correctly_undeclared
+de.nebenan.app,Device or other IDs,unnecessarily_declared
+de.rki.covpass.app,Location,correctly_undeclared
+de.rki.covpass.app,SMS or MMS,correctly_undeclared
+de.rki.covpass.app,Contacts,correctly_undeclared
+de.rki.covpass.app,Diagnostics,correctly_undeclared
+de.rki.covpass.app,Other app performance data,correctly_undeclared
+de.rki.covpass.app,Device or other IDs,correctly_undeclared
+io.voiapp.voi,Location,correctly_declared
+io.voiapp.voi,SMS or MMS,correctly_undeclared
+io.voiapp.voi,Contacts,correctly_undeclared
+io.voiapp.voi,Diagnostics,correctly_declared
+io.voiapp.voi,Other app performance data,correctly_declared
+io.voiapp.voi,Device or other IDs,correctly_declared
+com.waze,Location,unnecessarily_declared
+com.waze,SMS or MMS,correctly_undeclared
+com.waze,Contacts,correctly_undeclared
+com.waze,Diagnostics,unnecessarily_declared
+com.waze,Other app performance data,unnecessarily_declared
+com.waze,Device or other IDs,correctly_declared
+com.apple.movetoios,Location,correctly_undeclared
+com.apple.movetoios,SMS or MMS,correctly_undeclared
+com.apple.movetoios,Contacts,correctly_undeclared
+com.apple.movetoios,Diagnostics,unnecessarily_declared
+com.apple.movetoios,Other app performance data,unnecessarily_declared
+com.apple.movetoios,Device or other IDs,correctly_undeclared
+com.familywall,Location,unnecessarily_declared
+com.familywall,SMS or MMS,correctly_undeclared
+com.familywall,Contacts,unnecessarily_declared
+com.familywall,Diagnostics,correctly_undeclared
+com.familywall,Other app performance data,correctly_undeclared
+com.familywall,Device or other IDs,correctly_declared
+de.rki.coronawarnapp,Location,unnecessarily_declared
+de.rki.coronawarnapp,SMS or MMS,correctly_undeclared
+de.rki.coronawarnapp,Contacts,correctly_undeclared
+de.rki.coronawarnapp,Diagnostics,correctly_undeclared
+de.rki.coronawarnapp,Other app performance data,correctly_undeclared
+de.rki.coronawarnapp,Device or other IDs,correctly_undeclared
+com.microsoft.office.word,Location,unnecessarily_declared
+com.microsoft.office.word,SMS or MMS,correctly_undeclared
+com.microsoft.office.word,Contacts,correctly_undeclared
+com.microsoft.office.word,Diagnostics,unnecessarily_declared
+com.microsoft.office.word,Other app performance data,correctly_undeclared
+com.microsoft.office.word,Device or other IDs,unnecessarily_declared
+videoeditor.videomaker.slideshow.fotoplay,Location,correctly_undeclared
+videoeditor.videomaker.slideshow.fotoplay,SMS or MMS,correctly_undeclared
+videoeditor.videomaker.slideshow.fotoplay,Contacts,correctly_undeclared
+videoeditor.videomaker.slideshow.fotoplay,Diagnostics,correctly_undeclared
+videoeditor.videomaker.slideshow.fotoplay,Other app performance data,correctly_undeclared
+videoeditor.videomaker.slideshow.fotoplay,Device or other IDs,wrongly_undeclared
+com.tranzmate,Location,unnecessarily_declared
+com.tranzmate,SMS or MMS,correctly_undeclared
+com.tranzmate,Contacts,correctly_undeclared
+com.tranzmate,Diagnostics,unnecessarily_declared
+com.tranzmate,Other app performance data,unnecessarily_declared
+com.tranzmate,Device or other IDs,correctly_declared
+com.jvstudios.gpstracker,Location,correctly_undeclared
+com.jvstudios.gpstracker,SMS or MMS,correctly_undeclared
+com.jvstudios.gpstracker,Contacts,correctly_undeclared
+com.jvstudios.gpstracker,Diagnostics,wrongly_undeclared
+com.jvstudios.gpstracker,Other app performance data,wrongly_undeclared
+com.jvstudios.gpstracker,Device or other IDs,wrongly_undeclared
+com.magiclabs.mimic,Location,correctly_undeclared
+com.magiclabs.mimic,SMS or MMS,correctly_undeclared
+com.magiclabs.mimic,Contacts,correctly_undeclared
+com.magiclabs.mimic,Diagnostics,correctly_undeclared
+com.magiclabs.mimic,Other app performance data,correctly_undeclared
+com.magiclabs.mimic,Device or other IDs,correctly_declared
+de.pilot.newyorker.android,Location,correctly_undeclared
+de.pilot.newyorker.android,SMS or MMS,correctly_undeclared
+de.pilot.newyorker.android,Contacts,correctly_undeclared
+de.pilot.newyorker.android,Diagnostics,unnecessarily_declared
+de.pilot.newyorker.android,Other app performance data,unnecessarily_declared
+de.pilot.newyorker.android,Device or other IDs,unnecessarily_declared
+com.airbnb.android,Location,unnecessarily_declared
+com.airbnb.android,SMS or MMS,correctly_undeclared
+com.airbnb.android,Contacts,unnecessarily_declared
+com.airbnb.android,Diagnostics,correctly_declared
+com.airbnb.android,Other app performance data,correctly_declared
+com.airbnb.android,Device or other IDs,correctly_declared
+me.zepeto.main,Location,correctly_undeclared
+me.zepeto.main,SMS or MMS,correctly_undeclared
+me.zepeto.main,Contacts,unnecessarily_declared
+me.zepeto.main,Diagnostics,correctly_undeclared
+me.zepeto.main,Other app performance data,unnecessarily_declared
+me.zepeto.main,Device or other IDs,correctly_declared
+musicly.photo.video.editor.futureme,Location,correctly_undeclared
+musicly.photo.video.editor.futureme,SMS or MMS,correctly_undeclared
+musicly.photo.video.editor.futureme,Contacts,correctly_undeclared
+musicly.photo.video.editor.futureme,Diagnostics,correctly_undeclared
+musicly.photo.video.editor.futureme,Other app performance data,correctly_undeclared
+musicly.photo.video.editor.futureme,Device or other IDs,wrongly_undeclared
+com.limebike,Location,unnecessarily_declared
+com.limebike,SMS or MMS,correctly_undeclared
+com.limebike,Contacts,correctly_undeclared
+com.limebike,Diagnostics,correctly_declared
+com.limebike,Other app performance data,correctly_declared
+com.limebike,Device or other IDs,correctly_declared
+com.meetyou.intl,Location,correctly_undeclared
+com.meetyou.intl,SMS or MMS,correctly_undeclared
+com.meetyou.intl,Contacts,correctly_undeclared
+com.meetyou.intl,Diagnostics,correctly_undeclared
+com.meetyou.intl,Other app performance data,correctly_undeclared
+com.meetyou.intl,Device or other IDs,correctly_declared
+de.mytoys.mobile,Location,unnecessarily_declared
+de.mytoys.mobile,SMS or MMS,correctly_undeclared
+de.mytoys.mobile,Contacts,correctly_undeclared
+de.mytoys.mobile,Diagnostics,unnecessarily_declared
+de.mytoys.mobile,Other app performance data,correctly_undeclared
+de.mytoys.mobile,Device or other IDs,unnecessarily_declared
+cool.fonts.symbol.keyboard.custom.fancy.text.editor,Location,unnecessarily_declared
+cool.fonts.symbol.keyboard.custom.fancy.text.editor,SMS or MMS,correctly_undeclared
+cool.fonts.symbol.keyboard.custom.fancy.text.editor,Contacts,correctly_undeclared
+cool.fonts.symbol.keyboard.custom.fancy.text.editor,Diagnostics,correctly_declared
+cool.fonts.symbol.keyboard.custom.fancy.text.editor,Other app performance data,correctly_declared
+cool.fonts.symbol.keyboard.custom.fancy.text.editor,Device or other IDs,correctly_declared
+com.ryanair.cheapflights,Location,correctly_undeclared
+com.ryanair.cheapflights,SMS or MMS,correctly_undeclared
+com.ryanair.cheapflights,Contacts,correctly_undeclared
+com.ryanair.cheapflights,Diagnostics,unnecessarily_declared
+com.ryanair.cheapflights,Other app performance data,correctly_undeclared
+com.ryanair.cheapflights,Device or other IDs,unnecessarily_declared
+com.discord,Location,unnecessarily_declared
+com.discord,SMS or MMS,correctly_undeclared
+com.discord,Contacts,unnecessarily_declared
+com.discord,Diagnostics,unnecessarily_declared
+com.discord,Other app performance data,unnecessarily_declared
+com.discord,Device or other IDs,correctly_declared
+com.fillibri.app,Location,correctly_undeclared
+com.fillibri.app,SMS or MMS,correctly_undeclared
+com.fillibri.app,Contacts,correctly_undeclared
+com.fillibri.app,Diagnostics,unnecessarily_declared
+com.fillibri.app,Other app performance data,unnecessarily_declared
+com.fillibri.app,Device or other IDs,unnecessarily_declared
+com.zzkko,Location,correctly_undeclared
+com.zzkko,SMS or MMS,correctly_undeclared
+com.zzkko,Contacts,correctly_undeclared
+com.zzkko,Diagnostics,unnecessarily_declared
+com.zzkko,Other app performance data,unnecessarily_declared
+com.zzkko,Device or other IDs,correctly_declared
+com.lv.mobile.mcpe.furniture,Location,correctly_undeclared
+com.lv.mobile.mcpe.furniture,SMS or MMS,correctly_undeclared
+com.lv.mobile.mcpe.furniture,Contacts,correctly_undeclared
+com.lv.mobile.mcpe.furniture,Diagnostics,correctly_declared
+com.lv.mobile.mcpe.furniture,Other app performance data,unnecessarily_declared
+com.lv.mobile.mcpe.furniture,Device or other IDs,correctly_declared
+de.deutschlandcard.app,Location,correctly_undeclared
+de.deutschlandcard.app,SMS or MMS,correctly_undeclared
+de.deutschlandcard.app,Contacts,correctly_undeclared
+de.deutschlandcard.app,Diagnostics,unnecessarily_declared
+de.deutschlandcard.app,Other app performance data,wrongly_undeclared
+de.deutschlandcard.app,Device or other IDs,correctly_declared
+com.hp.printercontrol,Location,unnecessarily_declared
+com.hp.printercontrol,SMS or MMS,correctly_undeclared
+com.hp.printercontrol,Contacts,correctly_undeclared
+com.hp.printercontrol,Diagnostics,correctly_undeclared
+com.hp.printercontrol,Other app performance data,correctly_undeclared
+com.hp.printercontrol,Device or other IDs,correctly_declared
+videoeditor.videorecorder.screenrecorder,Location,correctly_undeclared
+videoeditor.videorecorder.screenrecorder,SMS or MMS,correctly_undeclared
+videoeditor.videorecorder.screenrecorder,Contacts,correctly_undeclared
+videoeditor.videorecorder.screenrecorder,Diagnostics,wrongly_undeclared
+videoeditor.videorecorder.screenrecorder,Other app performance data,wrongly_undeclared
+videoeditor.videorecorder.screenrecorder,Device or other IDs,correctly_declared
+de.autodoc.gmbh,Location,correctly_undeclared
+de.autodoc.gmbh,SMS or MMS,correctly_undeclared
+de.autodoc.gmbh,Contacts,correctly_undeclared
+de.autodoc.gmbh,Diagnostics,unnecessarily_declared
+de.autodoc.gmbh,Other app performance data,correctly_undeclared
+de.autodoc.gmbh,Device or other IDs,unnecessarily_declared
+revive.app,Location,correctly_undeclared
+revive.app,SMS or MMS,correctly_undeclared
+revive.app,Contacts,correctly_undeclared
+revive.app,Diagnostics,wrongly_undeclared
+revive.app,Other app performance data,wrongly_undeclared
+revive.app,Device or other IDs,wrongly_undeclared
+com.amazon.storm.lightning.client.aosp,Location,correctly_undeclared
+com.amazon.storm.lightning.client.aosp,SMS or MMS,correctly_undeclared
+com.amazon.storm.lightning.client.aosp,Contacts,correctly_undeclared
+com.amazon.storm.lightning.client.aosp,Diagnostics,correctly_undeclared
+com.amazon.storm.lightning.client.aosp,Other app performance data,correctly_undeclared
+com.amazon.storm.lightning.client.aosp,Device or other IDs,correctly_undeclared
+taxi.android.client,Location,unnecessarily_declared
+taxi.android.client,SMS or MMS,correctly_undeclared
+taxi.android.client,Contacts,correctly_undeclared
+taxi.android.client,Diagnostics,unnecessarily_declared
+taxi.android.client,Other app performance data,unnecessarily_declared
+taxi.android.client,Device or other IDs,correctly_declared
+de.msg,Location,correctly_undeclared
+de.msg,SMS or MMS,correctly_undeclared
+de.msg,Contacts,correctly_undeclared
+de.msg,Diagnostics,correctly_undeclared
+de.msg,Other app performance data,correctly_undeclared
+de.msg,Device or other IDs,wrongly_undeclared
+com.tubemp3.music.musicdownload.downloader,Location,correctly_undeclared
+com.tubemp3.music.musicdownload.downloader,SMS or MMS,correctly_undeclared
+com.tubemp3.music.musicdownload.downloader,Contacts,correctly_undeclared
+com.tubemp3.music.musicdownload.downloader,Diagnostics,wrongly_undeclared
+com.tubemp3.music.musicdownload.downloader,Other app performance data,wrongly_undeclared
+com.tubemp3.music.musicdownload.downloader,Device or other IDs,correctly_declared
+de.webidsolutions.mywebid,Location,correctly_undeclared
+de.webidsolutions.mywebid,SMS or MMS,correctly_undeclared
+de.webidsolutions.mywebid,Contacts,correctly_undeclared
+de.webidsolutions.mywebid,Diagnostics,correctly_undeclared
+de.webidsolutions.mywebid,Other app performance data,correctly_undeclared
+de.webidsolutions.mywebid,Device or other IDs,correctly_undeclared
+online.schulmanager.app,Location,correctly_undeclared
+online.schulmanager.app,SMS or MMS,correctly_undeclared
+online.schulmanager.app,Contacts,correctly_undeclared
+online.schulmanager.app,Diagnostics,correctly_undeclared
+online.schulmanager.app,Other app performance data,correctly_undeclared
+online.schulmanager.app,Device or other IDs,correctly_undeclared
+fr.tramb.park4night,Location,wrongly_undeclared
+fr.tramb.park4night,SMS or MMS,correctly_undeclared
+fr.tramb.park4night,Contacts,correctly_undeclared
+fr.tramb.park4night,Diagnostics,correctly_undeclared
+fr.tramb.park4night,Other app performance data,correctly_undeclared
+fr.tramb.park4night,Device or other IDs,wrongly_undeclared
+com.microsoft.office.officehubrow,Location,unnecessarily_declared
+com.microsoft.office.officehubrow,SMS or MMS,correctly_undeclared
+com.microsoft.office.officehubrow,Contacts,correctly_undeclared
+com.microsoft.office.officehubrow,Diagnostics,unnecessarily_declared
+com.microsoft.office.officehubrow,Other app performance data,correctly_undeclared
+com.microsoft.office.officehubrow,Device or other IDs,unnecessarily_declared
+com.spinthewheeldecider,Location,correctly_undeclared
+com.spinthewheeldecider,SMS or MMS,correctly_undeclared
+com.spinthewheeldecider,Contacts,correctly_undeclared
+com.spinthewheeldecider,Diagnostics,correctly_undeclared
+com.spinthewheeldecider,Other app performance data,correctly_undeclared
+com.spinthewheeldecider,Device or other IDs,correctly_undeclared
+com.sillens.shapeupclub,Location,correctly_undeclared
+com.sillens.shapeupclub,SMS or MMS,correctly_undeclared
+com.sillens.shapeupclub,Contacts,correctly_undeclared
+com.sillens.shapeupclub,Diagnostics,unnecessarily_declared
+com.sillens.shapeupclub,Other app performance data,unnecessarily_declared
+com.sillens.shapeupclub,Device or other IDs,correctly_declared
+com.autoscout24,Location,correctly_undeclared
+com.autoscout24,SMS or MMS,correctly_undeclared
+com.autoscout24,Contacts,correctly_undeclared
+com.autoscout24,Diagnostics,unnecessarily_declared
+com.autoscout24,Other app performance data,correctly_undeclared
+com.autoscout24,Device or other IDs,correctly_declared
+com.casttv.castforchromecast.screencast,Location,unnecessarily_declared
+com.casttv.castforchromecast.screencast,SMS or MMS,correctly_undeclared
+com.casttv.castforchromecast.screencast,Contacts,correctly_undeclared
+com.casttv.castforchromecast.screencast,Diagnostics,correctly_declared
+com.casttv.castforchromecast.screencast,Other app performance data,correctly_declared
+com.casttv.castforchromecast.screencast,Device or other IDs,correctly_declared
+de.web.mobile.android.mail,Location,unnecessarily_declared
+de.web.mobile.android.mail,SMS or MMS,correctly_undeclared
+de.web.mobile.android.mail,Contacts,unnecessarily_declared
+de.web.mobile.android.mail,Diagnostics,correctly_undeclared
+de.web.mobile.android.mail,Other app performance data,unnecessarily_declared
+de.web.mobile.android.mail,Device or other IDs,unnecessarily_declared
+com.yy.musicfm.global,Location,correctly_undeclared
+com.yy.musicfm.global,SMS or MMS,correctly_undeclared
+com.yy.musicfm.global,Contacts,correctly_undeclared
+com.yy.musicfm.global,Diagnostics,wrongly_undeclared
+com.yy.musicfm.global,Other app performance data,wrongly_undeclared
+com.yy.musicfm.global,Device or other IDs,correctly_declared
+com.funnylive.loveemijigifsticker,Location,correctly_undeclared
+com.funnylive.loveemijigifsticker,SMS or MMS,correctly_undeclared
+com.funnylive.loveemijigifsticker,Contacts,correctly_undeclared
+com.funnylive.loveemijigifsticker,Diagnostics,unnecessarily_declared
+com.funnylive.loveemijigifsticker,Other app performance data,unnecessarily_declared
+com.funnylive.loveemijigifsticker,Device or other IDs,correctly_declared
+com.tuya.smartlife,Location,unnecessarily_declared
+com.tuya.smartlife,SMS or MMS,correctly_undeclared
+com.tuya.smartlife,Contacts,correctly_undeclared
+com.tuya.smartlife,Diagnostics,unnecessarily_declared
+com.tuya.smartlife,Other app performance data,correctly_undeclared
+com.tuya.smartlife,Device or other IDs,unnecessarily_declared
+com.tayu.tau.pedometer,Location,unnecessarily_declared
+com.tayu.tau.pedometer,SMS or MMS,correctly_undeclared
+com.tayu.tau.pedometer,Contacts,correctly_undeclared
+com.tayu.tau.pedometer,Diagnostics,unnecessarily_declared
+com.tayu.tau.pedometer,Other app performance data,unnecessarily_declared
+com.tayu.tau.pedometer,Device or other IDs,correctly_declared
+com.luutinhit.ioslauncher,Location,correctly_undeclared
+com.luutinhit.ioslauncher,SMS or MMS,correctly_undeclared
+com.luutinhit.ioslauncher,Contacts,correctly_undeclared
+com.luutinhit.ioslauncher,Diagnostics,wrongly_undeclared
+com.luutinhit.ioslauncher,Other app performance data,correctly_undeclared
+com.luutinhit.ioslauncher,Device or other IDs,correctly_undeclared
+com.lovebirthday.heartstikers.emojigif.whatsapp,Location,correctly_undeclared
+com.lovebirthday.heartstikers.emojigif.whatsapp,SMS or MMS,correctly_undeclared
+com.lovebirthday.heartstikers.emojigif.whatsapp,Contacts,correctly_undeclared
+com.lovebirthday.heartstikers.emojigif.whatsapp,Diagnostics,unnecessarily_declared
+com.lovebirthday.heartstikers.emojigif.whatsapp,Other app performance data,unnecessarily_declared
+com.lovebirthday.heartstikers.emojigif.whatsapp,Device or other IDs,correctly_declared
+com.bingo.cooler.phonecleaner,Location,correctly_undeclared
+com.bingo.cooler.phonecleaner,SMS or MMS,correctly_undeclared
+com.bingo.cooler.phonecleaner,Contacts,correctly_undeclared
+com.bingo.cooler.phonecleaner,Diagnostics,wrongly_undeclared
+com.bingo.cooler.phonecleaner,Other app performance data,wrongly_undeclared
+com.bingo.cooler.phonecleaner,Device or other IDs,wrongly_undeclared
+de.cellular.ottohybrid,Location,correctly_undeclared
+de.cellular.ottohybrid,SMS or MMS,correctly_undeclared
+de.cellular.ottohybrid,Contacts,correctly_undeclared
+de.cellular.ottohybrid,Diagnostics,unnecessarily_declared
+de.cellular.ottohybrid,Other app performance data,correctly_undeclared
+de.cellular.ottohybrid,Device or other IDs,correctly_declared
+deezer.android.app,Location,unnecessarily_declared
+deezer.android.app,SMS or MMS,correctly_undeclared
+deezer.android.app,Contacts,correctly_undeclared
+deezer.android.app,Diagnostics,correctly_undeclared
+deezer.android.app,Other app performance data,correctly_undeclared
+deezer.android.app,Device or other IDs,correctly_declared
+com.vodafone.superconnect,Location,unnecessarily_declared
+com.vodafone.superconnect,SMS or MMS,correctly_undeclared
+com.vodafone.superconnect,Contacts,correctly_undeclared
+com.vodafone.superconnect,Diagnostics,unnecessarily_declared
+com.vodafone.superconnect,Other app performance data,correctly_undeclared
+com.vodafone.superconnect,Device or other IDs,unnecessarily_declared
+com.justplay.app,Location,correctly_undeclared
+com.justplay.app,SMS or MMS,correctly_undeclared
+com.justplay.app,Contacts,correctly_undeclared
+com.justplay.app,Diagnostics,correctly_declared
+com.justplay.app,Other app performance data,correctly_declared
+com.justplay.app,Device or other IDs,correctly_declared
+com.google.android.apps.meetings,Location,unnecessarily_declared
+com.google.android.apps.meetings,SMS or MMS,correctly_undeclared
+com.google.android.apps.meetings,Contacts,unnecessarily_declared
+com.google.android.apps.meetings,Diagnostics,unnecessarily_declared
+com.google.android.apps.meetings,Other app performance data,unnecessarily_declared
+com.google.android.apps.meetings,Device or other IDs,unnecessarily_declared
+com.contextlogic.wish,Location,correctly_declared
+com.contextlogic.wish,SMS or MMS,correctly_undeclared
+com.contextlogic.wish,Contacts,correctly_undeclared
+com.contextlogic.wish,Diagnostics,unnecessarily_declared
+com.contextlogic.wish,Other app performance data,correctly_declared
+com.contextlogic.wish,Device or other IDs,correctly_declared
+ee.mtakso.client,Location,correctly_undeclared
+ee.mtakso.client,SMS or MMS,correctly_undeclared
+ee.mtakso.client,Contacts,correctly_undeclared
+ee.mtakso.client,Diagnostics,correctly_undeclared
+ee.mtakso.client,Other app performance data,correctly_undeclared
+ee.mtakso.client,Device or other IDs,wrongly_undeclared
+com.vpnmasterx.fast,Location,correctly_undeclared
+com.vpnmasterx.fast,SMS or MMS,correctly_undeclared
+com.vpnmasterx.fast,Contacts,correctly_undeclared
+com.vpnmasterx.fast,Diagnostics,wrongly_undeclared
+com.vpnmasterx.fast,Other app performance data,correctly_undeclared
+com.vpnmasterx.fast,Device or other IDs,wrongly_undeclared
+de.eos.uptrade.android.fahrinfo.hamburg,Location,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.hamburg,SMS or MMS,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.hamburg,Contacts,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.hamburg,Diagnostics,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.hamburg,Other app performance data,correctly_undeclared
+de.eos.uptrade.android.fahrinfo.hamburg,Device or other IDs,correctly_undeclared
+com.sports.live.cricket.tv,Location,correctly_undeclared
+com.sports.live.cricket.tv,SMS or MMS,correctly_undeclared
+com.sports.live.cricket.tv,Contacts,correctly_undeclared
+com.sports.live.cricket.tv,Diagnostics,wrongly_undeclared
+com.sports.live.cricket.tv,Other app performance data,wrongly_undeclared
+com.sports.live.cricket.tv,Device or other IDs,correctly_declared
+de.rtli.tvnow,Location,correctly_undeclared
+de.rtli.tvnow,SMS or MMS,correctly_undeclared
+de.rtli.tvnow,Contacts,correctly_undeclared
+de.rtli.tvnow,Diagnostics,unnecessarily_declared
+de.rtli.tvnow,Other app performance data,correctly_declared
+de.rtli.tvnow,Device or other IDs,correctly_declared
+com.valuephone.vpnetto,Location,unnecessarily_declared
+com.valuephone.vpnetto,SMS or MMS,unnecessarily_declared
+com.valuephone.vpnetto,Contacts,correctly_undeclared
+com.valuephone.vpnetto,Diagnostics,correctly_undeclared
+com.valuephone.vpnetto,Other app performance data,correctly_undeclared
+com.valuephone.vpnetto,Device or other IDs,wrongly_undeclared
+com.zattoo.player,Location,unnecessarily_declared
+com.zattoo.player,SMS or MMS,correctly_undeclared
+com.zattoo.player,Contacts,correctly_undeclared
+com.zattoo.player,Diagnostics,unnecessarily_declared
+com.zattoo.player,Other app performance data,correctly_undeclared
+com.zattoo.player,Device or other IDs,correctly_declared
+com.ubercab,Location,unnecessarily_declared
+com.ubercab,SMS or MMS,correctly_undeclared
+com.ubercab,Contacts,unnecessarily_declared
+com.ubercab,Diagnostics,unnecessarily_declared
+com.ubercab,Other app performance data,unnecessarily_declared
+com.ubercab,Device or other IDs,correctly_declared
+jp.co.canon.bsd.ad.pixmaprint,Location,correctly_undeclared
+jp.co.canon.bsd.ad.pixmaprint,SMS or MMS,correctly_undeclared
+jp.co.canon.bsd.ad.pixmaprint,Contacts,correctly_undeclared
+jp.co.canon.bsd.ad.pixmaprint,Diagnostics,correctly_undeclared
+jp.co.canon.bsd.ad.pixmaprint,Other app performance data,correctly_undeclared
+jp.co.canon.bsd.ad.pixmaprint,Device or other IDs,unnecessarily_declared
+mobi.charmer.fotocollage,Location,correctly_undeclared
+mobi.charmer.fotocollage,SMS or MMS,correctly_undeclared
+mobi.charmer.fotocollage,Contacts,correctly_undeclared
+mobi.charmer.fotocollage,Diagnostics,wrongly_undeclared
+mobi.charmer.fotocollage,Other app performance data,correctly_undeclared
+mobi.charmer.fotocollage,Device or other IDs,wrongly_undeclared
+com.dropbox.android,Location,correctly_undeclared
+com.dropbox.android,SMS or MMS,correctly_undeclared
+com.dropbox.android,Contacts,unnecessarily_declared
+com.dropbox.android,Diagnostics,unnecessarily_declared
+com.dropbox.android,Other app performance data,unnecessarily_declared
+com.dropbox.android,Device or other IDs,correctly_declared
+com.zdf.android.mediathek,Location,correctly_undeclared
+com.zdf.android.mediathek,SMS or MMS,correctly_undeclared
+com.zdf.android.mediathek,Contacts,correctly_undeclared
+com.zdf.android.mediathek,Diagnostics,correctly_undeclared
+com.zdf.android.mediathek,Other app performance data,correctly_undeclared
+com.zdf.android.mediathek,Device or other IDs,unnecessarily_declared
+de.mobile.android.app,Location,unnecessarily_declared
+de.mobile.android.app,SMS or MMS,correctly_undeclared
+de.mobile.android.app,Contacts,correctly_undeclared
+de.mobile.android.app,Diagnostics,unnecessarily_declared
+de.mobile.android.app,Other app performance data,unnecessarily_declared
+de.mobile.android.app,Device or other IDs,unnecessarily_declared
+com.alphainventor.filemanager,Location,correctly_undeclared
+com.alphainventor.filemanager,SMS or MMS,correctly_undeclared
+com.alphainventor.filemanager,Contacts,correctly_undeclared
+com.alphainventor.filemanager,Diagnostics,unnecessarily_declared
+com.alphainventor.filemanager,Other app performance data,unnecessarily_declared
+com.alphainventor.filemanager,Device or other IDs,correctly_declared
+tunein.player,Location,unnecessarily_declared
+tunein.player,SMS or MMS,correctly_undeclared
+tunein.player,Contacts,correctly_undeclared
+tunein.player,Diagnostics,correctly_declared
+tunein.player,Other app performance data,correctly_declared
+tunein.player,Device or other IDs,correctly_declared
+com.gleam.betty.easybooster,Location,correctly_undeclared
+com.gleam.betty.easybooster,SMS or MMS,correctly_undeclared
+com.gleam.betty.easybooster,Contacts,correctly_undeclared
+com.gleam.betty.easybooster,Diagnostics,wrongly_undeclared
+com.gleam.betty.easybooster,Other app performance data,wrongly_undeclared
+com.gleam.betty.easybooster,Device or other IDs,correctly_declared
+de.hafas.android.bayernnavi,Location,correctly_undeclared
+de.hafas.android.bayernnavi,SMS or MMS,correctly_undeclared
+de.hafas.android.bayernnavi,Contacts,correctly_undeclared
+de.hafas.android.bayernnavi,Diagnostics,correctly_undeclared
+de.hafas.android.bayernnavi,Other app performance data,correctly_undeclared
+de.hafas.android.bayernnavi,Device or other IDs,correctly_declared
+com.ebay.mobile,Location,unnecessarily_declared
+com.ebay.mobile,SMS or MMS,unnecessarily_declared
+com.ebay.mobile,Contacts,correctly_undeclared
+com.ebay.mobile,Diagnostics,unnecessarily_declared
+com.ebay.mobile,Other app performance data,unnecessarily_declared
+com.ebay.mobile,Device or other IDs,correctly_declared
+de.gmx.mobile.android.mail,Location,unnecessarily_declared
+de.gmx.mobile.android.mail,SMS or MMS,correctly_undeclared
+de.gmx.mobile.android.mail,Contacts,unnecessarily_declared
+de.gmx.mobile.android.mail,Diagnostics,correctly_undeclared
+de.gmx.mobile.android.mail,Other app performance data,unnecessarily_declared
+de.gmx.mobile.android.mail,Device or other IDs,unnecessarily_declared
+de.eplus.mappecc.client.android.alditalk,Location,correctly_undeclared
+de.eplus.mappecc.client.android.alditalk,SMS or MMS,correctly_undeclared
+de.eplus.mappecc.client.android.alditalk,Contacts,correctly_undeclared
+de.eplus.mappecc.client.android.alditalk,Diagnostics,unnecessarily_declared
+de.eplus.mappecc.client.android.alditalk,Other app performance data,correctly_undeclared
+de.eplus.mappecc.client.android.alditalk,Device or other IDs,correctly_declared
+com.microsoft.emmx,Location,unnecessarily_declared
+com.microsoft.emmx,SMS or MMS,correctly_undeclared
+com.microsoft.emmx,Contacts,correctly_undeclared
+com.microsoft.emmx,Diagnostics,unnecessarily_declared
+com.microsoft.emmx,Other app performance data,wrongly_undeclared
+com.microsoft.emmx,Device or other IDs,correctly_declared
+com.duolingo,Location,unnecessarily_declared
+com.duolingo,SMS or MMS,correctly_undeclared
+com.duolingo,Contacts,unnecessarily_declared
+com.duolingo,Diagnostics,unnecessarily_declared
+com.duolingo,Other app performance data,correctly_undeclared
+com.duolingo,Device or other IDs,correctly_declared
+com.better.smart.spacecleaner,Location,correctly_undeclared
+com.better.smart.spacecleaner,SMS or MMS,correctly_undeclared
+com.better.smart.spacecleaner,Contacts,correctly_undeclared
+com.better.smart.spacecleaner,Diagnostics,wrongly_undeclared
+com.better.smart.spacecleaner,Other app performance data,wrongly_undeclared
+com.better.smart.spacecleaner,Device or other IDs,correctly_declared
