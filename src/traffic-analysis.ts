@@ -14,7 +14,11 @@ import {
 import { Request, processRequest } from './common/tracking-adapters';
 import type { DataSafetyLabel } from 'parse-play';
 
-const data_dir = join(dirname(), '../data');
+const date = process.argv[2];
+if (!date)
+    throw new Error('You need to provide the date when the data safety labels were downloaded as the only argument.');
+
+const dataDir = join(dirname(), '../data');
 
 /**
  * Maps from the app IDs to a map from tracker to a map from data type to whether the data is transmitted in conjunction
@@ -89,7 +93,9 @@ type DataTypeInstances = {
 }[];
 type PurposeInstance = { tracking_used: boolean; tracking_declared: boolean; ads_used: boolean; ads_declared: boolean };
 const computeLabelData = async (appTrackerData: AppTrackerData) => {
-    const labels = await db.many<DataSafetyLabel & { date: string }>('select * from labels;');
+    const labels = await db.many<DataSafetyLabel & { date: string }>('select * from labels where date = ${date};', {
+        date,
+    });
     const adsFilterList = await getFilterList('easylist');
     const trackingFilterList = await getFilterList('easyprivacy');
 
@@ -158,11 +164,7 @@ const computeLabelData = async (appTrackerData: AppTrackerData) => {
         );
         purposeInstances[app.app_id] = {
             tracking_used: requests.some((r) => trackingFilterList.includes(r.host)),
-            tracking_declared:
-                declared.purposes.has('Analytics') ||
-                // We are very generous towards the apps here!
-                declared.purposes.has('Fraud prevention, security, and compliance') ||
-                declared.purposes.has('Personalization'),
+            tracking_declared: declared.purposes.has('Analytics'),
             ads_used: requests.some((r) => adsFilterList.includes(r.host)),
             ads_declared: declared.purposes.has('Advertising or marketing'),
         };
@@ -171,7 +173,7 @@ const computeLabelData = async (appTrackerData: AppTrackerData) => {
     const dataTypeInstancesCsv = Object.entries(dataTypeInstances).flatMap(([app, data]) =>
         data.map((entry) => ({ app, data_type: entry.data_type, declared: entry.declared }))
     );
-    await fs.writeFile(join(data_dir, 'data_type_truthfulness.csv'), Papa.unparse(dataTypeInstancesCsv));
+    await fs.writeFile(join(dataDir, 'data_type_truthfulness.csv'), Papa.unparse(dataTypeInstancesCsv));
 
     const purposesInstancesCsv = Object.entries(purposeInstances).flatMap(([app, data]) =>
         (['tracking', 'ads'] as const).map((type) => ({
@@ -187,11 +189,23 @@ const computeLabelData = async (appTrackerData: AppTrackerData) => {
                     : 'wrongly_undeclared',
         }))
     );
-    await fs.writeFile(join(data_dir, `purpose_truthfulness.csv`), Papa.unparse(purposesInstancesCsv));
+    await fs.writeFile(join(dataDir, `purpose_truthfulness.csv`), Papa.unparse(purposesInstancesCsv));
 };
 
 (async () => {
     const appTrackerData = await computeAppTrackerData();
+    const csvData = Object.entries(appTrackerData).flatMap(([app_id, data]) =>
+        Object.entries(data).flatMap(([tracker, data_types]) =>
+            [...Object.entries(data_types)].flatMap(([data_type, transmission_type]) => ({
+                app_id,
+                tracker,
+                data_type,
+                transmission_type,
+            }))
+        )
+    );
+    await fs.writeFile(join(dataDir, `apps_trackers_data_types.csv`), Papa.unparse(csvData));
+
     await computeLabelData(appTrackerData);
 
     pg.end();

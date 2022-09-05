@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="479.9949pt" height="324.513688pt" viewBox="0 0 479.9949 324.513688" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-09-08T14:04:42.215751</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 324.513688 
+L 479.9949 324.513688 
+L 479.9949 0 
+L -0 0 
+L -0 324.513688 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 122.8749 292.7232 
+L 479.9949 292.7232 
+L 479.9949 0 
+L 122.8749 0 
+L 122.8749 292.7232 
+z
+" style="fill: none"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 122.8749 292.7232 
+L 122.8749 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g style="fill: #262626" transform="translate(120.174331 308.2832)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-30" d="M 1786 4346 
+C 826 4346 352 3558 352 2138 
+C 352 717 826 -77 1786 -77 
+C 2746 -77 3219 717 3219 2138 
+C 3219 3552 2746 4346 1786 4346 
+z
+M 1786 3878 
+C 2317 3878 2605 3392 2605 2138 
+C 2605 877 2317 390 1786 390 
+C 1248 390 966 877 966 2138 
+C 966 3392 1248 3878 1786 3878 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <path d="M 164.565791 292.7232 
+L 164.565791 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_2">
+      <!-- 2,000 -->
+      <g style="fill: #262626" transform="translate(152.906684 308.2832)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-32" d="M 1459 4346 
+C 922 4346 506 4128 160 3699 
+L 544 3392 
+C 832 3718 1069 3859 1427 3859 
+C 1843 3859 2131 3597 2131 3149 
+C 2131 2451 1760 2042 250 467 
+L 250 0 
+L 2778 0 
+L 2848 493 
+L 922 493 
+C 2234 1805 2746 2374 2746 3174 
+C 2746 3840 2246 4346 1459 4346 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-2c" d="M 762 813 
+C 512 813 320 614 320 371 
+C 320 218 390 83 499 0 
+L 243 -1062 
+L 666 -1062 
+L 1094 -83 
+C 1178 102 1210 230 1210 371 
+C 1210 614 1018 813 762 813 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-32"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="49.499985"/>
+       <use xlink:href="#FiraGO-Regular-30" x="73.499969"/>
+       <use xlink:href="#FiraGO-Regular-30" x="129.299957"/>
+       <use xlink:href="#FiraGO-Regular-30" x="185.099945"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <path d="M 206.256681 292.7232 
+L 206.256681 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_3">
+      <!-- 4,000 -->
+      <g style="fill: #262626" transform="translate(194.418344 308.2832)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-34" d="M 3213 1523 
+L 2656 1523 
+L 2656 2675 
+L 2144 2675 
+L 2093 1523 
+L 877 1523 
+L 2035 4141 
+L 1542 4346 
+L 256 1478 
+L 256 1056 
+L 2086 1056 
+L 2086 0 
+L 2656 0 
+L 2656 1056 
+L 3213 1056 
+L 3213 1523 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-34"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="53.199997"/>
+       <use xlink:href="#FiraGO-Regular-30" x="77.199982"/>
+       <use xlink:href="#FiraGO-Regular-30" x="132.999969"/>
+       <use xlink:href="#FiraGO-Regular-30" x="188.799957"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <path d="M 247.947572 292.7232 
+L 247.947572 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_4">
+      <!-- 6,000 -->
+      <g style="fill: #262626" transform="translate(236.104697 308.2832)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-36" d="M 1971 2816 
+C 1568 2816 1222 2650 941 2253 
+C 973 3232 1344 3878 1965 3878 
+C 2202 3878 2426 3814 2624 3693 
+L 2854 4083 
+C 2605 4250 2317 4346 1971 4346 
+C 960 4346 352 3411 352 2010 
+C 352 781 749 -77 1792 -77 
+C 2547 -77 3155 518 3155 1453 
+C 3155 2368 2598 2816 1971 2816 
+z
+M 1792 390 
+C 1222 390 973 826 947 1760 
+C 1165 2112 1485 2349 1869 2349 
+C 2272 2349 2560 2112 2560 1434 
+C 2560 806 2298 390 1792 390 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-36"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="53.299988"/>
+       <use xlink:href="#FiraGO-Regular-30" x="77.299973"/>
+       <use xlink:href="#FiraGO-Regular-30" x="133.09996"/>
+       <use xlink:href="#FiraGO-Regular-30" x="188.899948"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <path d="M 289.638462 292.7232 
+L 289.638462 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_5">
+      <!-- 8,000 -->
+      <g style="fill: #262626" transform="translate(277.708619 308.2832)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-38" d="M 2336 2298 
+C 2822 2541 3066 2829 3066 3264 
+C 3066 3994 2406 4346 1766 4346 
+C 1114 4346 467 3968 467 3245 
+C 467 2803 672 2477 1133 2246 
+C 608 2016 288 1683 288 1133 
+C 288 429 870 -77 1754 -77 
+C 2624 -77 3238 429 3238 1146 
+C 3238 1683 2925 2061 2336 2298 
+z
+M 1766 3904 
+C 2234 3904 2490 3642 2490 3245 
+C 2490 2880 2330 2656 1946 2438 
+L 1837 2477 
+C 1344 2637 1043 2797 1043 3238 
+C 1043 3667 1325 3904 1766 3904 
+z
+M 1760 390 
+C 1229 390 902 666 902 1133 
+C 902 1600 1107 1894 1530 2099 
+L 1690 2042 
+C 2381 1805 2624 1600 2624 1139 
+C 2624 691 2298 390 1760 390 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-38"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="55.099991"/>
+       <use xlink:href="#FiraGO-Regular-30" x="79.099976"/>
+       <use xlink:href="#FiraGO-Regular-30" x="134.899963"/>
+       <use xlink:href="#FiraGO-Regular-30" x="190.699951"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <path d="M 331.329353 292.7232 
+L 331.329353 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_6">
+      <!-- 10,000 -->
+      <g style="fill: #262626" transform="translate(317.269909 308.2832)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-31" d="M 2067 4282 
+L 1549 4282 
+L 224 3462 
+L 480 3046 
+L 1478 3654 
+L 1478 0 
+L 2067 0 
+L 2067 4282 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-31"/>
+       <use xlink:href="#FiraGO-Regular-30" x="43.299988"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="99.099976"/>
+       <use xlink:href="#FiraGO-Regular-30" x="123.09996"/>
+       <use xlink:href="#FiraGO-Regular-30" x="178.899948"/>
+       <use xlink:href="#FiraGO-Regular-30" x="234.699936"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path d="M 373.020244 292.7232 
+L 373.020244 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_7">
+      <!-- 12,000 -->
+      <g style="fill: #262626" transform="translate(359.265569 308.2832)scale(0.0968 -0.0968)">
+       <use xlink:href="#FiraGO-Regular-31"/>
+       <use xlink:href="#FiraGO-Regular-32" x="43.299988"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="92.799973"/>
+       <use xlink:href="#FiraGO-Regular-30" x="116.799957"/>
+       <use xlink:href="#FiraGO-Regular-30" x="172.599945"/>
+       <use xlink:href="#FiraGO-Regular-30" x="228.399933"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <path d="M 414.711134 292.7232 
+L 414.711134 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_8">
+      <!-- 14,000 -->
+      <g style="fill: #262626" transform="translate(400.777228 308.2832)scale(0.0968 -0.0968)">
+       <use xlink:href="#FiraGO-Regular-31"/>
+       <use xlink:href="#FiraGO-Regular-34" x="43.299988"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="96.499985"/>
+       <use xlink:href="#FiraGO-Regular-30" x="120.499969"/>
+       <use xlink:href="#FiraGO-Regular-30" x="176.299957"/>
+       <use xlink:href="#FiraGO-Regular-30" x="232.099945"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <path d="M 456.402025 292.7232 
+L 456.402025 0 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_9">
+      <!-- 16,000 -->
+      <g style="fill: #262626" transform="translate(442.463581 308.2832)scale(0.0968 -0.0968)">
+       <use xlink:href="#FiraGO-Regular-31"/>
+       <use xlink:href="#FiraGO-Regular-36" x="43.299988"/>
+       <use xlink:href="#FiraGO-Regular-2c" x="96.599976"/>
+       <use xlink:href="#FiraGO-Regular-30" x="120.59996"/>
+       <use xlink:href="#FiraGO-Regular-30" x="176.399948"/>
+       <use xlink:href="#FiraGO-Regular-30" x="232.199936"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_10">
+     <!-- number of apps -->
+     <g style="fill: #262626" transform="translate(263.68785 322.264738)scale(0.1056 -0.1056)">
+      <defs>
+       <path id="FiraGO-Regular-6e" d="M 2176 3450 
+C 1734 3450 1376 3219 1146 2874 
+L 1094 3373 
+L 589 3373 
+L 589 0 
+L 1178 0 
+L 1178 2394 
+C 1402 2752 1658 2989 2035 2989 
+C 2362 2989 2566 2842 2566 2336 
+L 2566 0 
+L 3155 0 
+L 3155 2419 
+C 3155 3059 2797 3450 2176 3450 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-75" d="M 3091 3373 
+L 2502 3373 
+L 2502 966 
+C 2298 627 2022 384 1658 384 
+C 1293 384 1139 557 1139 1018 
+L 1139 3373 
+L 550 3373 
+L 550 954 
+C 550 294 902 -77 1491 -77 
+C 1971 -77 2285 115 2541 525 
+L 2586 0 
+L 3091 0 
+L 3091 3373 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-6d" d="M 3974 3450 
+C 3520 3450 3213 3206 2970 2842 
+C 2842 3226 2534 3450 2118 3450 
+C 1677 3450 1370 3219 1146 2880 
+L 1094 3373 
+L 589 3373 
+L 589 0 
+L 1178 0 
+L 1178 2394 
+C 1402 2752 1606 2989 1971 2989 
+C 2227 2989 2445 2842 2445 2336 
+L 2445 0 
+L 3034 0 
+L 3034 2394 
+C 3264 2752 3462 2989 3827 2989 
+C 4083 2989 4301 2842 4301 2336 
+L 4301 0 
+L 4890 0 
+L 4890 2419 
+C 4890 3053 4525 3450 3974 3450 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-62" d="M 2131 3450 
+C 1722 3450 1408 3264 1178 2950 
+L 1178 4800 
+L 589 4730 
+L 589 0 
+L 1107 0 
+L 1165 371 
+C 1395 90 1690 -77 2061 -77 
+C 2880 -77 3386 634 3386 1690 
+C 3386 2816 2893 3450 2131 3450 
+z
+M 1920 390 
+C 1619 390 1350 576 1178 845 
+L 1178 2458 
+C 1350 2726 1594 2982 1965 2982 
+C 2438 2982 2752 2650 2752 1690 
+C 2752 768 2413 390 1920 390 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-65" d="M 3155 1786 
+C 3155 2816 2675 3450 1766 3450 
+C 896 3450 365 2701 365 1651 
+C 365 582 915 -77 1856 -77 
+C 2323 -77 2701 83 3034 346 
+L 2778 698 
+C 2483 493 2234 403 1901 403 
+C 1414 403 1050 704 992 1485 
+L 3142 1485 
+C 3149 1562 3155 1670 3155 1786 
+z
+M 2573 1920 
+L 992 1920 
+C 1037 2669 1331 2982 1779 2982 
+C 2310 2982 2573 2618 2573 1958 
+L 2573 1920 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-72" d="M 2054 3450 
+C 1645 3450 1331 3194 1152 2688 
+L 1094 3373 
+L 589 3373 
+L 589 0 
+L 1178 0 
+L 1178 1926 
+C 1318 2573 1562 2874 1984 2874 
+C 2106 2874 2176 2861 2278 2835 
+L 2387 3411 
+C 2285 3437 2163 3450 2054 3450 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-20" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-6f" d="M 1875 3450 
+C 915 3450 365 2726 365 1683 
+C 365 614 909 -77 1869 -77 
+C 2822 -77 3373 646 3373 1690 
+C 3373 2758 2835 3450 1875 3450 
+z
+M 1875 2976 
+C 2432 2976 2739 2566 2739 1690 
+C 2739 806 2432 397 1869 397 
+C 1306 397 998 806 998 1683 
+C 998 2566 1312 2976 1875 2976 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-66" d="M 1754 4326 
+C 1926 4326 2125 4294 2342 4198 
+L 2528 4627 
+C 2259 4742 2042 4800 1722 4800 
+C 1037 4800 666 4397 666 3834 
+L 666 3373 
+L 64 3373 
+L 64 2918 
+L 666 2918 
+L 666 0 
+L 1254 0 
+L 1254 2918 
+L 2010 2918 
+L 2074 3373 
+L 1254 3373 
+L 1254 3840 
+C 1254 4166 1382 4326 1754 4326 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-61" d="M 2880 787 
+L 2880 2330 
+C 2880 3034 2509 3450 1696 3450 
+C 1318 3450 947 3373 531 3219 
+L 678 2790 
+C 1024 2906 1338 2970 1587 2970 
+C 2054 2970 2291 2790 2291 2304 
+L 2291 2054 
+L 1773 2054 
+C 832 2054 288 1664 288 941 
+C 288 339 691 -77 1363 -77 
+C 1773 -77 2131 77 2368 429 
+C 2470 96 2688 -38 3027 -77 
+L 3162 333 
+C 2989 397 2880 493 2880 787 
+z
+M 1498 365 
+C 1114 365 915 576 915 973 
+C 915 1434 1229 1664 1850 1664 
+L 2291 1664 
+L 2291 890 
+C 2099 538 1843 365 1498 365 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-70" d="M 2138 3450 
+C 1754 3450 1389 3264 1139 2918 
+L 1094 3373 
+L 589 3373 
+L 589 -1363 
+L 1178 -1293 
+L 1178 307 
+C 1395 45 1696 -77 2061 -77 
+C 2931 -77 3386 666 3386 1690 
+C 3386 2752 3034 3450 2138 3450 
+z
+M 1920 403 
+C 1613 403 1350 550 1178 813 
+L 1178 2458 
+C 1357 2726 1632 2982 1990 2982 
+C 2496 2982 2752 2566 2752 1690 
+C 2752 806 2458 403 1920 403 
+z
+" transform="scale(0.015625)"/>
+       <path id="FiraGO-Regular-73" d="M 1523 3450 
+C 826 3450 307 3059 307 2522 
+C 307 2048 595 1734 1325 1542 
+C 1978 1370 2144 1242 2144 909 
+C 2144 589 1862 397 1421 397 
+C 1056 397 742 518 474 723 
+L 160 365 
+C 454 109 864 -77 1434 -77 
+C 2118 -77 2765 243 2765 947 
+C 2765 1536 2355 1818 1645 1997 
+C 1101 2138 922 2266 922 2541 
+C 922 2810 1158 2982 1542 2982 
+C 1856 2982 2118 2886 2419 2694 
+L 2669 3066 
+C 2349 3309 1997 3450 1523 3450 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#FiraGO-Regular-6e"/>
+      <use xlink:href="#FiraGO-Regular-75" x="57.899994"/>
+      <use xlink:href="#FiraGO-Regular-6d" x="115.399979"/>
+      <use xlink:href="#FiraGO-Regular-62" x="200.399963"/>
+      <use xlink:href="#FiraGO-Regular-65" x="258.999954"/>
+      <use xlink:href="#FiraGO-Regular-72" x="313.399948"/>
+      <use xlink:href="#FiraGO-Regular-20" x="351.699936"/>
+      <use xlink:href="#FiraGO-Regular-6f" x="378.199921"/>
+      <use xlink:href="#FiraGO-Regular-66" x="436.599915"/>
+      <use xlink:href="#FiraGO-Regular-20" x="470.099899"/>
+      <use xlink:href="#FiraGO-Regular-61" x="496.599884"/>
+      <use xlink:href="#FiraGO-Regular-70" x="550.999878"/>
+      <use xlink:href="#FiraGO-Regular-70" x="609.599869"/>
+      <use xlink:href="#FiraGO-Regular-73" x="668.19986"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_10">
+      <path d="M 122.8749 21.018991 
+L 479.9949 21.018991 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_11">
+      <!-- Device or other IDs -->
+      <g style="fill: #262626" transform="translate(31.361688 24.648991)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-44" d="M 1562 4410 
+L 640 4410 
+L 640 0 
+L 1696 0 
+C 2650 0 3770 429 3770 2227 
+C 3770 4058 2688 4410 1562 4410 
+z
+M 1696 3923 
+C 2400 3923 3123 3718 3123 2227 
+C 3123 774 2432 480 1741 480 
+L 1248 480 
+L 1248 3923 
+L 1696 3923 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-76" d="M 3085 3373 
+L 2464 3373 
+L 1587 525 
+L 704 3373 
+L 64 3373 
+L 1229 0 
+L 1939 0 
+L 3085 3373 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-69" d="M 877 4992 
+C 634 4992 467 4819 467 4589 
+C 467 4365 634 4192 877 4192 
+C 1126 4192 1293 4365 1293 4589 
+C 1293 4819 1126 4992 877 4992 
+z
+M 1178 3373 
+L 589 3373 
+L 589 0 
+L 1178 0 
+L 1178 3373 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-63" d="M 1837 3450 
+C 922 3450 365 2733 365 1658 
+C 365 570 928 -77 1837 -77 
+C 2227 -77 2566 51 2867 294 
+L 2598 678 
+C 2342 512 2144 422 1862 422 
+C 1331 422 998 787 998 1670 
+C 998 2547 1331 2963 1862 2963 
+C 2144 2963 2355 2880 2586 2714 
+L 2867 3085 
+C 2554 3347 2234 3450 1837 3450 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-74" d="M 2086 544 
+C 1920 454 1786 410 1638 410 
+C 1344 410 1235 570 1235 909 
+L 1235 2918 
+L 1971 2918 
+L 2035 3373 
+L 1235 3373 
+L 1235 4205 
+L 646 4134 
+L 646 3373 
+L 58 3373 
+L 58 2918 
+L 646 2918 
+L 646 883 
+C 646 256 986 -77 1555 -77 
+C 1843 -77 2086 0 2310 154 
+L 2086 544 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-68" d="M 2176 3450 
+C 1754 3450 1421 3238 1178 2906 
+L 1178 4787 
+L 589 4723 
+L 589 0 
+L 1178 0 
+L 1178 2400 
+C 1402 2752 1664 2989 2029 2989 
+C 2349 2989 2566 2842 2566 2336 
+L 2566 0 
+L 3155 0 
+L 3155 2419 
+C 3155 3053 2790 3450 2176 3450 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-49" d="M 1248 4410 
+L 640 4410 
+L 640 0 
+L 1248 0 
+L 1248 4410 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-44"/>
+       <use xlink:href="#FiraGO-Regular-65" x="64.399994"/>
+       <use xlink:href="#FiraGO-Regular-76" x="118.799988"/>
+       <use xlink:href="#FiraGO-Regular-69" x="167.999985"/>
+       <use xlink:href="#FiraGO-Regular-63" x="195.599976"/>
+       <use xlink:href="#FiraGO-Regular-65" x="243.299973"/>
+       <use xlink:href="#FiraGO-Regular-20" x="297.699966"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="324.199951"/>
+       <use xlink:href="#FiraGO-Regular-72" x="382.599945"/>
+       <use xlink:href="#FiraGO-Regular-20" x="420.899933"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="447.399918"/>
+       <use xlink:href="#FiraGO-Regular-74" x="505.799911"/>
+       <use xlink:href="#FiraGO-Regular-68" x="541.899902"/>
+       <use xlink:href="#FiraGO-Regular-65" x="599.799896"/>
+       <use xlink:href="#FiraGO-Regular-72" x="654.19989"/>
+       <use xlink:href="#FiraGO-Regular-20" x="692.499878"/>
+       <use xlink:href="#FiraGO-Regular-49" x="718.999863"/>
+       <use xlink:href="#FiraGO-Regular-44" x="748.499847"/>
+       <use xlink:href="#FiraGO-Regular-73" x="812.899841"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_11">
+      <path d="M 122.8749 40.30247 
+L 479.9949 40.30247 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_12">
+      <!-- App info and performance -->
+      <g style="fill: #262626" transform="translate(0 44.07767)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-41" d="M 2989 0 
+L 3629 0 
+L 2221 4410 
+L 1453 4410 
+L 38 0 
+L 653 0 
+L 986 1107 
+L 2656 1107 
+L 2989 0 
+z
+M 1133 1600 
+L 1824 3904 
+L 2509 1600 
+L 1133 1600 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-64" d="M 2598 4800 
+L 2598 3034 
+C 2374 3270 2086 3450 1690 3450 
+C 864 3450 365 2701 365 1670 
+C 365 621 819 -77 1638 -77 
+C 2054 -77 2394 128 2611 467 
+L 2669 0 
+L 3187 0 
+L 3187 4730 
+L 2598 4800 
+z
+M 1766 390 
+C 1280 390 998 794 998 1683 
+C 998 2560 1312 2982 1818 2982 
+C 2150 2982 2387 2810 2598 2541 
+L 2598 890 
+C 2374 576 2144 390 1766 390 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-41"/>
+       <use xlink:href="#FiraGO-Regular-70" x="57.299988"/>
+       <use xlink:href="#FiraGO-Regular-70" x="115.899979"/>
+       <use xlink:href="#FiraGO-Regular-20" x="174.499969"/>
+       <use xlink:href="#FiraGO-Regular-69" x="200.999954"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="228.599945"/>
+       <use xlink:href="#FiraGO-Regular-66" x="286.499939"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="319.999924"/>
+       <use xlink:href="#FiraGO-Regular-20" x="378.399918"/>
+       <use xlink:href="#FiraGO-Regular-61" x="404.899902"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="459.299896"/>
+       <use xlink:href="#FiraGO-Regular-64" x="517.19989"/>
+       <use xlink:href="#FiraGO-Regular-20" x="576.199875"/>
+       <use xlink:href="#FiraGO-Regular-70" x="602.69986"/>
+       <use xlink:href="#FiraGO-Regular-65" x="661.29985"/>
+       <use xlink:href="#FiraGO-Regular-72" x="715.699844"/>
+       <use xlink:href="#FiraGO-Regular-66" x="753.999832"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="787.499817"/>
+       <use xlink:href="#FiraGO-Regular-72" x="845.899811"/>
+       <use xlink:href="#FiraGO-Regular-6d" x="884.199799"/>
+       <use xlink:href="#FiraGO-Regular-61" x="969.199783"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="1023.599777"/>
+       <use xlink:href="#FiraGO-Regular-63" x="1081.499771"/>
+       <use xlink:href="#FiraGO-Regular-65" x="1129.199768"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_12">
+      <path d="M 122.8749 59.585948 
+L 479.9949 59.585948 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_13">
+      <!-- App activity -->
+      <g style="fill: #262626" transform="translate(63.3798 63.361148)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-79" d="M 3085 3373 
+L 2477 3373 
+L 1594 429 
+L 691 3373 
+L 64 3373 
+L 1197 0 
+L 1395 0 
+C 1203 -525 1011 -787 326 -902 
+L 390 -1363 
+C 1325 -1261 1722 -736 1958 -19 
+L 3085 3373 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-41"/>
+       <use xlink:href="#FiraGO-Regular-70" x="57.299988"/>
+       <use xlink:href="#FiraGO-Regular-70" x="115.899979"/>
+       <use xlink:href="#FiraGO-Regular-20" x="174.499969"/>
+       <use xlink:href="#FiraGO-Regular-61" x="200.999954"/>
+       <use xlink:href="#FiraGO-Regular-63" x="255.399948"/>
+       <use xlink:href="#FiraGO-Regular-74" x="303.099945"/>
+       <use xlink:href="#FiraGO-Regular-69" x="339.199936"/>
+       <use xlink:href="#FiraGO-Regular-76" x="366.799927"/>
+       <use xlink:href="#FiraGO-Regular-69" x="415.999924"/>
+       <use xlink:href="#FiraGO-Regular-74" x="443.599915"/>
+       <use xlink:href="#FiraGO-Regular-79" x="479.699905"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 122.8749 78.869426 
+L 479.9949 78.869426 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_14">
+      <!-- Personal info -->
+      <g style="fill: #262626" transform="translate(56.268025 82.499426)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-50" d="M 1798 4410 
+L 640 4410 
+L 640 0 
+L 1248 0 
+L 1248 1619 
+L 1805 1619 
+C 2778 1619 3514 2035 3514 3046 
+C 3514 3974 2861 4410 1798 4410 
+z
+M 1779 2099 
+L 1248 2099 
+L 1248 3936 
+L 1792 3936 
+C 2445 3936 2867 3699 2867 3040 
+C 2867 2291 2432 2099 1779 2099 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-6c" d="M 1254 -77 
+C 1427 -77 1594 -32 1722 38 
+L 1568 448 
+C 1504 422 1434 410 1350 410 
+C 1197 410 1139 499 1139 678 
+L 1139 4800 
+L 550 4730 
+L 550 666 
+C 550 186 826 -77 1254 -77 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-50"/>
+       <use xlink:href="#FiraGO-Regular-65" x="58.899994"/>
+       <use xlink:href="#FiraGO-Regular-72" x="113.299988"/>
+       <use xlink:href="#FiraGO-Regular-73" x="151.599976"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="198.299973"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="256.699966"/>
+       <use xlink:href="#FiraGO-Regular-61" x="314.59996"/>
+       <use xlink:href="#FiraGO-Regular-6c" x="368.999954"/>
+       <use xlink:href="#FiraGO-Regular-20" x="398.399948"/>
+       <use xlink:href="#FiraGO-Regular-69" x="424.899933"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="452.499924"/>
+       <use xlink:href="#FiraGO-Regular-66" x="510.399918"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="543.899902"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <path d="M 122.8749 98.152904 
+L 479.9949 98.152904 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_15">
+      <!-- Location -->
+      <g style="fill: #262626" transform="translate(76.79265 101.782904)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-4c" d="M 1248 4410 
+L 640 4410 
+L 640 0 
+L 2989 0 
+L 3059 531 
+L 1248 531 
+L 1248 4410 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-4c"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="49.799988"/>
+       <use xlink:href="#FiraGO-Regular-63" x="108.199982"/>
+       <use xlink:href="#FiraGO-Regular-61" x="155.899979"/>
+       <use xlink:href="#FiraGO-Regular-74" x="210.299973"/>
+       <use xlink:href="#FiraGO-Regular-69" x="246.399963"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="273.999954"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="332.399948"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <path d="M 122.8749 117.436383 
+L 479.9949 117.436383 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_16">
+      <!-- Financial info -->
+      <g style="fill: #262626" transform="translate(55.534463 121.066383)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-46" d="M 640 0 
+L 1248 0 
+L 1248 1939 
+L 2688 1939 
+L 2688 2419 
+L 1248 2419 
+L 1248 3923 
+L 2912 3923 
+L 2982 4410 
+L 640 4410 
+L 640 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-46"/>
+       <use xlink:href="#FiraGO-Regular-69" x="49.099991"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="76.699982"/>
+       <use xlink:href="#FiraGO-Regular-61" x="134.599976"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="188.999969"/>
+       <use xlink:href="#FiraGO-Regular-63" x="246.899963"/>
+       <use xlink:href="#FiraGO-Regular-69" x="294.59996"/>
+       <use xlink:href="#FiraGO-Regular-61" x="322.199951"/>
+       <use xlink:href="#FiraGO-Regular-6c" x="376.599945"/>
+       <use xlink:href="#FiraGO-Regular-20" x="405.999939"/>
+       <use xlink:href="#FiraGO-Regular-69" x="432.499924"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="460.099915"/>
+       <use xlink:href="#FiraGO-Regular-66" x="517.999908"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="551.499893"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <path d="M 122.8749 136.719861 
+L 479.9949 136.719861 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_17">
+      <!-- Photos and videos -->
+      <g style="fill: #262626" transform="translate(33.645563 140.349861)scale(0.0968 -0.0968)">
+       <use xlink:href="#FiraGO-Regular-50"/>
+       <use xlink:href="#FiraGO-Regular-68" x="58.899994"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="116.799988"/>
+       <use xlink:href="#FiraGO-Regular-74" x="175.199982"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="211.299973"/>
+       <use xlink:href="#FiraGO-Regular-73" x="269.699966"/>
+       <use xlink:href="#FiraGO-Regular-20" x="316.399963"/>
+       <use xlink:href="#FiraGO-Regular-61" x="342.899948"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="397.299942"/>
+       <use xlink:href="#FiraGO-Regular-64" x="455.199936"/>
+       <use xlink:href="#FiraGO-Regular-20" x="514.199921"/>
+       <use xlink:href="#FiraGO-Regular-76" x="540.699905"/>
+       <use xlink:href="#FiraGO-Regular-69" x="589.899902"/>
+       <use xlink:href="#FiraGO-Regular-64" x="617.499893"/>
+       <use xlink:href="#FiraGO-Regular-65" x="676.499878"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="730.899872"/>
+       <use xlink:href="#FiraGO-Regular-73" x="789.299866"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_17">
+      <path d="M 122.8749 156.003339 
+L 479.9949 156.003339 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_18">
+      <!-- Messages -->
+      <g style="fill: #262626" transform="translate(72.6484 159.633339)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-4d" d="M 4218 4410 
+L 3392 4410 
+L 2509 1203 
+L 1581 4410 
+L 762 4410 
+L 397 0 
+L 973 0 
+L 1120 1946 
+C 1171 2592 1203 3277 1203 3795 
+L 2208 499 
+L 2778 499 
+L 3731 3789 
+C 3738 3424 3782 2682 3840 1990 
+L 3994 0 
+L 4582 0 
+L 4218 4410 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-67" d="M 3155 3750 
+C 2758 3571 2451 3430 1613 3450 
+C 870 3450 314 2963 314 2272 
+C 314 1837 493 1542 883 1338 
+C 640 1178 512 960 512 742 
+C 512 403 781 102 1382 102 
+L 1914 102 
+C 2336 102 2592 -58 2592 -378 
+C 2592 -717 2336 -902 1606 -902 
+C 864 -902 691 -723 691 -339 
+L 160 -339 
+C 160 -1024 506 -1363 1606 -1363 
+C 2650 -1363 3187 -992 3187 -339 
+C 3187 198 2726 595 2035 595 
+L 1498 595 
+C 1152 595 1056 717 1056 870 
+C 1056 992 1126 1114 1222 1184 
+C 1363 1139 1498 1120 1651 1120 
+C 2458 1120 2938 1600 2938 2266 
+C 2938 2656 2739 2938 2342 3117 
+C 2726 3117 3046 3130 3328 3219 
+L 3155 3750 
+z
+M 1613 3027 
+C 2093 3027 2336 2771 2336 2278 
+C 2336 1792 2086 1510 1626 1510 
+C 1165 1510 915 1824 915 2272 
+C 915 2714 1158 3027 1613 3027 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-4d"/>
+       <use xlink:href="#FiraGO-Regular-65" x="77.799988"/>
+       <use xlink:href="#FiraGO-Regular-73" x="132.199982"/>
+       <use xlink:href="#FiraGO-Regular-73" x="178.899979"/>
+       <use xlink:href="#FiraGO-Regular-61" x="225.599976"/>
+       <use xlink:href="#FiraGO-Regular-67" x="279.999969"/>
+       <use xlink:href="#FiraGO-Regular-65" x="331.999954"/>
+       <use xlink:href="#FiraGO-Regular-73" x="386.399948"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_18">
+      <path d="M 122.8749 175.286817 
+L 479.9949 175.286817 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_19">
+      <!-- Files and docs -->
+      <g style="fill: #262626" transform="translate(52.300738 178.916817)scale(0.0968 -0.0968)">
+       <use xlink:href="#FiraGO-Regular-46"/>
+       <use xlink:href="#FiraGO-Regular-69" x="49.099991"/>
+       <use xlink:href="#FiraGO-Regular-6c" x="76.699982"/>
+       <use xlink:href="#FiraGO-Regular-65" x="106.099976"/>
+       <use xlink:href="#FiraGO-Regular-73" x="160.499969"/>
+       <use xlink:href="#FiraGO-Regular-20" x="207.199966"/>
+       <use xlink:href="#FiraGO-Regular-61" x="233.699951"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="288.099945"/>
+       <use xlink:href="#FiraGO-Regular-64" x="345.999939"/>
+       <use xlink:href="#FiraGO-Regular-20" x="404.999924"/>
+       <use xlink:href="#FiraGO-Regular-64" x="431.499908"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="490.499893"/>
+       <use xlink:href="#FiraGO-Regular-63" x="548.899887"/>
+       <use xlink:href="#FiraGO-Regular-73" x="596.599884"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_19">
+      <path d="M 122.8749 194.570296 
+L 479.9949 194.570296 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_20">
+      <!-- Audio -->
+      <g style="fill: #262626" transform="translate(89.426563 198.200296)scale(0.0968 -0.0968)">
+       <use xlink:href="#FiraGO-Regular-41"/>
+       <use xlink:href="#FiraGO-Regular-75" x="57.299988"/>
+       <use xlink:href="#FiraGO-Regular-64" x="114.799973"/>
+       <use xlink:href="#FiraGO-Regular-69" x="173.799957"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="201.399948"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_20">
+      <path d="M 122.8749 213.853774 
+L 479.9949 213.853774 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_21">
+      <!-- Health and fitness -->
+      <g style="fill: #262626" transform="translate(34.47895 217.483774)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-48" d="M 3104 0 
+L 3712 0 
+L 3712 4410 
+L 3104 4410 
+L 3104 2566 
+L 1248 2566 
+L 1248 4410 
+L 640 4410 
+L 640 0 
+L 1248 0 
+L 1248 2067 
+L 3104 2067 
+L 3104 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-48"/>
+       <use xlink:href="#FiraGO-Regular-65" x="67.999985"/>
+       <use xlink:href="#FiraGO-Regular-61" x="122.399979"/>
+       <use xlink:href="#FiraGO-Regular-6c" x="176.799973"/>
+       <use xlink:href="#FiraGO-Regular-74" x="206.199966"/>
+       <use xlink:href="#FiraGO-Regular-68" x="242.299957"/>
+       <use xlink:href="#FiraGO-Regular-20" x="300.199951"/>
+       <use xlink:href="#FiraGO-Regular-61" x="326.699936"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="381.09993"/>
+       <use xlink:href="#FiraGO-Regular-64" x="438.999924"/>
+       <use xlink:href="#FiraGO-Regular-20" x="497.999908"/>
+       <use xlink:href="#FiraGO-Regular-66" x="524.499893"/>
+       <use xlink:href="#FiraGO-Regular-69" x="557.999878"/>
+       <use xlink:href="#FiraGO-Regular-74" x="585.599869"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="621.69986"/>
+       <use xlink:href="#FiraGO-Regular-65" x="679.599854"/>
+       <use xlink:href="#FiraGO-Regular-73" x="733.999847"/>
+       <use xlink:href="#FiraGO-Regular-73" x="780.699844"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_21">
+      <path d="M 122.8749 233.137252 
+L 479.9949 233.137252 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_22">
+      <!-- Contacts -->
+      <g style="fill: #262626" transform="translate(76.50225 236.767252)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-43" d="M 2182 4486 
+C 1184 4486 352 3699 352 2208 
+C 352 723 1126 -77 2195 -77 
+C 2790 -77 3213 166 3456 416 
+L 3155 800 
+C 2906 614 2630 435 2214 435 
+C 1530 435 998 934 998 2208 
+C 998 3539 1555 3987 2221 3987 
+C 2528 3987 2797 3885 3072 3661 
+L 3405 4051 
+C 3053 4333 2739 4486 2182 4486 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-43"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="55.999985"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="114.399979"/>
+       <use xlink:href="#FiraGO-Regular-74" x="172.299973"/>
+       <use xlink:href="#FiraGO-Regular-61" x="208.399963"/>
+       <use xlink:href="#FiraGO-Regular-63" x="262.799957"/>
+       <use xlink:href="#FiraGO-Regular-74" x="310.499954"/>
+       <use xlink:href="#FiraGO-Regular-73" x="346.599945"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_22">
+      <path d="M 122.8749 252.42073 
+L 479.9949 252.42073 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_23">
+      <!-- Web browsing -->
+      <g style="fill: #262626" transform="translate(53.271763 256.19593)scale(0.0968 -0.0968)">
+       <defs>
+        <path id="FiraGO-Regular-57" d="M 5126 4410 
+L 4570 4410 
+L 3834 531 
+L 2963 4410 
+L 2317 4410 
+L 1466 531 
+L 755 4410 
+L 160 4410 
+L 1056 0 
+L 1818 0 
+L 2637 3693 
+L 3450 0 
+L 4230 0 
+L 5126 4410 
+z
+" transform="scale(0.015625)"/>
+        <path id="FiraGO-Regular-77" d="M 4461 3373 
+L 3898 3373 
+L 3283 410 
+L 2650 3373 
+L 1990 3373 
+L 1325 410 
+L 717 3373 
+L 128 3373 
+L 915 0 
+L 1696 0 
+L 2304 2842 
+L 2893 0 
+L 3693 0 
+L 4461 3373 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#FiraGO-Regular-57"/>
+       <use xlink:href="#FiraGO-Regular-65" x="82.599991"/>
+       <use xlink:href="#FiraGO-Regular-62" x="136.999985"/>
+       <use xlink:href="#FiraGO-Regular-20" x="195.599976"/>
+       <use xlink:href="#FiraGO-Regular-62" x="222.09996"/>
+       <use xlink:href="#FiraGO-Regular-72" x="280.699951"/>
+       <use xlink:href="#FiraGO-Regular-6f" x="318.999939"/>
+       <use xlink:href="#FiraGO-Regular-77" x="377.399933"/>
+       <use xlink:href="#FiraGO-Regular-73" x="449.099915"/>
+       <use xlink:href="#FiraGO-Regular-69" x="495.799911"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="523.399902"/>
+       <use xlink:href="#FiraGO-Regular-67" x="581.299896"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_23">
+      <path d="M 122.8749 271.704209 
+L 479.9949 271.704209 
+" clip-path="url(#p079822128a)" style="fill: none; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round"/>
+     </g>
+     <g id="text_24">
+      <!-- Calendar -->
+      <g style="fill: #262626" transform="translate(75.484338 275.334209)scale(0.0968 -0.0968)">
+       <use xlink:href="#FiraGO-Regular-43"/>
+       <use xlink:href="#FiraGO-Regular-61" x="55.999985"/>
+       <use xlink:href="#FiraGO-Regular-6c" x="110.399979"/>
+       <use xlink:href="#FiraGO-Regular-65" x="139.799973"/>
+       <use xlink:href="#FiraGO-Regular-6e" x="194.199966"/>
+       <use xlink:href="#FiraGO-Regular-64" x="252.09996"/>
+       <use xlink:href="#FiraGO-Regular-61" x="311.099945"/>
+       <use xlink:href="#FiraGO-Regular-72" x="365.499939"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 122.8749 21.018991 
+L 360.554667 21.018991 
+L 360.554667 28.732383 
+L 122.8749 28.732383 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 122.8749 40.30247 
+L 307.002718 40.30247 
+L 307.002718 48.015861 
+L 122.8749 48.015861 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 122.8749 59.585948 
+L 285.469373 59.585948 
+L 285.469373 67.299339 
+L 122.8749 67.299339 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 122.8749 78.869426 
+L 220.911029 78.869426 
+L 220.911029 86.582817 
+L 122.8749 86.582817 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 122.8749 98.152904 
+L 255.806305 98.152904 
+L 255.806305 105.866296 
+L 122.8749 105.866296 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 122.8749 117.436383 
+L 188.433826 117.436383 
+L 188.433826 125.149774 
+L 122.8749 125.149774 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 122.8749 136.719861 
+L 142.990755 136.719861 
+L 142.990755 144.433252 
+L 122.8749 144.433252 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 122.8749 156.003339 
+L 137.779393 156.003339 
+L 137.779393 163.71673 
+L 122.8749 163.71673 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 122.8749 175.286817 
+L 130.858706 175.286817 
+L 130.858706 183.000209 
+L 122.8749 183.000209 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 122.8749 194.570296 
+L 128.96177 194.570296 
+L 128.96177 202.283687 
+L 122.8749 202.283687 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 122.8749 213.853774 
+L 127.502589 213.853774 
+L 127.502589 221.567165 
+L 122.8749 221.567165 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 122.8749 233.137252 
+L 125.355508 233.137252 
+L 125.355508 240.850643 
+L 122.8749 240.850643 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 122.8749 252.42073 
+L 126.085099 252.42073 
+L 126.085099 260.134122 
+L 122.8749 260.134122 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 122.8749 271.704209 
+L 124.646763 271.704209 
+L 124.646763 279.4176 
+L 122.8749 279.4176 
+z
+" clip-path="url(#p079822128a)" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 122.8749 13.3056 
+L 462.989186 13.3056 
+L 462.989186 21.018991 
+L 122.8749 21.018991 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 122.8749 32.589078 
+L 446.500438 32.589078 
+L 446.500438 40.30247 
+L 122.8749 40.30247 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 122.8749 51.872557 
+L 414.523525 51.872557 
+L 414.523525 59.585948 
+L 122.8749 59.585948 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 122.8749 71.156035 
+L 379.461486 71.156035 
+L 379.461486 78.869426 
+L 122.8749 78.869426 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 122.8749 90.439513 
+L 288.929717 90.439513 
+L 288.929717 98.152904 
+L 122.8749 98.152904 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 122.8749 109.722991 
+L 264.47801 109.722991 
+L 264.47801 117.436383 
+L 122.8749 117.436383 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 122.8749 129.00647 
+L 207.757553 129.00647 
+L 207.757553 136.719861 
+L 122.8749 136.719861 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 122.8749 148.289948 
+L 180.741856 148.289948 
+L 180.741856 156.003339 
+L 122.8749 156.003339 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 122.8749 167.573426 
+L 146.680399 167.573426 
+L 146.680399 175.286817 
+L 122.8749 175.286817 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 122.8749 186.856904 
+L 143.636964 186.856904 
+L 143.636964 194.570296 
+L 122.8749 194.570296 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 122.8749 206.140383 
+L 140.364229 206.140383 
+L 140.364229 213.853774 
+L 122.8749 213.853774 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 122.8749 225.423861 
+L 138.592366 225.423861 
+L 138.592366 233.137252 
+L 122.8749 233.137252 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 122.8749 244.707339 
+L 128.544861 244.707339 
+L 128.544861 252.42073 
+L 122.8749 252.42073 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 122.8749 263.990817 
+L 127.398362 263.990817 
+L 127.398362 271.704209 
+L 122.8749 271.704209 
+z
+" clip-path="url(#p079822128a)" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.771339; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 122.8749 292.7232 
+L 122.8749 -0 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 479.9949 292.7232 
+L 479.9949 -0 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 122.8749 292.7232 
+L 479.9949 292.7232 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 122.8749 0 
+L 479.9949 0 
+" style="fill: none; stroke: #ffffff; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_35">
+     <path d="M 379.61935 287.8832 
+L 473.2189 287.8832 
+Q 475.1549 287.8832 475.1549 285.9472 
+L 475.1549 258.592125 
+Q 475.1549 256.656125 473.2189 256.656125 
+L 379.61935 256.656125 
+Q 377.68335 256.656125 377.68335 258.592125 
+L 377.68335 285.9472 
+Q 377.68335 287.8832 379.61935 287.8832 
+z
+" style="fill: #eaeaf2; opacity: 0.8; stroke: #cccccc; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_36">
+     <path d="M 381.55535 267.788125 
+L 400.91535 267.788125 
+L 400.91535 261.012125 
+L 381.55535 261.012125 
+z
+" style="fill: #0173b2; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_25">
+     <!-- data collected -->
+     <g style="fill: #262626" transform="translate(408.65935 267.788125)scale(0.0968 -0.0968)">
+      <use xlink:href="#FiraGO-Regular-64"/>
+      <use xlink:href="#FiraGO-Regular-61" x="58.999985"/>
+      <use xlink:href="#FiraGO-Regular-74" x="113.399979"/>
+      <use xlink:href="#FiraGO-Regular-61" x="149.499969"/>
+      <use xlink:href="#FiraGO-Regular-20" x="203.899963"/>
+      <use xlink:href="#FiraGO-Regular-63" x="230.399948"/>
+      <use xlink:href="#FiraGO-Regular-6f" x="278.099945"/>
+      <use xlink:href="#FiraGO-Regular-6c" x="336.499939"/>
+      <use xlink:href="#FiraGO-Regular-6c" x="365.899933"/>
+      <use xlink:href="#FiraGO-Regular-65" x="395.299927"/>
+      <use xlink:href="#FiraGO-Regular-63" x="449.699921"/>
+      <use xlink:href="#FiraGO-Regular-74" x="497.399918"/>
+      <use xlink:href="#FiraGO-Regular-65" x="533.499908"/>
+      <use xlink:href="#FiraGO-Regular-64" x="587.899902"/>
+     </g>
+    </g>
+    <g id="patch_37">
+     <path d="M 381.55535 281.949663 
+L 400.91535 281.949663 
+L 400.91535 275.173663 
+L 381.55535 275.173663 
+z
+" style="fill: #de8f05; fill-opacity: 0.75; stroke: #ffffff; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_26">
+     <!-- data shared -->
+     <g style="fill: #262626" transform="translate(408.65935 281.949663)scale(0.0968 -0.0968)">
+      <use xlink:href="#FiraGO-Regular-64"/>
+      <use xlink:href="#FiraGO-Regular-61" x="58.999985"/>
+      <use xlink:href="#FiraGO-Regular-74" x="113.399979"/>
+      <use xlink:href="#FiraGO-Regular-61" x="149.499969"/>
+      <use xlink:href="#FiraGO-Regular-20" x="203.899963"/>
+      <use xlink:href="#FiraGO-Regular-73" x="230.399948"/>
+      <use xlink:href="#FiraGO-Regular-68" x="277.099945"/>
+      <use xlink:href="#FiraGO-Regular-61" x="334.999939"/>
+      <use xlink:href="#FiraGO-Regular-72" x="389.399933"/>
+      <use xlink:href="#FiraGO-Regular-65" x="427.699921"/>
+      <use xlink:href="#FiraGO-Regular-64" x="482.099915"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p079822128a">
+   <rect x="122.8749" y="0" width="357.12" height="292.7232"/>
+  </clipPath>
+ </defs>
+</svg>

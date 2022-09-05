@@ -1,0 +1,533 @@
+type,data_type,purpose,count
+data_shared,Email address,"Fraud prevention, security, and compliance",473
+data_shared,User IDs,Analytics,2172
+data_shared,User IDs,"Fraud prevention, security, and compliance",798
+data_shared,User IDs,Account management,1040
+data_shared,Photos,Analytics,75
+data_shared,Photos,"Fraud prevention, security, and compliance",193
+data_shared,Files and docs,App functionality,344
+data_shared,Files and docs,Analytics,63
+data_shared,Files and docs,"Fraud prevention, security, and compliance",54
+data_shared,App interactions,Analytics,6414
+data_shared,App interactions,"Fraud prevention, security, and compliance",1954
+data_shared,In-app search history,Analytics,646
+data_shared,Other user-generated content,Analytics,331
+data_shared,Other user-generated content,Advertising or marketing,110
+data_shared,Other user-generated content,"Fraud prevention, security, and compliance",124
+data_shared,Other user-generated content,Personalization,136
+data_shared,Other actions,App functionality,1059
+data_shared,Other actions,Analytics,2465
+data_shared,Other actions,Developer communications,243
+data_shared,Other actions,Advertising or marketing,1722
+data_shared,Other actions,"Fraud prevention, security, and compliance",1064
+data_shared,Other actions,Personalization,563
+data_shared,Other actions,Account management,98
+data_shared,Crash logs,Analytics,7316
+data_shared,Crash logs,"Fraud prevention, security, and compliance",1046
+data_shared,Diagnostics,Analytics,6642
+data_shared,Diagnostics,"Fraud prevention, security, and compliance",1514
+data_shared,Other app performance data,Analytics,3557
+data_shared,Other app performance data,"Fraud prevention, security, and compliance",790
+data_shared,Device or other IDs,App functionality,3396
+data_shared,Device or other IDs,Analytics,8125
+data_shared,Device or other IDs,"Fraud prevention, security, and compliance",2834
+data_collected,Approximate location,App functionality,4020
+data_collected,Approximate location,Analytics,5466
+data_collected,Approximate location,"Fraud prevention, security, and compliance",2653
+data_collected,Approximate location,Personalization,2014
+data_collected,Approximate location,Account management,684
+data_collected,Email address,App functionality,7340
+data_collected,Email address,Developer communications,3025
+data_collected,Email address,Advertising or marketing,2216
+data_collected,Email address,"Fraud prevention, security, and compliance",2410
+data_collected,Email address,Account management,7220
+data_collected,User IDs,App functionality,7223
+data_collected,User IDs,Analytics,4844
+data_collected,User IDs,Developer communications,2213
+data_collected,User IDs,Advertising or marketing,2509
+data_collected,User IDs,"Fraud prevention, security, and compliance",2898
+data_collected,User IDs,Personalization,2368
+data_collected,User IDs,Account management,5560
+data_collected,Other in-app messages,App functionality,2062
+data_collected,Other in-app messages,Analytics,380
+data_collected,Other in-app messages,Developer communications,585
+data_collected,Photos,App functionality,3597
+data_collected,Photos,Analytics,353
+data_collected,Photos,Developer communications,138
+data_collected,Photos,Advertising or marketing,87
+data_collected,Photos,"Fraud prevention, security, and compliance",467
+data_collected,Photos,Personalization,619
+data_collected,Photos,Account management,692
+data_collected,Videos,App functionality,1251
+data_collected,Videos,Analytics,178
+data_collected,Videos,Advertising or marketing,36
+data_collected,Videos,"Fraud prevention, security, and compliance",171
+data_collected,Voice or sound recordings,Analytics,120
+data_collected,Voice or sound recordings,Advertising or marketing,11
+data_collected,Other audio files,Analytics,54
+data_collected,Other audio files,"Fraud prevention, security, and compliance",33
+data_collected,Files and docs,App functionality,1031
+data_collected,Files and docs,Analytics,166
+data_collected,Files and docs,Advertising or marketing,45
+data_collected,Files and docs,Account management,133
+data_collected,App interactions,App functionality,3594
+data_collected,App interactions,Analytics,12185
+data_collected,App interactions,"Fraud prevention, security, and compliance",2654
+data_collected,App interactions,Personalization,2446
+data_collected,In-app search history,App functionality,1425
+data_collected,In-app search history,Analytics,1825
+data_collected,In-app search history,Personalization,944
+data_collected,Other user-generated content,App functionality,2310
+data_collected,Other user-generated content,Analytics,1166
+data_collected,Other user-generated content,Advertising or marketing,213
+data_collected,Other user-generated content,"Fraud prevention, security, and compliance",374
+data_collected,Other user-generated content,Personalization,712
+data_collected,Other user-generated content,Account management,258
+data_collected,Other actions,App functionality,2821
+data_collected,Other actions,Analytics,4887
+data_collected,Other actions,Developer communications,473
+data_collected,Other actions,Advertising or marketing,2053
+data_collected,Other actions,"Fraud prevention, security, and compliance",1454
+data_collected,Other actions,Personalization,1490
+data_collected,Other actions,Account management,331
+data_collected,Diagnostics,Analytics,12106
+data_collected,Diagnostics,"Fraud prevention, security, and compliance",2162
+data_collected,Other app performance data,Analytics,6296
+data_collected,Other app performance data,"Fraud prevention, security, and compliance",1043
+data_collected,Device or other IDs,App functionality,8357
+data_collected,Device or other IDs,Analytics,12352
+data_collected,Device or other IDs,"Fraud prevention, security, and compliance",4937
+data_collected,Device or other IDs,Account management,3903
+data_shared,User payment info,Account management,129
+data_collected,Precise location,App functionality,2275
+data_collected,Precise location,Analytics,1013
+data_collected,Name,App functionality,5874
+data_collected,Name,Account management,4791
+data_collected,User payment info,App functionality,1218
+data_collected,Crash logs,Analytics,13628
+data_collected,Voice or sound recordings,App functionality,795
+data_collected,Contacts,App functionality,687
+data_collected,Device or other IDs,Advertising or marketing,8693
+data_collected,Name,Analytics,1063
+data_collected,Address,App functionality,1670
+data_collected,Phone number,App functionality,2557
+data_collected,Purchase history,App functionality,4599
+data_shared,Approximate location,Analytics,4421
+data_shared,Approximate location,Advertising or marketing,4881
+data_shared,Approximate location,"Fraud prevention, security, and compliance",2043
+data_shared,App interactions,Advertising or marketing,3718
+data_shared,Diagnostics,Advertising or marketing,1945
+data_shared,Device or other IDs,Advertising or marketing,8978
+data_shared,Name,App functionality,1096
+data_shared,Other in-app messages,App functionality,486
+data_shared,Voice or sound recordings,App functionality,210
+data_collected,Purchase history,Analytics,4219
+data_collected,Purchase history,"Fraud prevention, security, and compliance",2520
+data_collected,Installed apps,Analytics,847
+data_shared,Approximate location,App functionality,2005
+data_shared,Precise location,App functionality,995
+data_shared,Crash logs,App functionality,1775
+data_collected,Precise location,"Fraud prevention, security, and compliance",438
+data_collected,Precise location,Personalization,786
+data_collected,Sexual orientation,App functionality,481
+data_collected,Sexual orientation,Personalization,354
+data_collected,Sexual orientation,Account management,214
+data_collected,Other info,App functionality,2235
+data_collected,Other info,Account management,1411
+data_shared,Precise location,Analytics,830
+data_shared,Precise location,Advertising or marketing,868
+data_shared,Precise location,"Fraud prevention, security, and compliance",204
+data_shared,Name,Account management,679
+data_shared,Email address,App functionality,1164
+data_shared,Email address,Account management,987
+data_shared,User IDs,App functionality,2015
+data_shared,Address,App functionality,465
+data_shared,Address,Account management,249
+data_shared,Phone number,App functionality,628
+data_shared,Phone number,Account management,360
+data_shared,User payment info,App functionality,619
+data_shared,User payment info,"Fraud prevention, security, and compliance",255
+data_collected,Name,"Fraud prevention, security, and compliance",1409
+data_collected,Address,"Fraud prevention, security, and compliance",603
+data_collected,Address,Account management,1100
+data_collected,Phone number,"Fraud prevention, security, and compliance",1025
+data_collected,Phone number,Account management,2167
+data_collected,Purchase history,Advertising or marketing,2376
+data_collected,Purchase history,Personalization,1668
+data_collected,App interactions,Advertising or marketing,4097
+data_shared,Purchase history,App functionality,1143
+data_shared,Purchase history,Analytics,2065
+data_shared,Purchase history,Advertising or marketing,1869
+data_shared,Diagnostics,App functionality,1802
+data_shared,Other app performance data,App functionality,1140
+data_collected,Approximate location,Advertising or marketing,4165
+data_collected,Crash logs,App functionality,3549
+data_collected,Diagnostics,App functionality,3269
+data_collected,Diagnostics,Advertising or marketing,1856
+data_collected,Other app performance data,App functionality,2074
+data_shared,Purchase history,"Fraud prevention, security, and compliance",602
+data_shared,App interactions,App functionality,1543
+data_collected,Precise location,Advertising or marketing,736
+data_shared,Precise location,Developer communications,123
+data_shared,Precise location,Personalization,389
+data_shared,App interactions,Developer communications,577
+data_shared,App interactions,Personalization,954
+data_shared,Crash logs,Developer communications,418
+data_shared,Crash logs,Advertising or marketing,1405
+data_shared,Crash logs,Personalization,343
+data_shared,Diagnostics,Developer communications,428
+data_shared,Diagnostics,Personalization,355
+data_shared,Device or other IDs,Developer communications,1212
+data_shared,Device or other IDs,Personalization,1493
+data_shared,Approximate location,Personalization,985
+data_shared,Other app performance data,Advertising or marketing,1120
+data_shared,Other app performance data,Personalization,406
+data_collected,Crash logs,Advertising or marketing,1285
+data_collected,Crash logs,"Fraud prevention, security, and compliance",1673
+data_collected,Crash logs,Personalization,374
+data_collected,Diagnostics,Personalization,499
+data_collected,Other app performance data,Advertising or marketing,1126
+data_collected,Other app performance data,Personalization,526
+data_collected,Device or other IDs,Personalization,2729
+data_shared,Email address,Developer communications,520
+data_collected,Fitness info,App functionality,526
+data_collected,Emails,App functionality,504
+data_collected,Installed apps,Advertising or marketing,421
+data_shared,Videos,App functionality,287
+data_collected,Name,Personalization,1834
+data_collected,Other info,Analytics,1032
+data_collected,Other info,Advertising or marketing,645
+data_collected,Other info,Personalization,1090
+data_collected,Other in-app messages,"Fraud prevention, security, and compliance",489
+data_collected,Contacts,Analytics,161
+data_collected,Email address,Analytics,1515
+data_shared,Photos,App functionality,760
+data_shared,Device or other IDs,Account management,1027
+data_collected,Email address,Personalization,1421
+data_collected,Address,Analytics,278
+data_collected,Address,Personalization,380
+data_collected,Phone number,Analytics,358
+data_collected,Phone number,Developer communications,533
+data_collected,Phone number,Personalization,359
+data_collected,Race and ethnicity,App functionality,195
+data_collected,Race and ethnicity,Analytics,60
+data_collected,Race and ethnicity,Personalization,96
+data_collected,Race and ethnicity,Account management,42
+data_collected,Sexual orientation,Analytics,172
+data_collected,Health info,App functionality,431
+data_collected,Health info,Account management,44
+data_collected,Name,Developer communications,1551
+data_collected,Sexual orientation,Developer communications,46
+data_collected,Other info,"Fraud prevention, security, and compliance",800
+data_collected,User payment info,"Fraud prevention, security, and compliance",518
+data_collected,Purchase history,Developer communications,615
+data_collected,Purchase history,Account management,1079
+data_collected,Other financial info,App functionality,290
+data_collected,Other financial info,"Fraud prevention, security, and compliance",143
+data_collected,App interactions,Developer communications,983
+data_collected,Device or other IDs,Developer communications,2599
+data_shared,Name,"Fraud prevention, security, and compliance",430
+data_shared,Email address,Advertising or marketing,933
+data_shared,Address,"Fraud prevention, security, and compliance",221
+data_shared,Phone number,"Fraud prevention, security, and compliance",279
+data_collected,Name,Advertising or marketing,1137
+data_collected,User payment info,Account management,419
+data_collected,Web browsing history,Analytics,185
+data_shared,Photos,Advertising or marketing,43
+data_shared,User IDs,Developer communications,739
+data_shared,User IDs,Advertising or marketing,1790
+data_shared,User IDs,Personalization,622
+data_collected,Approximate location,Developer communications,850
+data_collected,Phone number,Advertising or marketing,429
+data_collected,Contacts,"Fraud prevention, security, and compliance",80
+data_shared,Approximate location,Developer communications,430
+data_shared,Approximate location,Account management,270
+data_shared,Purchase history,Personalization,330
+data_collected,Installed apps,Personalization,197
+data_shared,In-app search history,Advertising or marketing,257
+data_collected,Precise location,Account management,202
+data_collected,Sexual orientation,"Fraud prevention, security, and compliance",77
+data_collected,Other in-app messages,Account management,191
+data_collected,Crash logs,Developer communications,679
+data_collected,Other app performance data,Account management,215
+data_collected,App interactions,Account management,472
+data_collected,Political or religious beliefs,Personalization,84
+data_collected,Other in-app messages,Personalization,260
+data_collected,Other in-app messages,Advertising or marketing,220
+data_shared,Email address,Analytics,568
+data_collected,Other financial info,Analytics,66
+data_collected,Other financial info,Personalization,52
+data_collected,Emails,Account management,399
+data_shared,In-app search history,App functionality,294
+data_shared,In-app search history,"Fraud prevention, security, and compliance",51
+data_collected,In-app search history,"Fraud prevention, security, and compliance",158
+data_collected,Other info,Developer communications,314
+data_collected,Health info,Personalization,154
+data_collected,Fitness info,Personalization,193
+data_shared,Other in-app messages,Analytics,142
+data_shared,Other in-app messages,Developer communications,249
+data_shared,Purchase history,Account management,219
+data_shared,App interactions,Account management,214
+data_shared,In-app search history,Developer communications,98
+data_shared,Other app performance data,Developer communications,303
+data_shared,Name,Developer communications,366
+data_collected,Credit score,App functionality,95
+data_collected,User payment info,Analytics,190
+data_collected,User payment info,Developer communications,52
+data_collected,User payment info,Advertising or marketing,70
+data_collected,User payment info,Personalization,97
+data_collected,Other financial info,Developer communications,31
+data_collected,Other financial info,Advertising or marketing,44
+data_collected,Other user-generated content,Developer communications,183
+data_shared,Web browsing history,Analytics,81
+data_shared,Web browsing history,Advertising or marketing,88
+data_shared,Web browsing history,"Fraud prevention, security, and compliance",27
+data_collected,Web browsing history,Advertising or marketing,136
+data_collected,Web browsing history,"Fraud prevention, security, and compliance",61
+data_shared,Photos,Personalization,129
+data_collected,Installed apps,"Fraud prevention, security, and compliance",199
+data_collected,Credit score,"Fraud prevention, security, and compliance",64
+data_collected,Emails,Advertising or marketing,192
+data_collected,SMS or MMS,App functionality,175
+data_collected,SMS or MMS,Advertising or marketing,25
+data_collected,SMS or MMS,"Fraud prevention, security, and compliance",64
+data_collected,SMS or MMS,Account management,79
+data_collected,Address,Advertising or marketing,303
+data_shared,Race and ethnicity,Analytics,33
+data_collected,Diagnostics,Developer communications,570
+data_shared,Other info,App functionality,493
+data_shared,Other info,Account management,283
+data_shared,Name,Analytics,418
+data_shared,Name,Personalization,441
+data_shared,Purchase history,Developer communications,223
+data_collected,Videos,Personalization,135
+data_collected,Voice or sound recordings,Personalization,77
+data_shared,Emails,App functionality,154
+data_shared,Emails,Developer communications,113
+data_shared,Emails,Account management,116
+data_shared,Installed apps,App functionality,182
+data_shared,Installed apps,Analytics,365
+data_shared,Installed apps,Advertising or marketing,267
+data_shared,Installed apps,"Fraud prevention, security, and compliance",103
+data_shared,Installed apps,Personalization,92
+data_shared,Installed apps,Account management,48
+data_shared,Crash logs,Account management,138
+data_shared,Diagnostics,Account management,119
+data_shared,Other app performance data,Account management,108
+data_collected,In-app search history,Advertising or marketing,411
+data_collected,Installed apps,App functionality,556
+data_shared,Other audio files,App functionality,109
+data_collected,Other audio files,App functionality,272
+data_shared,Name,Advertising or marketing,527
+data_shared,Other info,Advertising or marketing,384
+data_shared,Email address,Personalization,397
+data_shared,Address,Analytics,175
+data_shared,Address,Developer communications,55
+data_shared,Address,Advertising or marketing,167
+data_shared,Address,Personalization,114
+data_shared,In-app search history,Personalization,229
+data_collected,Address,Developer communications,132
+data_collected,In-app search history,Developer communications,168
+data_shared,Credit score,App functionality,60
+data_shared,Credit score,"Fraud prevention, security, and compliance",20
+data_collected,Credit score,Analytics,21
+data_collected,Credit score,Developer communications,11
+data_collected,Credit score,Account management,44
+data_shared,Race and ethnicity,Advertising or marketing,51
+data_shared,Political or religious beliefs,Advertising or marketing,50
+data_shared,Sexual orientation,Advertising or marketing,76
+data_shared,Other info,Analytics,374
+data_shared,Other info,"Fraud prevention, security, and compliance",241
+data_collected,Race and ethnicity,Advertising or marketing,63
+data_collected,Political or religious beliefs,App functionality,167
+data_collected,Political or religious beliefs,Advertising or marketing,41
+data_collected,Sexual orientation,Advertising or marketing,115
+data_shared,Phone number,Personalization,123
+data_shared,Race and ethnicity,Personalization,64
+data_shared,Political or religious beliefs,Personalization,63
+data_shared,Sexual orientation,Personalization,97
+data_shared,Other info,Personalization,238
+data_shared,Other financial info,App functionality,128
+data_shared,Health info,Personalization,50
+data_shared,Fitness info,Personalization,78
+data_shared,Videos,Personalization,78
+data_shared,Music files,App functionality,104
+data_shared,Calendar events,App functionality,81
+data_shared,Other user-generated content,App functionality,428
+data_shared,Web browsing history,App functionality,68
+data_collected,Precise location,Developer communications,197
+data_collected,Contacts,Personalization,186
+data_collected,Contacts,Account management,147
+data_collected,Web browsing history,App functionality,158
+data_collected,Web browsing history,Personalization,102
+data_shared,Fitness info,App functionality,110
+data_shared,Phone number,Advertising or marketing,222
+data_shared,Phone number,Analytics,176
+data_collected,Contacts,Developer communications,49
+data_collected,Contacts,Advertising or marketing,74
+data_collected,Crash logs,Account management,246
+data_collected,Diagnostics,Account management,243
+data_collected,Other app performance data,Developer communications,427
+data_shared,Health info,App functionality,76
+data_collected,Fitness info,Analytics,176
+data_collected,Fitness info,Advertising or marketing,43
+data_collected,Calendar events,App functionality,200
+data_shared,SMS or MMS,App functionality,43
+data_shared,SMS or MMS,Account management,21
+data_shared,Contacts,App functionality,89
+data_shared,Photos,Account management,125
+data_collected,Emails,Developer communications,276
+data_collected,Emails,"Fraud prevention, security, and compliance",154
+data_collected,Political or religious beliefs,Analytics,51
+data_collected,Political or religious beliefs,"Fraud prevention, security, and compliance",26
+data_collected,Political or religious beliefs,Account management,33
+data_collected,Other financial info,Account management,94
+data_collected,Health info,Analytics,135
+data_collected,Health info,"Fraud prevention, security, and compliance",31
+data_collected,Fitness info,"Fraud prevention, security, and compliance",27
+data_collected,Fitness info,Account management,48
+data_collected,Videos,Developer communications,57
+data_collected,Videos,Account management,129
+data_collected,Voice or sound recordings,"Fraud prevention, security, and compliance",91
+data_collected,Voice or sound recordings,Account management,43
+data_collected,Music files,App functionality,259
+data_collected,Music files,Analytics,47
+data_collected,Music files,Developer communications,24
+data_collected,Music files,Advertising or marketing,31
+data_collected,Music files,"Fraud prevention, security, and compliance",36
+data_collected,Music files,Personalization,56
+data_collected,Music files,Account management,23
+data_collected,Other audio files,Account management,22
+data_collected,Files and docs,Developer communications,59
+data_collected,Files and docs,"Fraud prevention, security, and compliance",139
+data_collected,Files and docs,Personalization,98
+data_collected,Calendar events,Analytics,48
+data_collected,Calendar events,Developer communications,28
+data_collected,Calendar events,Advertising or marketing,32
+data_collected,Calendar events,"Fraud prevention, security, and compliance",28
+data_collected,Calendar events,Personalization,52
+data_collected,Calendar events,Account management,26
+data_collected,In-app search history,Account management,75
+data_collected,Installed apps,Developer communications,143
+data_collected,Installed apps,Account management,81
+data_collected,Web browsing history,Developer communications,41
+data_collected,Web browsing history,Account management,33
+data_shared,Phone number,Developer communications,162
+data_shared,User payment info,Developer communications,26
+data_shared,Race and ethnicity,App functionality,50
+data_shared,Photos,Developer communications,48
+data_shared,Web browsing history,Developer communications,24
+data_shared,Political or religious beliefs,App functionality,37
+data_shared,Sexual orientation,App functionality,99
+data_shared,Other in-app messages,"Fraud prevention, security, and compliance",133
+data_collected,Emails,Personalization,109
+data_shared,Other user-generated content,Account management,69
+data_shared,Web browsing history,Account management,16
+data_collected,Fitness info,Developer communications,32
+data_collected,Emails,Analytics,145
+data_collected,Health info,Advertising or marketing,35
+data_shared,Other user-generated content,Developer communications,69
+data_shared,User payment info,Analytics,82
+data_collected,Voice or sound recordings,Developer communications,23
+data_shared,Other financial info,Personalization,16
+data_shared,Race and ethnicity,"Fraud prevention, security, and compliance",24
+data_shared,Political or religious beliefs,"Fraud prevention, security, and compliance",23
+data_shared,Sexual orientation,"Fraud prevention, security, and compliance",32
+data_shared,Other financial info,Advertising or marketing,22
+data_shared,Health info,Advertising or marketing,18
+data_shared,Fitness info,Advertising or marketing,26
+data_collected,Race and ethnicity,"Fraud prevention, security, and compliance",15
+data_shared,Videos,"Fraud prevention, security, and compliance",56
+data_shared,Voice or sound recordings,"Fraud prevention, security, and compliance",26
+data_shared,Precise location,Account management,75
+data_shared,Race and ethnicity,Developer communications,24
+data_shared,Race and ethnicity,Account management,16
+data_shared,Political or religious beliefs,Analytics,24
+data_shared,Political or religious beliefs,Developer communications,20
+data_shared,Political or religious beliefs,Account management,7
+data_shared,Sexual orientation,Analytics,61
+data_shared,Sexual orientation,Developer communications,29
+data_shared,Sexual orientation,Account management,35
+data_shared,Other info,Developer communications,166
+data_shared,User payment info,Advertising or marketing,47
+data_shared,User payment info,Personalization,28
+data_shared,Credit score,Analytics,12
+data_shared,Credit score,Developer communications,7
+data_shared,Credit score,Advertising or marketing,6
+data_shared,Credit score,Personalization,8
+data_shared,Credit score,Account management,9
+data_shared,Other financial info,Analytics,28
+data_shared,Other financial info,Developer communications,15
+data_shared,Other financial info,"Fraud prevention, security, and compliance",54
+data_shared,Other financial info,Account management,23
+data_shared,Health info,Analytics,37
+data_shared,Health info,Developer communications,5
+data_shared,Health info,"Fraud prevention, security, and compliance",7
+data_shared,Health info,Account management,10
+data_shared,Fitness info,Analytics,61
+data_shared,Fitness info,Developer communications,8
+data_shared,Fitness info,"Fraud prevention, security, and compliance",8
+data_shared,Fitness info,Account management,18
+data_shared,Emails,Analytics,68
+data_shared,Emails,Advertising or marketing,91
+data_shared,Emails,"Fraud prevention, security, and compliance",66
+data_shared,Emails,Personalization,58
+data_shared,Other in-app messages,Advertising or marketing,111
+data_shared,Other in-app messages,Personalization,95
+data_shared,Other in-app messages,Account management,77
+data_shared,Videos,Analytics,34
+data_shared,Videos,Developer communications,25
+data_shared,Videos,Advertising or marketing,16
+data_shared,Videos,Account management,39
+data_shared,Voice or sound recordings,Analytics,22
+data_shared,Voice or sound recordings,Developer communications,13
+data_shared,Voice or sound recordings,Advertising or marketing,10
+data_shared,Voice or sound recordings,Personalization,15
+data_shared,Voice or sound recordings,Account management,18
+data_shared,Music files,Analytics,9
+data_shared,Music files,Developer communications,6
+data_shared,Music files,Advertising or marketing,8
+data_shared,Music files,"Fraud prevention, security, and compliance",7
+data_shared,Music files,Personalization,12
+data_shared,Music files,Account management,5
+data_shared,Other audio files,Analytics,9
+data_shared,Other audio files,Developer communications,6
+data_shared,Other audio files,Advertising or marketing,7
+data_shared,Other audio files,"Fraud prevention, security, and compliance",6
+data_shared,Other audio files,Personalization,10
+data_shared,Other audio files,Account management,6
+data_shared,Files and docs,Developer communications,27
+data_shared,Files and docs,Advertising or marketing,30
+data_shared,Files and docs,Personalization,30
+data_shared,Files and docs,Account management,43
+data_shared,Calendar events,Analytics,18
+data_shared,Calendar events,Developer communications,12
+data_shared,Calendar events,Advertising or marketing,12
+data_shared,Calendar events,"Fraud prevention, security, and compliance",9
+data_shared,Calendar events,Personalization,16
+data_shared,Calendar events,Account management,11
+data_shared,Contacts,Analytics,43
+data_shared,Contacts,Developer communications,11
+data_shared,Contacts,Advertising or marketing,36
+data_shared,Contacts,"Fraud prevention, security, and compliance",17
+data_shared,Contacts,Personalization,16
+data_shared,Contacts,Account management,38
+data_shared,In-app search history,Account management,31
+data_shared,Installed apps,Developer communications,73
+data_shared,Web browsing history,Personalization,47
+data_collected,Race and ethnicity,Developer communications,11
+data_collected,Political or religious beliefs,Developer communications,7
+data_collected,Credit score,Advertising or marketing,10
+data_collected,Credit score,Personalization,14
+data_collected,Health info,Developer communications,27
+data_collected,Other audio files,Developer communications,9
+data_collected,Other audio files,Advertising or marketing,7
+data_collected,Other audio files,Personalization,43
+data_collected,SMS or MMS,Analytics,33
+data_collected,SMS or MMS,Developer communications,31
+data_collected,SMS or MMS,Personalization,17
+data_shared,SMS or MMS,Analytics,11
+data_shared,SMS or MMS,Advertising or marketing,13
+data_shared,SMS or MMS,"Fraud prevention, security, and compliance",16
+data_shared,SMS or MMS,Personalization,9
+data_shared,SMS or MMS,Developer communications,16

@@ -1,0 +1,15 @@
+type,purpose,count
+data_shared,"Fraud prevention, security, and compliance",4242
+data_shared,Analytics,11785
+data_shared,Account management,2494
+data_shared,App functionality,6981
+data_shared,Advertising or marketing,10626
+data_shared,Personalization,2824
+data_shared,Developer communications,2399
+data_collected,App functionality,15656
+data_collected,Analytics,18286
+data_collected,"Fraud prevention, security, and compliance",8290
+data_collected,Personalization,7089
+data_collected,Account management,10596
+data_collected,Developer communications,6297
+data_collected,Advertising or marketing,11310

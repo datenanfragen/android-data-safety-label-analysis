@@ -1,0 +1,29 @@
+type,category,count
+data_shared,Personal info,4703
+data_shared,Photos and videos,965
+data_shared,Files and docs,383
+data_shared,App activity,7800
+data_shared,App info and performance,8833
+data_shared,Device or other IDs,11402
+data_collected,Location,7966
+data_collected,Personal info,12309
+data_collected,Messages,2776
+data_collected,Photos and videos,4072
+data_collected,Audio,996
+data_collected,Files and docs,1142
+data_collected,App activity,13991
+data_collected,App info and performance,15525
+data_collected,Device or other IDs,16316
+data_shared,Financial info,3145
+data_collected,Financial info,6793
+data_collected,Contacts,754
+data_shared,Location,6377
+data_shared,Messages,715
+data_shared,Audio,292
+data_collected,Health and fitness,839
+data_collected,Web browsing,272
+data_shared,Web browsing,154
+data_shared,Health and fitness,222
+data_shared,Calendar,85
+data_collected,Calendar,217
+data_shared,Contacts,119

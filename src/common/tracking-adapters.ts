@@ -161,21 +161,21 @@ const adapters: {
                 sdk_version: pr.library.libVersion,
             },
             device: {
-                hashed_idfa: pr.client.uuids.advertisingIdentifier, // md5(adid)
+                hashed_idfa: pr.client?.uuids.advertisingIdentifier, // md5(adid)
                 other_uuids: [
-                    pr.client.uuids.installationId,
-                    pr.client.uuids.vendorIdentifier,
-                    pr.client.uuids.androidId,
+                    pr.client?.uuids.installationId,
+                    pr.client?.uuids.vendorIdentifier,
+                    pr.client?.uuids.androidId,
                 ],
-                model: pr.client.platform,
-                os: concat(pr.client.osIdentifier, pr.client.osVersion),
-                language: pr.client.language,
-                carrier: pr.client.carrier,
-                width: pr.client.screen.resolution.split('x')[0],
-                height: pr.client.screen.resolution.split('x')[1],
+                model: pr.client?.platform,
+                os: concat(pr.client?.osIdentifier, pr.client?.osVersion),
+                language: pr.client?.language,
+                carrier: pr.client?.carrier,
+                width: pr.client?.screen.resolution.split('x')[0],
+                height: pr.client?.screen.resolution.split('x')[1],
             },
             user: {
-                country: pr.client.country,
+                country: pr.client?.country,
             },
         }),
     },

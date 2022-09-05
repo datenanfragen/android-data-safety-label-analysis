@@ -1,0 +1,77 @@
+type,data_type,count
+data_shared,Email address,2001
+data_shared,User IDs,3474
+data_shared,Photos,928
+data_shared,Files and docs,383
+data_shared,App interactions,7078
+data_shared,In-app search history,725
+data_shared,Other user-generated content,642
+data_shared,Other actions,2913
+data_shared,Crash logs,7677
+data_shared,Diagnostics,6997
+data_shared,Other app performance data,3806
+data_shared,Device or other IDs,11402
+data_collected,Approximate location,7093
+data_collected,Email address,9029
+data_collected,User IDs,8366
+data_collected,Other in-app messages,2351
+data_collected,Photos,4026
+data_collected,Videos,1326
+data_collected,Voice or sound recordings,836
+data_collected,Other audio files,302
+data_collected,Files and docs,1142
+data_collected,App interactions,12634
+data_collected,In-app search history,2331
+data_collected,Other user-generated content,2795
+data_collected,Other actions,5575
+data_collected,Diagnostics,12490
+data_collected,Other app performance data,6512
+data_collected,Device or other IDs,16316
+data_shared,User payment info,681
+data_collected,Precise location,2635
+data_collected,Name,7386
+data_collected,User payment info,1330
+data_collected,Crash logs,14224
+data_collected,Contacts,754
+data_collected,Address,2092
+data_collected,Phone number,3257
+data_collected,Purchase history,6269
+data_shared,Approximate location,5944
+data_shared,Name,1712
+data_shared,Other in-app messages,601
+data_shared,Voice or sound recordings,220
+data_collected,Installed apps,1315
+data_shared,Precise location,1647
+data_collected,Sexual orientation,615
+data_collected,Other info,3021
+data_shared,Address,696
+data_shared,Phone number,878
+data_shared,Purchase history,2692
+data_collected,Fitness info,562
+data_collected,Emails,673
+data_shared,Videos,349
+data_collected,Race and ethnicity,258
+data_collected,Health info,476
+data_collected,Other financial info,326
+data_collected,Web browsing history,272
+data_collected,Political or religious beliefs,206
+data_collected,Credit score,109
+data_shared,Web browsing history,154
+data_collected,SMS or MMS,196
+data_shared,Race and ethnicity,127
+data_shared,Other info,906
+data_shared,Emails,208
+data_shared,Installed apps,522
+data_shared,Other audio files,117
+data_shared,Credit score,65
+data_shared,Political or religious beliefs,108
+data_shared,Sexual orientation,195
+data_shared,Other financial info,153
+data_shared,Health info,138
+data_shared,Fitness info,165
+data_shared,Music files,112
+data_shared,Calendar events,85
+data_collected,Calendar events,217
+data_shared,SMS or MMS,56
+data_shared,Contacts,119
+data_collected,Music files,290
